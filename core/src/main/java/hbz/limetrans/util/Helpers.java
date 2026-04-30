@@ -17,7 +17,6 @@ import java.io.Writer;
 import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
 import java.nio.file.attribute.FileTime;
 import java.util.function.Consumer;
@@ -41,7 +40,7 @@ public class Helpers { // checkstyle-disable-line ClassDataAbstractionCoupling|C
     private static final long KB = 1024;
     private static final String[] DISPLAY_SIZE = new String[]{"B", "K", "M", "G", "T", "P", "E"};
 
-    private static final Path STATUS = Paths.get("/proc/self/status");
+    private static final Path STATUS = Path.of("/proc/self/status");
     private static final Pattern RSS_PATTERN = Pattern.compile("\\AVmRSS:\\s+(\\d+)\\s+kB");
 
     private static final TransformerFactory TRANSFORMER_FACTORY = TransformerFactory.newInstance();
@@ -143,7 +142,7 @@ public class Helpers { // checkstyle-disable-line ClassDataAbstractionCoupling|C
     }
 
     public static String slurpFile(final String aPath) throws IOException {
-        return new String(Files.readAllBytes(Paths.get(aPath)));
+        return new String(Files.readAllBytes(Path.of(aPath)));
     }
 
     public static String getResourcePath(final Class<?> aClass, final String aPath) throws IOException {
@@ -185,7 +184,7 @@ public class Helpers { // checkstyle-disable-line ClassDataAbstractionCoupling|C
         if (aTarget != null && getProperty("updateTestFiles", false)) {
             final String source = aSupplier.get();
             if (source != null) {
-                Files.move(Paths.get(source), Paths.get(aTarget), StandardCopyOption.REPLACE_EXISTING);
+                Files.move(Path.of(source), Path.of(aTarget), StandardCopyOption.REPLACE_EXISTING);
             }
         }
     }

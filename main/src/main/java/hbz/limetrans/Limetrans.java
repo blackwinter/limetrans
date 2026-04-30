@@ -33,7 +33,6 @@ import java.io.IOException;
 import java.io.UncheckedIOException;
 import java.nio.file.NoSuchFileException;
 import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.nio.file.attribute.FileTime;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -294,7 +293,7 @@ public class Limetrans { // checkstyle-disable-line ClassDataAbstractionCoupling
             }
 
             if (aSettings.containsSetting("path")) {
-                mVars.put("isil-path", Paths.get(aSettings.get("path"), isil).toString());
+                mVars.put("isil-path", Path.of(aSettings.get("path"), isil).toString());
             }
         }
 
@@ -346,7 +345,7 @@ public class Limetrans { // checkstyle-disable-line ClassDataAbstractionCoupling
         almaNewTimestampMap.setSeparator(",");
         almaNewTimestampMap.setExpectedColumns(-1);
 
-        final Path almaMapsPath = Paths.get("%s/alma/%s".formatted(
+        final Path almaMapsPath = Path.of("%s/alma/%s".formatted(
                     mVars.get("external-maps"), isil.getIsil()));
 
         try {
