@@ -17,7 +17,7 @@ gradle.rootProject {
             elasticsearch:  '8',
             elasticsearch8: '8.19.15',
             elasticsearch9: '9.4.0',
-            htsjdk:         '4.3.0',
+            htsjdk:         '5.0.0',
             jackson:        '2.21.2',
             jdk:            '25',
             junit:          '4.13.1',
