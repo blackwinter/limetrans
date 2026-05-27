@@ -139,7 +139,7 @@
             "flatten_graph",
             "string_normalizer",
             "snowball_german_umlaut",
-            "unique"
+            "remove_duplicates"
           ]
         },
         "search": {
@@ -157,7 +157,7 @@
             "hyphen_graph",
             "string_normalizer",
             "snowball_german_umlaut",
-            "unique"
+            "remove_duplicates"
           ]
         },
         // "search" w/o subwords (parts) and stemming
@@ -174,7 +174,7 @@
             "keyword_repeat",
             "icu_folding",
             "german_normalization",
-            "unique"
+            "remove_duplicates"
           ]
         },
         "keyword_normalized": {
