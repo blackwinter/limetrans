@@ -4044,6 +4044,9 @@
   "Extent" : {
     "extent" : "1 Online-Ressource (xxii, 359 Seiten) : Illustrationen, Diagramme ; 24 cm x 16.5 cm"
   },
+  "ClassifierLocal" : {
+    "classifier" : [ "ebc" ]
+  },
   "Description" : [ {
     "description" : "Literaturverzeichnis: Seite 351-356."
   } ],
@@ -4071,9 +4074,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-30-PQE" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "ebc" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "TWP"
@@ -7613,6 +7613,9 @@
   "Extent" : {
     "extent" : "XIII, 81 S., 46 Bildern : zahlr. Ill., graph. Darst."
   },
+  "ClassifierLocal" : {
+    "classifier" : [ "vitr." ]
+  },
   "OnlineAccess" : [ {
     "uri" : "http://digitale-objekte.hbz-nrw.de/storage2/2019/04/06/file_12/8295851.pdf",
     "relatedto" : "Inhaltsverzeichnis",
@@ -7623,9 +7626,6 @@
     "contact" : [ "B:DE-101" ],
     "format" : "application/pdf"
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "vitr." ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "WTD"
@@ -20769,6 +20769,9 @@
   "DateProper" : {
     "date" : [ "1880-" ]
   },
+  "ClassifierLocal" : {
+    "classifier" : [ "Vitr." ]
+  },
   "Description" : [ {
     "description" : "Hrsg. wechselt"
   }, {
@@ -20789,9 +20792,6 @@
     "identifierForLinkingEntry" : [ "(DE-605)HT008165916" ],
     "verifyingIdentifierForLinkingEntry" : [ "(DE-605)HT008165916" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "Vitr." ]
-  },
   "SubjectHeadings" : [ {
     "subject" : "Entwurf"
   } ],
@@ -27304,6 +27304,9 @@
   "Extent" : {
     "extent" : "229 S. : zahlr. Ill."
   },
+  "ClassifierLocal" : {
+    "classifier" : [ "vitr." ]
+  },
   "HostItemEntry" : [ {
     "controlNumber" : [ "(DE-605)HT002215277" ],
     "identifierForLinkingEntry" : [ "(DE-605)HT002215277" ],
@@ -27316,9 +27319,6 @@
     "identifierForLinkingEntry" : [ "(DE-605)CT001009832" ],
     "verifyingIdentifierForLinkingEntry" : [ "(DE-605)CT001009832" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "vitr." ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "KAQ"
@@ -52224,6 +52224,9 @@
   "FileCharacteristics" : [ {
     "encodingFormat" : [ "PDF" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "ebc" ]
+  },
   "Abstract" : {
     "abstract" : [ "Electric Motor Control: DC, AC, and BLDC Motors introduces practical drive techniques of electric motors to enable stable and efficient control of many application systems, also covering basic principles of high-performance motor control techniques, driving methods, control theories and power converters. Electric motor drive systems play a critical role in home appliances, motor vehicles, robotics, aerospace and transportation, heating ventilating and cooling equipment’s, robotics, industrial machinery and other commercial applications. The book provides engineers with drive techniques that will help them develop motor drive system for their applications. Includes practical solutions and control techniques for industrial motor drive applications currently in use Contains MATLAB/Simulink simulation files Enables engineers to understand the applications and advantages of electric motor drive systems." ]
   },
@@ -52250,9 +52253,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-89-EBL" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "ebc" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "XZV"
@@ -52354,6 +52354,9 @@
   "FileCharacteristics" : [ {
     "encodingFormat" : [ "PDF" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "wiley" ]
+  },
   "PersonContributor" : [ {
     "personName" : "Brown, Ian G.",
     "personIdentifier" : [ "(DE-588)12804893X" ],
@@ -52386,9 +52389,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-35-WIC" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "wiley" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "UFB"
@@ -53424,6 +53424,9 @@
   "Extent" : {
     "extent" : "1 Online-Ressource (190 Seiten) : Illustrationen"
   },
+  "ClassifierLocal" : {
+    "classifier" : [ "beck" ]
+  },
   "AdditionalPhysicalFormEntry" : [ {
     "relationshipInformation" : [ "Erscheint auch als" ],
     "note" : [ "Druck-Ausgabe" ],
@@ -53451,9 +53454,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-128-VEL", "ZDB-128-UMM" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "beck" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "QBL"
@@ -53678,6 +53678,9 @@
   "FileCharacteristics" : [ {
     "encodingFormat" : [ "PDF" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "ebc" ]
+  },
   "AdditionalPhysicalFormEntry" : [ {
     "relationshipInformation" : [ "Erscheint auch als" ],
     "note" : [ "Druck-Ausgabe" ],
@@ -53702,9 +53705,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-89-EBL", "ZDB-30-PQE" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "ebc" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "TZA"
@@ -53840,6 +53840,9 @@
   "FileCharacteristics" : [ {
     "encodingFormat" : [ "PDF" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "ebc" ]
+  },
   "Summary" : {
     "abstract" : [ "Wer einen Businessplan erstellt, braucht viel Energie, Zeit und Geduld. Aber es lohnt sich! Mit dem Businessplan erhalten Sie eine Art Grundriss für Ihr Geschäftsvorhaben. Dieser TaschenGuide bietet Ihnen eine Schritt-für-Schritt-Anleitung, die es Ihnen einfach macht, den für Sie geeigneten Businessplan zu erstellen. Er hilft, Fehler zu vermeiden und zeigt, worin sich gute von schlechten Businessplänen unterscheiden." ]
   },
@@ -53867,9 +53870,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-89-EBL" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "ebc" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "QAJ"
@@ -53965,6 +53965,9 @@
   "FileCharacteristics" : [ {
     "encodingFormat" : [ "PDF" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "ebc" ]
+  },
   "Summary" : {
     "abstract" : [ "In business, driving value is a key strategy and typically starts at the top of an organization. In today’s digital age, driving software value is also an important, and often overlooked, key strategy. Executives, and the corporate board, need to expect the highest level of business value from the software the organization is developing, buying, and selling. In today’s digital transformation marketplace, it is imperative that organizations start driving business value from software development initiatives. For many years, the cost of software development challenged organizations with questions such as: How do we allocate software development costs? Should these costs be considered an overhead expense? Are we getting the most value possible for our investment? A fundamental problem has been built into these questions - the focus on cost. In almost every other part of the organization, maximizing profit or, in the case of a not-for-profit, maximizing the funds available, provides a clear focus with metrics to determine success or failure. In theory, simply aligning software spending with the maximizing profit goals should be sufficient to avoid any questions about value for money. Unfortunately, this alignment hasn’t turned out to be so simple, and the questions persist, particularly at the strategic or application portfolio level. In this book, Michael D.S. Harris describes how a software business value culture-one where all stakeholders, including technology and business - have a clear understanding of the goals and expected business value from software development. The book shows readers how they can transform software development from a cost or profit center to a business value center. Only a culture of software as a value center enables an organization to constantly maximize business value flow through software development." ]
   },
@@ -53992,9 +53995,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-89-EBL", "ZDB-4-NLEBK" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "ebc" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "TWQ"
@@ -54090,6 +54090,9 @@
   "FileCharacteristics" : [ {
     "encodingFormat" : [ "PDF" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "ebc" ]
+  },
   "Summary" : {
     "abstract" : [ "This edited volume presents basic principles as well as advanced concepts of the computational modeling of steering systems. Moreover, the book includes the components and functionalities of modern steering system, which are presented comprehensively and in a practical way. The book is written by more than 15 leading experts from the automotive industry and its components suppliers. The target audience primarily comprises practicing engineers, developers, researchers as well as graduate students who want to specialize in this field." ]
   },
@@ -54131,9 +54134,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-89-EBL", "ZDB-22-CAN" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "ebc" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "WFM"
@@ -54341,6 +54341,9 @@
   "SeriesAddedEntryUniformTitle" : [ {
     "title" : [ "Energy systems" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "ebc" ]
+  },
   "Summary" : {
     "abstract" : [ "The analysis of energy systems is of paramount importance in modern societies, since it is fundamental to guarantee a sustainable economic development. It combines technical and economic research with a specific focus on quantitative modelling, in order to optimize the modalities of energy demand and supply globally. The book covers major advanced topics related to the analysis of energy by considering different aspects, namely management, planning and policies. The most recent trends, such as smart grids, transition from fossil fuels to renewables based energy systems and distributed generation, are also discussed in this book. Intended to be a collection of various contributions from experts all around the world, it includes latest research results, innovations and methodologies about the analysis of energy systems. The book also focuses to contribute to the current debate related to the evolution of energy systems, by discussing in an open way the pro’s and con’s without any pre-constitute point of view. Title is aimed to be a reference for the academic community, students and professionals with a wider interdisciplinary background. Key Features: Presents integration of renewable sources with conventional energy systems. Topic is addressed from a multidisciplinary point of view, i.e. economy, technical, modelling, planning. Investigates management and planning aspects of future energy supplies. Multidimensional nature of energy systems is highlighted and discussed. Contributes towards implementing policy measures to reduce primary energy consumptions and carbon footprint." ]
   },
@@ -54377,9 +54380,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-89-EBL" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "ebc" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "PUM"
@@ -54488,6 +54488,9 @@
   "FileCharacteristics" : [ {
     "encodingFormat" : [ "PDF" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "ebc" ]
+  },
   "Summary" : {
     "abstract" : [ "An Engineering Perspective, Eighth Edition, is written with an engineering perspective that includes mathematical models, providing a qualitative explanation of each subject that requires no mathematical background. Thoroughly updated throughout, this new edition moves away from introductory mechanic-level electronics to cover hot topics such as automotive camera systems and typical electronic camera systems, hybrid control, AUTOSAR (AUTomotive Open System ARchitecture) and vehicle networks. Comprehensive coverage of automotive electronics and control, including the latest technology in telematics, active safety, entertainment, and communications are also included. This book is the first port of call for control engineers, system engineers, and electronic engineers in automotive who need a thorough grounding in automotive electronics and control. From simple automotive electronic circuits, to the latest developments in telematics, active safety, entertainment, and communications, the book is also an ideal resource for more senior automotive engineers without a background in electronics or control who to work in the area or supervise specialists. Presents the full range of electrical/electronic theory that is applicable to modern automotive technology at a level progressing from basic theory and science, to detailed application to all major automotive systems and components. Features circuit diagrams that are representative of actual circuits used to perform relevant functions in automotive electronic systems. Discusses how the AUTOSAR middleware platform integrates with the low level electronics of automotive systems Provides a thorough understanding of automotive electronic technology at a level that is helpful to students, technicians, and industry engineers." ]
   },
@@ -54512,9 +54515,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-89-EBL" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "ebc" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "ZQS"
@@ -54634,6 +54634,9 @@
   "FileCharacteristics" : [ {
     "encodingFormat" : [ "PDF" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "ebc" ]
+  },
   "Summary" : {
     "abstract" : [ "Think Limbic verrät Ihnen, warum Menschen sich in manchen Situationen nach einem bestimmten Muster verhalten. Der Grund dafür liegt im Aufbau unseres Gehirns. Das eigentliche Steuerungs- und Machtzentrum des Menschen liegt nämlich nicht in seinem Großhirn, sondern in einer entwicklungsgeschichtlich weit älteren Hirnregion, dem limbischen System. Dieser Teil des Hirns übernimmt durch limbische Befehle einen Großteil der Steuerungs- und Koordinationsaufgaben. Dabei werden Verhaltensweisen bevorzugt, die sich in der Entwicklungsgeschichte des Menschen als erfolgreich bewährt haben. Wer diese limbischen Befehle kennt, kann die Muster, die unbewussten Handlungen zu Grunde liegen, besser verstehen und nutzen. Die praktischen Tipps und Maßnahmen bringen beim Verkaufen, bei der Mitarbeiterführung und im berüflichen Alltag erstaunliche Erfolge." ]
   },
@@ -54661,9 +54664,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-89-EBL" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "ebc" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "PZR"
@@ -55014,6 +55014,9 @@
   "Extent" : {
     "extent" : "1 Online-Ressource (224 Seiten)"
   },
+  "ClassifierLocal" : {
+    "classifier" : [ "ebc" ]
+  },
   "Abstract" : {
     "abstract" : [ "Wie beim Klöße essen, einer nach dem anderen. Ganz so einfach ist Prozessmanagement leider nicht. Aber richtig veranschaulicht, ist es oft auch nicht so schwer zu verstehen, wie es im ersten Moment scheint. Michael Huth führt Sie zügig in dieses Thema ein. Er erklärt, was Prozesse überhaupt sind, welche Bedeutung sie in Unternehmen haben und was die relevanten Begriffe sind. Danach wird das Phasenkonzept erläutert, die Prozessdokumentation, die Prozessbewertung, die Prozessoptimierung und einiges mehr. Zahlreiche Übungsaufgaben mit Lösungen helfen Ihnen, Ihr Wissen zu testen und zu festigen." ]
   },
@@ -55043,9 +55046,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-89-EBL", "ZDB-30-PQE" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "ebc" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "PZR"
@@ -55350,6 +55350,9 @@
     "title" : [ "Fehlzeiten-Report" ],
     "volume" : [ "2017" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "ebc" ]
+  },
   "Summary" : {
     "abstract" : [ "Der Fehlzeiten-Report, der jährlich als Buch erscheint, informiert umfassend über die Struktur und Entwicklung des Krankenstandes der Beschäftigten in der deutschen Wirtschaft und beleuchtet dabei detailliert einzelne Branchen. Der Fehlzeiten-Report 2017 fokussiert im diesjährigen Schwerpunkt das Thema ,,Krise und Gesundheit\" und beleuchtet es aus gesellschaftlicher, unternehmerischer und individueller Perspektive. Es wird aufgezeigt, welche Rolle das Betriebliche Gesundheitsmanagement für die Prävention und Bewältigung von Krisen spielen kann." ]
   },
@@ -55418,9 +55421,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-30-PQE", "ZDB-4-NLEBK", "ZDB-89-EBL" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "ebc" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "QAT"
@@ -55664,6 +55664,9 @@
     "title" : [ "Grundkurs des Steuerrechts" ],
     "volume" : [ "Band 4" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "ebc" ]
+  },
   "Summary" : {
     "abstract" : [ "Der Band stellt Grundbegriffe und systematische Zusammenhänge dar. Zahlreiche Beispiele und Übungsfälle verdeutlichen die wesentlichen Vorschriften Grafiken veranschaulichen schwierige Rechtsbereiche Prüfungsschemata in Form von Ablaufdiagrammen erleichtern die Lösung von Fällen Die 24. Auflage berücksichtigt alle wesentlichen Änderungen des Umsatzsteuergesetzes, u.a. durch das Gesetz zur Modernisierung des Besteuerungsverfahrens und das Gesetz zur Reform der Investmentbesteuerung sowie alle wichtigen Änderungen der UStDV. Darüber hinaus sind maßgebende BMF-Schreiben sowie die aktuellen Anpassungen des Umsatzsteuer-Anwendungserlasses eingearbeitet." ]
   },
@@ -55696,9 +55699,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-89-EBL", "ZDB-30-PQE" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "ebc" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "PTQN"
@@ -55951,6 +55951,9 @@
   "FileCharacteristics" : [ {
     "encodingFormat" : [ "PDF" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "ebc" ]
+  },
   "Summary" : {
     "abstract" : [ "Mit einer CNC-Fräsmaschine lassen sich komplexe Objekte schnell, präzise und reproduzierbar fertigen. Seitdem diese Technik auch für den Privat- und Kleingewerbebereich verfügbar ist, hat sich ihr Anwendungsspektrum um viele neue Möglichkeiten erweitert. Für den Einsteiger die Hürde jedoch oftmals groß, denn das Wissen, das es sich anzueignen gilt, scheint zunächst immens: Ein Zeichen- bzw. CAD- und CAM-Programm muss ebenso beherrscht werden können wie die jeweilige Steuerungssoftware der Maschine. Christian Rattat holt den interessierten Leser genau an dieser Hürde ab und begleitet ihn von der Anschaffung einer Maschine bis zum ersten selbst gefertigten Objekt. Er erklärt dem Leser anhand einer Stepcraft-Fräsmaschine, wie man diese aus einem Bausatz aufbaut, in Betrieb nimmt und damit aus 2D- und 3D-Modellen Werkstücke erzeugt. Mit fundiertem Hintergrundwissen, zahlreichen Tipps und Tricks sowie Anregungen zu weiterführenden Entwicklungen unterstützt er den Leser optimal bei seinem Einstieg in das CNC-Fräsen. Der Autor zeigt, dass diese Technik kein Hexenwerk ist, und steckt den Leser mit seiner Begeisterung für das Thema sofort an. Denn eines ist hier offensichtlich: Neben den unbegrenzten Möglichkeiten, die die Arbeit mit der CNC-Maschine bietet, bringt diese vor allem eines – Spaß!" ]
   },
@@ -55978,9 +55981,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-89-EBL" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "ebc" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "ZJB"
@@ -56201,6 +56201,9 @@
     "title" : [ "International business & management" ],
     "volume" : [ "32" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "ebc" ]
+  },
   "Summary" : {
     "abstract" : [ "Attracting, managing and retaining talented employees is an important area of human resource management. Managing talent across an organization’s global network presents many challenges including expatriation and repatriation issues, cross-cultural adjustment of employees, and operating in different regulatory and economic environments. This volume provides insights into multinational enterprises’ (MNEs) global staffing and global talent management (GTM), and covers issues of global mobility from organizational, individual and contextual perspectives. The chapters in this edited volume cover historical development of expatriation, use of self-initiated and company-assigned expatriates, talent management in entrepreneurial firms, and talent retention through effective expatriation and repatriation programs in transitioning and emerging economies." ]
   },
@@ -56244,9 +56247,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-89-EBL" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "ebc" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "QAT"
@@ -56360,6 +56360,9 @@
   "FileCharacteristics" : [ {
     "encodingFormat" : [ "PDF" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "ebc" ]
+  },
   "Summary" : {
     "abstract" : [ "\"The Commercial Aircraft Finance Handbook\" is a resource for every type of aircraft finance practitioner - seasoned and starter alike. The handbook offers a comprehensive overview of the multifaceted matters that arise in the process of financing commercial aircraft. The book clearly reviews the different topics on a high-level basis, and then explains the terminology used for each particular area of specialization.. It can be used as both a learning aid and reference resource. The area of commercial aircraft finance is multidisciplinary one, touching professionals across law, finance, insurance, and leasing (to name a few) and this book arms these diverse practitioners with a framework for knowing the questions and issues that should be considered in an aircraft financing transaction. This book will also provide practitioners just starting out in this field with an introduction to the myriad of topics in aircraft finance while providing more seasoned professionals with explanations of matters outside their normal area of expertise. As well, all practitioners will benefit from the resources provided in the appendices." ]
   },
@@ -56384,9 +56387,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-89-EBL" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "ebc" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "ZSA"
@@ -57861,6 +57861,9 @@
   "FileCharacteristics" : [ {
     "encodingFormat" : [ "PDF" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "taylor francis" ]
+  },
   "Summary" : {
     "abstract" : [ "bookdown: Authoring Books and Technical Documents with R Markdown presents a much easier way to write books and technical publications than traditional tools such as LaTeX and Word. The bookdown package inherits the simplicity of syntax and flexibility for data analysis from R Markdown, and extends R Markdown for technical writing, so that you can make better use of document elements such as figures, tables, equations, theorems, citations, and references. Similar to LaTeX, you can number and cross-reference these elements with bookdown. Your document can even include live examples so readers can interact with them while reading the book. The book can be rendered to multiple output formats, including LaTeX/PDF, HTML, EPUB, and Word, thus making it easy to put your documents online. The style and theme of these output formats can be customized. We used books and R primarily for examples in this book, but bookdown is not only for books or R. Most features introduced in this book also apply to other types of publications: journal papers, reports, dissertations, course handouts, study notes, and even novels. You do not have to use R, either. Other choices of computing languages include Python, C, C++, SQL, Bash, Stan, JavaScript, and so on, although R is best supported. You can also leave out computing, for example, to write a fiction. This book itself is an example of publishing with bookdown and R Markdown, and its source is fully available on GitHub." ]
   },
@@ -57899,9 +57902,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-7-CRC" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "taylor francis" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "TZU"
@@ -58012,6 +58012,9 @@
   "SeriesAddedEntryUniformTitle" : [ {
     "title" : [ "The R series" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "taylor francis" ]
+  },
   "Summary" : {
     "abstract" : [ "Written by John M. Chambers, the leading developer of the original S software, Extending R covers key concepts and techniques in R to support analysis and research projects. It presents the core ideas of R, provides programming guidance for projects of all scales, and introduces new, valuable techniques that extend R. The book first describes the fundamental characteristics and background of R, giving readers a foundation for the remainder of the text. It next discusses topics relevant to programming with R, including the apparatus that supports extensions. The book then extends R’s data structures through object-oriented programming, which is the key technique for coping with complexity. The book also incorporates a new structure for interfaces applicable to a variety of languages. A reflection of what R is today, this guide explains how to design and organize extensions to R by correctly using objects, functions, and interfaces. It enables current and future users to add their own contributions and packages to R." ]
   },
@@ -58046,9 +58049,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-7-CRC" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "taylor francis" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "TXR"
@@ -58167,6 +58167,9 @@
   "FileCharacteristics" : [ {
     "encodingFormat" : [ "PDF" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "taylor francis" ]
+  },
   "Summary" : {
     "abstract" : [ "This book discusses advanced topics such as R core programing, object oriented R programing, parallel computing with R, and spatial data types. The author leads readers to merge mature and effective methdologies in traditional programing to R programing. It shows how to interface R with C, Java, and other popular programing laguages and platforms." ]
   },
@@ -58212,9 +58215,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-7-CRC" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "taylor francis" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "TXU"
@@ -61708,6 +61708,9 @@
   "Extent" : {
     "extent" : "1 Online-Ressource (257 Seiten) : Illustrationen"
   },
+  "ClassifierLocal" : {
+    "classifier" : [ "brill" ]
+  },
   "AdditionalPhysicalFormEntry" : [ {
     "relationshipInformation" : [ "Erscheint auch als" ],
     "note" : [ "Druck-Ausgabe" ],
@@ -61736,9 +61739,6 @@
   "ClassifierDigitization" : [ {
     "classifier" : [ "ZDB-95-SFL" ]
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "brill" ]
-  },
   "SubjectHeadings" : [ {
     "subject" : "Ideengeschichte"
   }, {
@@ -64430,6 +64430,9 @@
   "FileCharacteristics" : [ {
     "encodingFormat" : [ "PDF" ]
   } ],
+  "ClassifierLocal" : {
+    "classifier" : [ "opus" ]
+  },
   "Description" : [ {
     "description" : "Volltext weltweit freigegeben"
   } ],
@@ -64462,9 +64465,6 @@
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53151045870006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
-  "ClassifierLocal" : {
-    "classifier" : [ "opus" ]
-  },
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
     "subject" : "JXGA"
@@ -64847,6 +64847,9 @@
   } ],
   "Extent" : {
     "extent" : "125 Seiten : Illustrationen, Diagramme, Karten"
+  },
+  "ClassifierLocal" : {
+    "course" : [ "WB1 Master Geoingenieurwesen und Nachbergbau" ]
   },
   "Description" : [ {
     "description" : "SS 2023"

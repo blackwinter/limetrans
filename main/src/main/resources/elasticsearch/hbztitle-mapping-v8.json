@@ -366,6 +366,13 @@
           "copy_to": [
             "cql.allIndexes"
           ]
+        },
+        "course": {
+          "type": "text",
+          "index": false,
+          "copy_to": [
+            "cql.allIndexes"
+          ]
         }
       }
     },

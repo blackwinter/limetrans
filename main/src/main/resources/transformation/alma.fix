@@ -640,6 +640,7 @@ include("./marc/seriesStatement.fix")
 
 # MARC/985, MARC/989
 add_array("@description")
+add_array("ClassifierLocal.course[]")
 add_array("DescriptionOfProvenance[]")
 add_array("introx.provenance[]")
 do list(path: "985  ", "var": "$i")
@@ -652,6 +653,7 @@ do list(path: "989  ", "var": "$i")
   if member_local("$i")
     copy_field("$i.a", "@description.$append")
     copy_field("$i.a", "introx.provenance[].$append")
+    copy_field("$i.h", "ClassifierLocal.course[].$append")
   end
 end
 filter("@description", "^$[regexp.description]$")

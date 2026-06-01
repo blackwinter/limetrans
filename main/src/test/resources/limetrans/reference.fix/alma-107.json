@@ -2117,12 +2117,12 @@
   "Extent" : {
     "extent" : "238 Seiten : 16 Illustrationen ; 22 cm"
   },
-  "DescriptionOfExpression" : [ {
-    "description" : "In Fraktur"
-  } ],
   "ClassifierLocal" : {
     "collection" : [ "Hans-Jonas-Bibliothek" ]
   },
+  "DescriptionOfExpression" : [ {
+    "description" : "In Fraktur"
+  } ],
   "SubjectHeadings" : [ {
     "subject" : "Geschichte 1920-1939"
   } ],
