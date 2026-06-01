@@ -43575,3 +43575,85 @@
     "subjectTopicName" : "Photographs"
   } ]
 }
+{
+  "collection" : "DE-A96",
+  "CreatorStatement" : {
+    "creatorStatement" : "vorgelegt von B.Eng. Till-Hendrik Genth ; Referent: Prof. Dr. rer. nat. Christian Melchers ; Korreferent: Dipl.-Geol. Henning Jasnowski-Peters"
+  },
+  "dc" : {
+    "format" : [ "Gedruckte Ressource" ],
+    "type" : [ "Hochschulschrift", "Monographie" ],
+    "language" : [ "Deutsch" ],
+    "date" : [ "2023" ]
+  },
+  "introx" : {
+    "access" : [ "local" ],
+    "carrier" : [ "Gedruckte Ressource" ]
+  },
+  "IdentifierAlma" : {
+    "identifierMember" : "49HBZ_FHA",
+    "identifierMMS" : "991000720349606444",
+    "identifierMMSIZ" : "991000720349606444"
+  },
+  "RecordIdentifier" : {
+    "identifierForTheIndex" : "(DE-A96)991000720349606444",
+    "identifierForTheRecord" : "(DE-A96)991000720349606444"
+  },
+  "Language" : [ {
+    "language" : "Deutsch",
+    "languageSource" : "ger"
+  } ],
+  "Person" : [ {
+    "personName" : "Genth, Till",
+    "personBio" : "1991-",
+    "personRole" : [ "[Autor/in]" ],
+    "personIdentifier" : [ "(DE-588)1235623440" ],
+    "identifierGND" : [ "1235623440" ]
+  } ],
+  "CorporateBody" : [ {
+    "corporateBodyName" : "Fachhochschule Aachen",
+    "corporateBodyIdentifier" : [ "(DE-588)1101482451" ],
+    "identifierGND" : [ "1101482451" ]
+  } ],
+  "TitleStatement" : [ {
+    "titleMain" : "Quantitative tonmineralogische Zusammensetzung der Emscher-Formation anhand von Bohrprofilen - eine erste Evaluation seiner Funktion als hydraulische Barriere"
+  } ],
+  "PublisherName" : [ {
+    "place" : [ "Bochum" ],
+    "chronology" : [ "2023" ]
+  } ],
+  "DateProper" : {
+    "date" : [ "2023" ]
+  },
+  "Extent" : {
+    "extent" : "125 Seiten : Illustrationen, Diagramme, Karten"
+  },
+  "Description" : {
+    "description" : [ "SS 2023" ]
+  },
+  "PersonContributor" : [ {
+    "personName" : "Melchers, Christian",
+    "personBio" : "1977-",
+    "personRole" : [ "[Akademische Betreuung]" ],
+    "personIdentifier" : [ "(DE-588)141348364" ],
+    "identifierGND" : [ "141348364" ]
+  }, {
+    "personName" : "Jasnowski-Peters, Henning",
+    "personRole" : [ "[Akademische Betreuung]" ]
+  } ],
+  "SubjectHeadings" : [ {
+    "subject" : "Emscher-Gebiet"
+  }, {
+    "subject" : "Formation"
+  }, {
+    "subject" : "Bohrung"
+  }, {
+    "subject" : "Tonmineral"
+  } ],
+  "xbib" : [ {
+    "uid" : "(DE-A96)991000720349606444"
+  } ],
+  "Item" : [ {
+    "callnumber" : "THES 2023 204"
+  } ]
+}

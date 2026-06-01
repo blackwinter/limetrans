@@ -63820,3 +63820,136 @@
     "combinedLabel" : "Photographs"
   } ]
 }
+{
+  "ContentType" : [ "Text" ],
+  "CarrierType" : [ "Band" ],
+  "ExtendedType" : [ "Hochschulschrift" ],
+  "TypeHeading" : [ {
+    "term" : "Hochschulschrift",
+    "identifier" : [ "(DE-588)4113937-9" ]
+  } ],
+  "Country" : [ {
+    "countryISO" : "DE"
+  } ],
+  "collection" : "DE-A96",
+  "CreatorStatement" : {
+    "creatorStatement" : [ "vorgelegt von B.Eng. Till-Hendrik Genth ; Referent: Prof. Dr. rer. nat. Christian Melchers ; Korreferent: Dipl.-Geol. Henning Jasnowski-Peters" ]
+  },
+  "dc" : {
+    "format" : [ "Gedruckte Ressource" ],
+    "type" : [ "Hochschulschrift", "Monographie" ],
+    "language" : [ "Deutsch" ],
+    "date" : [ "2023" ]
+  },
+  "introx" : {
+    "access" : [ "local" ],
+    "carrier" : [ "Gedruckte Ressource" ],
+    "person" : [ "Genth, Till (1991-)", "Melchers, Christian (1977-)", "Jasnowski-Peters, Henning" ],
+    "subject" : [ "Emscher-Gebiet", "Formation (Geologie)", "Bohrung", "Tonmineral" ],
+    "localCallNumber" : [ "THES 2023 204" ]
+  },
+  "IdentifierAlma" : {
+    "identifierMember" : "49HBZ_FHA",
+    "identifierMMS" : "991000720349606444",
+    "identifierMMSIZ" : "991000720349606444"
+  },
+  "RecordIdentifier" : {
+    "identifierForTheIndex" : "(DE-A96)991000720349606444",
+    "identifierForTheRecord" : "(DE-A96)991000720349606444"
+  },
+  "Language" : [ {
+    "language" : "Deutsch",
+    "languageSource" : "ger"
+  } ],
+  "Person" : [ {
+    "personName" : "Genth, Till",
+    "personBio" : "1991-",
+    "personRole" : [ "[Autor/in]" ],
+    "personIdentifier" : [ "(DE-588)1235623440" ],
+    "identifierGND" : [ "1235623440" ],
+    "preferredName" : "Genth, Till"
+  } ],
+  "CorporateBody" : [ {
+    "corporateBodyName" : "Fachhochschule Aachen",
+    "corporateBodyRole" : [ "[Grad-verleihende Institution]" ],
+    "corporateBodyIdentifier" : [ "(DE-588)1101482451" ],
+    "identifierGND" : [ "1101482451" ],
+    "variantName" : [ "Technische Hochschule Georg Agricola für Rohstoff, Energie und Umwelt zu Bochum", "TH Georg Agricola", "Technische Hochschule Bochum", "TH Bochum" ],
+    "preferredName" : "Technische Hochschule Georg Agricola"
+  } ],
+  "TitleStatement" : {
+    "titleMain" : "Quantitative tonmineralogische Zusammensetzung der Emscher-Formation anhand von Bohrprofilen - eine erste Evaluation seiner Funktion als hydraulische Barriere"
+  },
+  "PublisherName" : [ {
+    "place" : [ "Bochum" ],
+    "chronology" : [ "2023" ]
+  } ],
+  "PublicationPlace" : [ {
+    "printingPlace" : [ "Bochum" ]
+  } ],
+  "DateProper" : {
+    "date" : [ "2023" ]
+  },
+  "PublicationPlaceOther" : [ {
+    "publicationPlace" : "Bochum"
+  } ],
+  "Extent" : {
+    "extent" : "125 Seiten : Illustrationen, Diagramme, Karten"
+  },
+  "Description" : [ {
+    "description" : "SS 2023"
+  } ],
+  "DescriptionOfThesis" : [ {
+    "type" : "Masterarbeit",
+    "place" : "Fachhochschule Aachen",
+    "year" : "2023"
+  } ],
+  "PersonContributor" : [ {
+    "personName" : "Melchers, Christian",
+    "personBio" : "1977-",
+    "personRole" : [ "[Akademische Betreuung]" ],
+    "personIdentifier" : [ "(DE-588)141348364" ],
+    "identifierGND" : [ "141348364" ],
+    "variantName" : [ "Melchers, Ch.", "Melchers, C." ],
+    "preferredName" : "Melchers, Christian"
+  }, {
+    "personName" : "Jasnowski-Peters, Henning",
+    "personRole" : [ "[Akademische Betreuung]" ]
+  } ],
+  "xbib" : [ {
+    "uid" : "(DE-A96)991000720349606444"
+  } ],
+  "Item" : [ {
+    "identifier" : "DE-A96",
+    "label" : "Hochschulbibliothek der Fachhochschule Aachen",
+    "callnumber" : [ "THES 2023 204", "B0000000569" ],
+    "shelfmark" : "MA"
+  } ],
+  "RSWK" : [ {
+    "subjectGeoName" : "Emscher-Gebiet",
+    "combinedLabel" : "Emscher-Gebiet",
+    "subjectIdentifier" : [ "(DE-588)4234661-7" ],
+    "identifierGND" : [ "4234661-7" ],
+    "variantName" : [ "Emscher (Region)" ],
+    "preferredName" : "Emscher-Gebiet"
+  }, {
+    "subjectTopicName" : [ "Formation" ],
+    "combinedLabel" : "Formation (Geologie)",
+    "subjectIdentifier" : [ "(DE-588)4155003-1" ],
+    "identifierGND" : [ "4155003-1" ],
+    "variantName" : [ "Geologische Formation", "System <Stratigraphie>" ],
+    "preferredName" : "Formation <Geologie>"
+  }, {
+    "subjectTopicName" : [ "Bohrung" ],
+    "combinedLabel" : "Bohrung",
+    "subjectIdentifier" : [ "(DE-588)4146246-4" ],
+    "identifierGND" : [ "4146246-4" ],
+    "preferredName" : "Bohrung"
+  }, {
+    "subjectTopicName" : [ "Tonmineral" ],
+    "combinedLabel" : "Tonmineral",
+    "subjectIdentifier" : [ "(DE-588)4185687-9" ],
+    "identifierGND" : [ "4185687-9" ],
+    "preferredName" : "Tonmineral"
+  } ]
+}
