@@ -900,10 +900,12 @@ end
 
 # MARC/980
 add_array("ClassifierLocal.classifier[]")
+add_array("introx.localCollection[]")
 do list(path: "9801 ", "var": "$i")
   if member_local("$i")
     do list(path: "$i.a", "var": "$j")
       copy_field("$j", "ClassifierLocal.classifier[].$append")
+      copy_field("$j", "introx.localCollection[].$append")
     end
   end
 end
@@ -912,6 +914,7 @@ do list(path: "980  ", "var": "$i")
   if member_local("$i")
     do list(path: "$i.s", "var": "$j")
       copy_field("$j", "ClassifierLocal.collection[].$append")
+      copy_field("$j", "introx.localCollection[].$append")
     end
   end
 end

@@ -2084,6 +2084,7 @@
     "branch" : [ "Pfälzische LB Speyer" ],
     "carrier" : [ "Gedruckte Ressource" ],
     "person" : [ "Langenbucher, Hellmuth (1905-1980)" ],
+    "localCollection" : [ "Hans-Jonas-Bibliothek" ],
     "subject" : [ "Geschichte 1920-1939", "Deutsch", "Nationalsozialismus", "Literatur" ],
     "localCallNumber" : [ "39.1206" ]
   },

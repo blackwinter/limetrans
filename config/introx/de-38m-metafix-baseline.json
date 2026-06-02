@@ -1,0 +1,27 @@
+{
+  "isil": "DE-38M",
+  "path": "/data/pubhub/export/alma/prod/",
+  "postprocess": true,
+  "alma": {},
+  "vars": {
+    "external-maps": "/data/jenkins/limetrans/maps"
+  },
+  "input": {
+    "queue": {
+      "path": "${path}",
+      "pattern": "baseline.xml.bgzf"
+    }
+  },
+  "output": {
+    "elasticsearch": {
+      "index": {
+        "type": "titel",
+        "name": "${isil}-introx-metafix-",
+        "timewindow": "yyyyMMdd",
+        "settings": "classpath:/elasticsearch/hbztitle-settings-%s.json",
+        "mapping": "classpath:/elasticsearch/hbztitle-mapping-%s.json",
+        "idKey": "RecordIdentifier.identifierForTheIndex"
+      }
+    }
+  }
+}

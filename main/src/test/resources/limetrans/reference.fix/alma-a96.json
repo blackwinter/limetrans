@@ -3949,6 +3949,7 @@
     "taxonomy" : [ "Informatik" ],
     "person" : [ "Spichale, Kai" ],
     "provenance" : [ "neu210121" ],
+    "localCollection" : [ "ebc" ],
     "subject" : [ "Softwareentwicklung", "API", "Java (Programmiersprache)", "Web Services", "Verteiltes System" ]
   },
   "IdentifierAlma" : {
@@ -6736,6 +6737,7 @@
     "carrier" : [ "Gedruckte Ressource" ],
     "taxonomy" : [ "Architektur und Bauingenieurwesen" ],
     "person" : [ "Seilnacht, Willy" ],
+    "localCollection" : [ "vitr" ],
     "subject" : [ "Landwirtschaft", "Architektur", "Landschaftsgebundenes Bauen", "Landwirtschaftliches Gebäude" ],
     "localCallNumber" : [ "11 WWW 74" ]
   },
@@ -7543,6 +7545,7 @@
     "carrier" : [ "Gedruckte Ressource" ],
     "taxonomy" : [ "Architektur und Bauingenieurwesen" ],
     "person" : [ "Wedepohl, Theodor" ],
+    "localCollection" : [ "vitr." ],
     "localCallNumber" : [ "11 WTD 34" ]
   },
   "IdentifierAlma" : {
@@ -20528,6 +20531,7 @@
     "access" : [ "local" ],
     "carrier" : [ "Gedruckte Ressource" ],
     "person" : [ "Durm, Josef (1837-1919)" ],
+    "localCollection" : [ "Vitr." ],
     "subject" : [ "Entwurf", "Architektur" ]
   },
   "SubjectRPB" : [ {
@@ -26992,6 +26996,7 @@
     "carrier" : [ "Gedruckte Ressource" ],
     "taxonomy" : [ "Kunst" ],
     "person" : [ "Klapheck, Richard (1883-1939)" ],
+    "localCollection" : [ "vitr." ],
     "localCallNumber" : [ "11 KAQ 7-3" ]
   },
   "SubjectRPB" : [ {
@@ -51943,7 +51948,8 @@
     "carrier" : [ "Elektronische Ressource" ],
     "taxonomy" : [ "Elektrotechnik" ],
     "person" : [ "Kim, Sang-Hoon" ],
-    "provenance" : [ "neu171221" ]
+    "provenance" : [ "neu171221" ],
+    "localCollection" : [ "ebc" ]
   },
   "IdentifierAlma" : {
     "identifierMember" : "49HBZ_FHA",
@@ -52066,7 +52072,8 @@
     "carrier" : [ "Elektronische Ressource" ],
     "taxonomy" : [ "Physik" ],
     "person" : [ "Brown, Ian G." ],
-    "provenance" : [ "neu171221" ]
+    "provenance" : [ "neu171221" ],
+    "localCollection" : [ "wiley" ]
   },
   "IdentifierAlma" : {
     "identifierMember" : "49HBZ_FHA",
@@ -53129,6 +53136,7 @@
     "taxonomy" : [ "Wirtschaftswissenschaften" ],
     "person" : [ "Tschanz, Nathaly", "Schart, Dirk" ],
     "provenance" : [ "neu191021" ],
+    "localCollection" : [ "beck" ],
     "subject" : [ "Marketingmanagement", "Kommunikation", "Erweiterte Realität (Informatik)" ]
   },
   "IdentifierAlma" : {
@@ -53390,6 +53398,7 @@
     "taxonomy" : [ "Informatik" ],
     "person" : [ "Telea, Alexandru C. (1972-)" ],
     "provenance" : [ "neu171221" ],
+    "localCollection" : [ "ebc" ],
     "subject" : [ "Computergrafik", "Grafische Darstellung", "Datenanalyse", "Visualisierung" ]
   },
   "IdentifierAlma" : {
@@ -53548,7 +53557,8 @@
     "carrier" : [ "Elektronische Ressource" ],
     "taxonomy" : [ "Wirtschaftswissenschaften" ],
     "person" : [ "Singler, Axel (1967-)" ],
-    "provenance" : [ "neu171221" ]
+    "provenance" : [ "neu171221" ],
+    "localCollection" : [ "ebc" ]
   },
   "IdentifierAlma" : {
     "identifierMember" : "49HBZ_FHA",
@@ -53683,7 +53693,8 @@
     "carrier" : [ "Elektronische Ressource" ],
     "taxonomy" : [ "Informatik", "Wirtschaftswissenschaften" ],
     "person" : [ "Harris, Michael D. S." ],
-    "provenance" : [ "neu171211" ]
+    "provenance" : [ "neu171211" ],
+    "localCollection" : [ "ebc" ]
   },
   "IdentifierAlma" : {
     "identifierMember" : "49HBZ_FHA",
@@ -53810,7 +53821,8 @@
     "carrier" : [ "Elektronische Ressource" ],
     "taxonomy" : [ "Ingenieurwissenschaft / Technik" ],
     "person" : [ "Harrer, Manfred", "Pfeffer, Peter (1969-)" ],
-    "provenance" : [ "neu171221" ]
+    "provenance" : [ "neu171221" ],
+    "localCollection" : [ "ebc" ]
   },
   "IdentifierAlma" : {
     "identifierMember" : "49HBZ_FHA",
@@ -54057,7 +54069,8 @@
     "carrier" : [ "Elektronische Ressource" ],
     "taxonomy" : [ "Wirtschaftswissenschaften", "Umwelttechnik, Energie- und Kerntechnik" ],
     "person" : [ "Bianco, Vincenzo" ],
-    "provenance" : [ "neu171261" ]
+    "provenance" : [ "neu171261" ],
+    "localCollection" : [ "ebc" ]
   },
   "IdentifierAlma" : {
     "identifierMember" : "49HBZ_FHA",
@@ -54201,6 +54214,7 @@
     "taxonomy" : [ "Fahrzeug- und Verkehrstechnik" ],
     "person" : [ "Ribbens, William B." ],
     "provenance" : [ "neu171221" ],
+    "localCollection" : [ "ebc" ],
     "subject" : [ "Kraftfahrzeugelektronik" ]
   },
   "IdentifierAlma" : {
@@ -54341,6 +54355,7 @@
     "taxonomy" : [ "Wirtschaftswissenschaften" ],
     "person" : [ "Häusel, Hans-Georg (1951-)" ],
     "provenance" : [ "neu171221" ],
+    "localCollection" : [ "ebc" ],
     "subject" : [ "Management", "Verhaltenssteuerung", "Limbisches System" ]
   },
   "IdentifierAlma" : {
@@ -54714,7 +54729,8 @@
     "carrier" : [ "Elektronische Ressource" ],
     "taxonomy" : [ "Wirtschaftswissenschaften" ],
     "person" : [ "Huth, Michael (1968-)" ],
-    "provenance" : [ "neu200721" ]
+    "provenance" : [ "neu200721" ],
+    "localCollection" : [ "ebc" ]
   },
   "IdentifierAlma" : {
     "identifierMember" : "49HBZ_FHA",
@@ -55067,6 +55083,7 @@
     "taxonomy" : [ "Wirtschaftswissenschaften" ],
     "person" : [ "Badura, Bernhard (1943-)", "Ducki, Antje (1960-)", "Schröder, Helmut (1965-)", "Klose, Joachim (1958-)", "Meyer, Markus (1970-)" ],
     "provenance" : [ "neu190321" ],
+    "localCollection" : [ "ebc" ],
     "subject" : [ "Deutschland", "Unternehmen", "Gesundheitsförderung", "Fehlzeit", "Krankenstand", "Unternehmenskrise", "Krisenmanagement" ]
   },
   "IdentifierAlma" : {
@@ -55371,6 +55388,7 @@
     "taxonomy" : [ "Wirtschaftswissenschaften" ],
     "person" : [ "Meissner, Gabi", "Neeser, Alexander" ],
     "provenance" : [ "neu180121" ],
+    "localCollection" : [ "ebc" ],
     "subject" : [ "Deutschland", "Umsatzsteuerrecht" ]
   },
   "IdentifierAlma" : {
@@ -55653,6 +55671,7 @@
     "taxonomy" : [ "Maschinenbau" ],
     "person" : [ "Rattat, Christian (1968-)" ],
     "provenance" : [ "neu180121" ],
+    "localCollection" : [ "ebc" ],
     "subject" : [ "Fräsen", "CNC-Steuerung", "Modellbau", "Portalfräsmaschine", "Selbstbau" ]
   },
   "IdentifierAlma" : {
@@ -55912,6 +55931,7 @@
     "taxonomy" : [ "Wirtschaftswissenschaften" ],
     "person" : [ "Guo, Ying", "Rammal, Hussain G.", "Dowling, Peter J." ],
     "provenance" : [ "neu180121" ],
+    "localCollection" : [ "ebc" ],
     "subject" : [ "Personalpolitik", "Multinationales Unternehmen" ]
   },
   "IdentifierAlma" : {
@@ -56073,7 +56093,8 @@
     "carrier" : [ "Elektronische Ressource" ],
     "taxonomy" : [ "Luft- und Raumfahrttechnik" ],
     "person" : [ "Scheinberg, Ronald" ],
-    "provenance" : [ "neu180121" ]
+    "provenance" : [ "neu180121" ],
+    "localCollection" : [ "ebc" ]
   },
   "IdentifierAlma" : {
     "identifierMember" : "49HBZ_FHA",
@@ -57576,7 +57597,8 @@
     "carrier" : [ "Elektronische Ressource" ],
     "taxonomy" : [ "Informatik" ],
     "person" : [ "Xie, Yihui" ],
-    "provenance" : [ "neu180661" ]
+    "provenance" : [ "neu180661" ],
+    "localCollection" : [ "taylor francis" ]
   },
   "IdentifierAlma" : {
     "identifierMember" : "49HBZ_FHA",
@@ -57719,6 +57741,7 @@
     "taxonomy" : [ "Informatik" ],
     "person" : [ "Chambers, John M. (1941-)" ],
     "provenance" : [ "neu180661" ],
+    "localCollection" : [ "taylor francis" ],
     "subject" : [ "R (Programm)" ]
   },
   "IdentifierAlma" : {
@@ -57879,7 +57902,8 @@
     "taxonomy" : [ "Informatik" ],
     "dateNew" : "1970-01-01",
     "person" : [ "Zhang, Dan (1983-)" ],
-    "provenance" : [ "neu180661" ]
+    "provenance" : [ "neu180661" ],
+    "localCollection" : [ "taylor francis" ]
   },
   "IdentifierAlma" : {
     "identifierMember" : "49HBZ_FHA",
@@ -61475,6 +61499,7 @@
     "taxonomyRVK" : [ "BE 2150 Einzelprobleme", "BE 2400 Allgemeines", "BE 2100 Gesamtdarstellungen", "CR 5000 Intelligenz; Begabung; Kreativität" ],
     "person" : [ "Kurz, Melanie (1976-)" ],
     "provenance" : [ "neu200451" ],
+    "localCollection" : [ "brill" ],
     "subject" : [ "Ideengeschichte", "Geschichte", "Inspiration", "Kreativität", "Kunstproduktion", "Mythos" ]
   },
   "SubjectRVK" : [ {
@@ -64190,6 +64215,7 @@
     "taxonomy" : [ "Kunst" ],
     "person" : [ "Maas, Sophie", "Weißmantel, Ralf", "Fabo, Sabine" ],
     "provenance" : [ "neu2510" ],
+    "localCollection" : [ "opus" ],
     "subject" : [ "Zürich", "Visuelle Identität", "Markenentwicklung", "Erscheinungsbild", "Designstrategie", "Corporate Design" ]
   },
   "IdentifierAlma" : {
