@@ -864,6 +864,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Sinzig-Westum",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)4682533-2" ],
     "identifierGND" : [ "4682533-2" ],
     "variantName" : [ "Westum (Sinzig-Westum)" ],
@@ -2244,60 +2245,70 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Johann-Sebastian-Bach-Institut",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)5031068-9" ],
     "identifierGND" : [ "5031068-9" ],
     "variantName" : [ "Bach-Institut Göttingen", "Johann-Sebastian-Bach-Institut Göttingen", "Johann-Sebastian-Bach-Institut (Göttingen)", "Bach-Institut" ],
     "preferredName" : "Johann-Sebastian-Bach-Institut"
   }, {
     "corporateBodyName" : "Bach-Archiv Leipzig",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1002954-0" ],
     "identifierGND" : [ "1002954-0" ],
     "variantName" : [ "Bach-Archiv Leipzig, Stiftung Bürgerlichen Rechts, Institut an der Universität Leipzig", "Bach-Archiv Leipzig, Stiftung Bürgerlichen Rechts", "Bach Archiv Leipzig", "Stiftung Bach-Archiv" ],
     "preferredName" : "Bach-Archiv Leipzig"
   }, {
     "corporateBodyName" : "Johann-Sebastian-Bach-Institut",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)5031068-9" ],
     "identifierGND" : [ "5031068-9" ],
     "variantName" : [ "Bach-Institut Göttingen", "Johann-Sebastian-Bach-Institut Göttingen", "Johann-Sebastian-Bach-Institut (Göttingen)", "Bach-Institut" ],
     "preferredName" : "Johann-Sebastian-Bach-Institut"
   }, {
     "corporateBodyName" : "Bach-Archiv Leipzig",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1002954-0" ],
     "identifierGND" : [ "1002954-0" ],
     "variantName" : [ "Bach-Archiv Leipzig, Stiftung Bürgerlichen Rechts, Institut an der Universität Leipzig", "Bach-Archiv Leipzig, Stiftung Bürgerlichen Rechts", "Bach Archiv Leipzig", "Stiftung Bach-Archiv" ],
     "preferredName" : "Bach-Archiv Leipzig"
   }, {
     "corporateBodyName" : "Johann-Sebastian-Bach-Institut",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)5031068-9" ],
     "identifierGND" : [ "5031068-9" ],
     "variantName" : [ "Bach-Institut Göttingen", "Johann-Sebastian-Bach-Institut Göttingen", "Johann-Sebastian-Bach-Institut (Göttingen)", "Bach-Institut" ],
     "preferredName" : "Johann-Sebastian-Bach-Institut"
   }, {
     "corporateBodyName" : "Bach-Archiv Leipzig",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1002954-0" ],
     "identifierGND" : [ "1002954-0" ],
     "variantName" : [ "Bach-Archiv Leipzig, Stiftung Bürgerlichen Rechts, Institut an der Universität Leipzig", "Bach-Archiv Leipzig, Stiftung Bürgerlichen Rechts", "Bach Archiv Leipzig", "Stiftung Bach-Archiv" ],
     "preferredName" : "Bach-Archiv Leipzig"
   }, {
     "corporateBodyName" : "Johann-Sebastian-Bach-Institut",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)5031068-9" ],
     "identifierGND" : [ "5031068-9" ],
     "variantName" : [ "Bach-Institut Göttingen", "Johann-Sebastian-Bach-Institut Göttingen", "Johann-Sebastian-Bach-Institut (Göttingen)", "Bach-Institut" ],
     "preferredName" : "Johann-Sebastian-Bach-Institut"
   }, {
     "corporateBodyName" : "Bach-Archiv Leipzig",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1002954-0" ],
     "identifierGND" : [ "1002954-0" ],
     "variantName" : [ "Bach-Archiv Leipzig, Stiftung Bürgerlichen Rechts, Institut an der Universität Leipzig", "Bach-Archiv Leipzig, Stiftung Bürgerlichen Rechts", "Bach Archiv Leipzig", "Stiftung Bach-Archiv" ],
     "preferredName" : "Bach-Archiv Leipzig"
   }, {
     "corporateBodyName" : "Johann-Sebastian-Bach-Institut",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)5031068-9" ],
     "identifierGND" : [ "5031068-9" ],
     "variantName" : [ "Bach-Institut Göttingen", "Johann-Sebastian-Bach-Institut Göttingen", "Johann-Sebastian-Bach-Institut (Göttingen)", "Bach-Institut" ],
     "preferredName" : "Johann-Sebastian-Bach-Institut"
   }, {
     "corporateBodyName" : "Bach-Archiv Leipzig",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1002954-0" ],
     "identifierGND" : [ "1002954-0" ],
     "variantName" : [ "Bach-Archiv Leipzig, Stiftung Bürgerlichen Rechts, Institut an der Universität Leipzig", "Bach-Archiv Leipzig, Stiftung Bürgerlichen Rechts", "Bach Archiv Leipzig", "Stiftung Bach-Archiv" ],

@@ -59,6 +59,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Instituto Nacional de Pesquisas da Amazônia",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2014487-8" ],
     "identifierGND" : [ "2014487-8" ],
     "variantName" : [ "Nationales Amazonien-Forschungsinstitut", "Brasil. Ministério da Ciência e Tecnologia. Instituto Nacional de Pesquisas da Amazônia", "Instituto Nacional de Pesquisas da Amazônia de Manaus", "Nationales Amazonienforschungsinstitut", "Conselho Nacional de Pesquisas. Nationales Amazonien-Forschungsinstitut", "National Research Institute for Amazonia", "Nationale Institut für Amazonasforschung", "Amazonien-Forschungsinstitut", "Conselho Nacional de Pesquisas. Instituto Nacional de Pesquisas da Amazônia", "Conselho Nacional de Pesquisas. National Research Institute for Amazonia" ],
@@ -66,6 +67,7 @@
   }, {
     "corporateBodyName" : "Max-Planck-Institut für Limnologie",
     "corporateBodyNameUnit" : [ "Arbeitsgruppe Tropenökologie" ],
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)511736-7" ],
     "identifierGND" : [ "511736-7" ],
     "variantName" : [ "Arbeitsgruppe Tropenökologie (Plön)" ],
@@ -203,6 +205,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)5185811-3" ],
     "identifierGND" : [ "5185811-3" ],
     "variantName" : [ "Federal Institute for Occupational Safety and Health (Bundesanstalt für Arbeitsschutz und Arbeitsmedizin)", "Deutschland. Bundesanstalt für Arbeitsschutz und Arbeitsmedizin", "Institute for Occupational Safety and Health (Bundesanstalt für Arbeitsschutz und Arbeitsmedizin)" ],
@@ -2389,12 +2392,14 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Gesellschaft Deutscher Chemiker",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2012027-8" ],
     "identifierGND" : [ "2012027-8" ],
     "variantName" : [ "Association of German Chemists", "Gesellschaft Deutscher Chemiker e.V.", "Society of German Chemists", "German Chemical Society (Gesellschaft Deutscher Chemiker)" ],
     "preferredName" : "Gesellschaft Deutscher Chemiker"
   }, {
     "corporateBodyName" : "Gesellschaft Österreichischer Chemiker",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)5137928-4" ],
     "identifierGND" : [ "5137928-4" ],
     "variantName" : [ "Society of Austrian Chemists", "Gesellschaft Chemiker (Österreich)", "Chemical Society (Österreich)", "Austrian Chemical Society" ],
@@ -2726,6 +2731,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Zentralverband Deutsches Baugewerbe",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)9563-1" ],
     "identifierGND" : [ "9563-1" ],
     "variantName" : [ "Zentralverband Deutsches Baugewerbe e.V.", "Das Deutsche Baugewerbe", "Centralʹnyj Sojuz Nemeckich Stroitelej", "Zentralverband des Deutschen Baugewerbes", "Zentralverband des Deutschen Baugewerbes e.V." ],
@@ -3122,6 +3128,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Markt+Technik Verlag GmbH",
+    "corporateBodyRole" : [ "Verlag" ],
     "corporateBodyIdentifier" : [ "(DE-588)1065428669" ],
     "identifierGND" : [ "1065428669" ],
     "preferredName" : "Markt+Technik Verlag GmbH"
@@ -4514,6 +4521,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Arbeitsgemeinschaft für Sparsamen und Umweltfreundlichen Energieverbrauch",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2056214-7" ],
     "identifierGND" : [ "2056214-7" ],
     "variantName" : [ "ASUE e.V.", "Arbeitsgemeinschaft für sparsamen und umweltfreundlichen Energieverbrauch e.V." ],
@@ -4779,6 +4787,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutschland",
     "corporateBodyNameUnit" : [ "Bundesminister für Verkehr" ],
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyOther" : [ "Bundesrepublik" ],
     "corporateBodyIdentifier" : [ "(DE-588)2036867-7" ],
     "identifierGND" : [ "2036867-7" ],
@@ -5181,6 +5190,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Europäische Wirtschaftsgemeinschaft",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)35433-8" ],
     "identifierGND" : [ "35433-8" ],
     "variantName" : [ "Comunidad Económica Europea", "Communauté économique européenne", "Comunidade Econômica Europea", "Eurōpai͏̈kē Oikonomikē Koinotēs", "European Economic Community", "Comunità Economica Europea", "Europaeiske Økonomiske Faellesskab", "Avrupa Ekonomik Topluluğu", "Evropejskoe Ėkonomičeskoe Soobščestvo", "Europese Economische Gemeenschap" ],
@@ -5188,12 +5198,14 @@
   }, {
     "corporateBodyName" : "Vereinte Nationen",
     "corporateBodyNameUnit" : [ "Wirtschaftskommission für Europa" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2023669-4" ],
     "identifierGND" : [ "2023669-4" ],
     "variantName" : [ "Vereinte Nationen. Commission économique pour l'Europe", "Vereinte Nationen. Ėkonomičeskaja Komissija dlja Evropy", "Ėkonomičeskaja komissija dlja Evropy", "United Nations Economic Commission for Europe", "Vereinte Nationen. Wirtschaftsausschuss für Europa", "Commission économique des Nations Unies pour l'Europe", "Vereinte Nationen. European Economic Commission", "Economic Commission for Europe", "Commission économique pour l'Europe", "Vereinte Nationen. Ėkonomičeskaja komissija dlja Evropy", "Wirtschaftskommission für Europa", "Europäische Wirtschaftskommission", "Wirtschaftsausschuss für Europa", "Nations Unies. Commission Economique pour l'Europe", "Vereinte Nationen. Wirtschafts- und Sozialrat. Wirtschaftskommission für Europa", "Wirtschaftskommission der Vereinten Nationen für Europa", "Vereinte Nationen. Europäische Wirtschaftskommission", "Europäische Wirtschaftskommission der Vereinten Nationen", "European Economic Commission", "Ėkonomičeskaja Komissija dlja Evropy", "Vereinte Nationen. Economic Commission for Europe", "Vereinte Nationen. Európai Gazdasági Bizottság", "Vereinte Nationen. Evropejskaja Ėkonomičeskaja Komissija", "Vereinte Nationen. Commissione economica per l'Europa", "United Nations. Economic Commission for Europe", "Európai Gazdasági Bizottság", "Evropejskaja Ėkonomičeskaja Komissija", "Commissione economica per l'Europa" ],
     "preferredName" : "Vereinte Nationen. Wirtschaftskommission für Europa"
   }, {
     "corporateBodyName" : "Europäische Union",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)5098525-5" ],
     "identifierGND" : [ "5098525-5" ],
     "variantName" : [ "Aontas Eorpach", "Europese Unie", "Unió Europea", "Union européenne", "Evropejskoe Soobščestvo", "Evropská Unie", "Avrupa Birliği", "Europska Unija", "Europos Sa̜junga", "Uniunea Europeană", "Europaeiske Union", "Eiropas Savienība", "Union Europea", "Unione Europea", "Európai Unió", "União Europeia", "European Union", "Unión Europea", "Eurōpai͏̈ke Enōsē", "Unia Europejska" ],
@@ -5547,6 +5559,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Staatliche Kunsthalle Baden-Baden",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)31661-1" ],
     "identifierGND" : [ "31661-1" ],
     "variantName" : [ "Gosudarstvennyj muzej \"Kunstchalle\" (Baden-Baden)", "Kunsthalle Baden-Baden", "Baden-Baden. Staatliche Kunsthalle" ],
@@ -5808,6 +5821,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Badisches Landesmuseum Karlsruhe",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2005684-9" ],
     "identifierGND" : [ "2005684-9" ],
     "variantName" : [ "Badisches Landesmuseum", "Schloss Karlsruhe. Badisches Landesmuseum", "Landesmuseum Karlsruhe", "Badisches Landesmuseum, Schloss Karlsruhe" ],
@@ -7291,6 +7305,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Internationale Senefelder-Stiftung",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2070235-8" ],
     "identifierGND" : [ "2070235-8" ],
     "variantName" : [ "ISS", "International Senefelder Foundation" ],
@@ -7935,6 +7950,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Kunstbibliothek Berlin mit Museum für Architektur, Modebild und Grafik-Design",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2056580-X" ],
     "identifierGND" : [ "2056580-X" ],
     "variantName" : [ "Kunstbibliothek Berlin mit Museum für Architektur, Modebild und Graphik-Design" ],
@@ -8461,6 +8477,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Society of Photo-optical Instrumentation Engineers",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)3409-5" ],
     "identifierGND" : [ "3409-5" ],
     "variantName" : [ "Society of Photo-optics Instrument Engineers" ],
@@ -8570,6 +8587,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Hochschule für Verwaltungswissenschaften Speyer",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)7503-6" ],
     "identifierGND" : [ "7503-6" ],
     "variantName" : [ "Post-Graduate School of Administrative Sciences in Speyer", "Hochschule Speyer (1950-1997)", "Speyer Academy of Administrative Sciences", "Ecole Ssupérieure d'Administration Speyer" ],
@@ -8678,6 +8696,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Verband Deutscher Elektrotechniker",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)40433-0" ],
     "identifierGND" : [ "40433-0" ],
     "variantName" : [ "Association of German Electrical Engineers (Verband Deutscher Elektrotechniker)" ],
@@ -8772,6 +8791,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Verein Deutscher Ingenieure",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1012118-3" ],
     "identifierGND" : [ "1012118-3" ],
     "variantName" : [ "Verein Deutscher Ingenieure in der Britischen Zone", "Société des Ingenieurs Allemands", "Verein Deutscher Ingenieure im NSBDT", "VDI e.V.", "Asociación de Ingenieros Alemanes", "Verein Deutscher Ingenieure e.V.", "Society of German Engineers", "VDI Verein Deutscher Ingenieure e.V.", "Deguo-Gongchengshi-Xuehui", "Verein Deutscher Ingenieure im Nationalsozialistischen Bund Deutscher Technik", "Doitsu Gijutsusha Kyōkai", "Association of German Engineers" ],
@@ -8871,6 +8891,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Verein Deutscher Ingenieure",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1012118-3" ],
     "identifierGND" : [ "1012118-3" ],
     "variantName" : [ "Verein Deutscher Ingenieure in der Britischen Zone", "Société des Ingenieurs Allemands", "Verein Deutscher Ingenieure im NSBDT", "VDI e.V.", "Asociación de Ingenieros Alemanes", "Verein Deutscher Ingenieure e.V.", "Society of German Engineers", "VDI Verein Deutscher Ingenieure e.V.", "Deguo-Gongchengshi-Xuehui", "Verein Deutscher Ingenieure im Nationalsozialistischen Bund Deutscher Technik", "Doitsu Gijutsusha Kyōkai", "Association of German Engineers" ],
@@ -9068,6 +9089,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Kommission zum Schutze der Zivilbevölkerung",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)1003007-4" ],
     "identifierGND" : [ "1003007-4" ],
     "variantName" : [ "Schutzkommission beim Bundesminister des Innern", "Schutzkommission (Kommission zum Schutze der Zivilbevölkerung)", "Kommission zum Schutz der Zivilbevölkerung", "Schutzkommission beim Bundesministerium des Innern" ],
@@ -9165,6 +9187,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Ulmer Verein für Kunstwissenschaft",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2030240-X" ],
     "identifierGND" : [ "2030240-X" ],
     "variantName" : [ "Verein für Kunstwissenschaft (Ulm)" ],
@@ -9259,6 +9282,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Universität Stuttgart",
     "corporateBodyNameUnit" : [ "Institut für Baubetriebslehre" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)5010246-1" ],
     "identifierGND" : [ "5010246-1" ],
     "variantName" : [ "Institut für Baubetriebslehre (Stuttgart)" ],
@@ -9581,6 +9605,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Rheinische Friedrich-Wilhelms-Universität Bonn",
     "corporateBodyNameUnit" : [ "Geographisches Institut" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2011491-6" ],
     "identifierGND" : [ "2011491-6" ],
     "variantName" : [ "Geographisches Institut der Universität Bonn", "Geographisches Institut Bonn", "Geographisches Institut der Rheinischen Friedrich-Wilhelms-Universität Bonn", "Rheinische Friedrich-Wilhelms-Universität Bonn. Department of Geography" ],
@@ -9774,6 +9799,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Energietechnische Gesellschaft",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyOther" : [ "Deutschland, Bundesrepublik" ],
     "corporateBodyIdentifier" : [ "(DE-588)55473-X" ],
     "identifierGND" : [ "55473-X" ],
@@ -9998,6 +10024,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Fachhochschule Düsseldorf",
     "corporateBodyNameUnit" : [ "Fachbereich Architektur" ],
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2052780-9" ],
     "identifierGND" : [ "2052780-9" ],
     "variantName" : [ "Fachhochschule Düsseldorf. Fachbereich (1)", "Fachhochschule Düsseldorf. FB (1)", "Fachhochschule Düsseldorf. Architekturfachbereich", "Fachhochschule Düsseldorf. FB 1" ],
@@ -10084,6 +10111,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Institut für Landes- und Stadtentwicklungsforschung des Landes Nordrhein-Westfalen",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)1025270-8" ],
     "identifierGND" : [ "1025270-8" ],
     "variantName" : [ "I.L.S.", "Institut für Landes- und Stadtentwicklungsforschung des Landes NRW", "Institut für Landes- und Stadtentwicklungsforschung Dortmund" ],
@@ -10259,6 +10287,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Rheinisch-Westfälische Akademie der Wissenschaften",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)38897-X" ],
     "identifierGND" : [ "38897-X" ],
     "variantName" : [ "Akademie der Wissenschaften (Rheinland-Westfalen)" ],
@@ -10359,6 +10388,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Landschaftsverband Rheinland",
     "corporateBodyNameUnit" : [ "Landeskonservator" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2029876-6" ],
     "identifierGND" : [ "2029876-6" ],
     "variantName" : [ "Landeskonservator Rheinland", "Landeskonservator (Landschaftsverband Rheinland)" ],
@@ -10480,6 +10510,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Bund der Steuerzahler",
     "corporateBodyNameUnit" : [ "Karl-Bräuer-Institut" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)6039521-7" ],
     "identifierGND" : [ "6039521-7" ],
     "variantName" : [ "Karl-Bräuer-Institut", "Bräuer-Institut", "Karl-Bräuer-Institut des Bundes der Steuerzahler e.V.", "Bund der Steuerzahler. Bräuer-Institut" ],
@@ -10795,6 +10826,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "List-Gesellschaft",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)39050-1" ],
     "identifierGND" : [ "39050-1" ],
     "variantName" : [ "List Gesellschaft", "Société List", "List Society" ],
@@ -10965,6 +10997,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Institution of Electrical Engineers",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1730-9" ],
     "identifierGND" : [ "1730-9" ],
     "variantName" : [ "Information Services in Physics, Electrotechnology, Computers and Control", "Institute of Electrical Engineering (Großbritannien)", "Institution of Electrical Engineers. Information Services in Physics, Electrotechnology, Computers and Control", "Institute of Electrical Engineers", "Angliĭskiĭ institut inzhenerov-ėlektrikov", "Information Services for the Physics and Engineering Communities", "Anglijskij institut inženerov-ėlektrikov", "Institution of Electrical Engineering", "Institution of Electrical Engineers. Information Services for the Physics and Engineering Communities" ],
@@ -11061,6 +11094,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "International Federation for Documentation",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1300-6" ],
     "identifierGND" : [ "1300-6" ],
     "variantName" : [ "Internationale Vereinigung für Dokumentation", "Federación Internacional de Documentación", "Internationale Federatie voor Documentatie", "Międzynarodowa Federacja Dokumentacji", "Medzinarodna Federacia pre Dokumentaciu", "International Federation of Documentation", "Verband für Dokumentation", "Vereinigung für Dokumentation", "Fédération internationale de documentation", "Federation of Documentation", "Federation for Documentation", "Federatie Internationalǎ de Documentare", "Federazione internazionale di documentazione", "Meždunarodnaja Federacija po Dokumentacii", "Internationaler Verband für Dokumentation" ],
@@ -11171,6 +11205,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Schweizerisches Institut für Kunstwissenschaft",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)1006766-8" ],
     "identifierGND" : [ "1006766-8" ],
     "variantName" : [ "Institute for Art Research (Zürich)", "Das Schweizerische Institut für Kunstwissenschaft", "Institut für Kunstwissenschaft (Zürich)", "Swiss Institute for Art Research", "Istituto svizzero di studi d'arte", "Institut suisse pour l'étude de l'art" ],
@@ -11279,12 +11314,14 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutsches Institut für Normung",
     "corporateBodyNameUnit" : [ "Deutscher Ausschuss für Stahlbeton" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2008174-1" ],
     "identifierGND" : [ "2008174-1" ],
     "variantName" : [ "Deutscher Ausschuss für Stahlbeton (Deutsches Institut für Normung)", "Deutsches Institut für Normung. Normenausschuss Stahlbeton. Deutscher Ausschuss für Stahlbeton", "Deutsches Institut für Normung. Normenausschuss Stahlbeton. Ausschuss für Stahlbeton", "Deutsches Institut für Normung. Normenausschuss Stahlbeton. Fachbereich (7)", "Deutsches Institut für Normung. Ausschuss für Stahlbeton", "Deutsches Institut für Normung. Normenausschuss Bauwesen. Fachbereich (7)", "Ausschuss für Stahlbeton (Deutschland, Bundesrepublik, Deutsches Institut für Normung)", "Ausschuss für Stahlbeton (Deutschland)", "Deutsches Institut für Normung. Normenausschuss Bauwesen. Deutscher Ausschuss für Stahlbeton" ],
     "preferredName" : "Deutsches Institut für Normung. Deutscher Ausschuss für Stahlbeton"
   }, {
     "corporateBodyName" : "Deutscher Ausschuss für Stahlbeton",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)5149361-5" ],
     "identifierGND" : [ "5149361-5" ],
     "variantName" : [ "German Committee for Structural Concrete", "Deutscher Ausschuss für Stahlbeton e.V.", "DAfStb e.V." ],
@@ -11292,6 +11329,7 @@
   }, {
     "corporateBodyName" : "Deutscher Normenausschuss",
     "corporateBodyNameUnit" : [ "Deutscher Ausschuss für Stahlbeton" ],
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2083788-4" ],
     "identifierGND" : [ "2083788-4" ],
     "variantName" : [ "Deutscher Ausschuss für Stahlbeton (Deutscher Normenausschuss)", "Ausschuss für Stahlbeton (Deutschland, Bundesrepublik, Deutscher Normenausschuss)" ],
@@ -11408,6 +11446,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutscher Normenausschuß",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)41115-2" ],
     "identifierGND" : [ "41115-2" ],
     "variantName" : [ "Deutscher Normenausschuß e.V.", "Normenausschuß (Deutschland, Bundesrepublik)" ],
@@ -11501,6 +11540,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutsches Bergbau-Museum Bochum",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1042348-5" ],
     "identifierGND" : [ "1042348-5" ],
     "variantName" : [ "Deutsches Bergbau-Museum", "Bochum Alman Madencilik Müzesi'nde", "DMT-Forschungsinstitut für Montangeschichte und Museum des Bergbaus", "Forschungsinstitut für Montangeschichte und Museum des Bergbaus", "Deutsche Montantechnologie für Rohstoff, Energie, Umwelt e.V.. Forschungsinstitut für Montangeschichte und Museum des Bergbaus", "Forschungsinstitut für Montangeschichte", "Alman Madencilik Müzesi'nde", "DMT-Forschungsinstitut für Montangeschichte", "German Mining Museum", "Deutsches Bergbau-Museum Bochum, Leibniz-Forschungsmuseum für Georessourcen", "Deutsche Montantechnologie für Rohstoff, Energie, Umwelt e.V.. Forschungsinstitut für Montangeschichte", "Deutsche Montantechnologie für Rohstoff, Energie, Umwelt e.V.. Bochum Alman Madencilik Müzesi'nde", "Bergbau-Museum Bochum (Deutsches Bergbau-Museum Bochum)" ],
@@ -11595,6 +11635,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutsches Bibliotheksinstitut",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2116919-6" ],
     "identifierGND" : [ "2116919-6" ],
     "variantName" : [ "German Library Institute", "Doitsu-Toshokan-Kenkyūsho", "Bibliotheksinstitut (Deutsches Bibliotheksinstitut)" ],
@@ -11693,12 +11734,14 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutsches Institut für Normung",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1030066-1" ],
     "identifierGND" : [ "1030066-1" ],
     "variantName" : [ "Institute for Standardization (Deutschland)", "Institut für Normung (Deutschland)", "Institut für Normung (Deutschland, Bundesrepublik)", "DIN Deutsches Institut für Normung e.V.", "German Institute for Standardization" ],
     "preferredName" : "Deutsches Institut für Normung"
   }, {
     "corporateBodyName" : "Verband Deutscher Elektrotechniker",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)40433-0" ],
     "identifierGND" : [ "40433-0" ],
     "variantName" : [ "Association of German Electrical Engineers (Verband Deutscher Elektrotechniker)" ],
@@ -11707,6 +11750,7 @@
     "corporateBodyName" : "Verband Deutscher Elektrotechniker"
   }, {
     "corporateBodyName" : "Verband der Elektrotechnik, Elektronik, Informationstechnik",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)5312882-5" ],
     "identifierGND" : [ "5312882-5" ],
     "variantName" : [ "Technisch-Wissenschaftlicher Verband der Elektrotechnik, Elektronik, Informationstechnik", "VDE Association for Electrical, Electronic and Information Technologies", "Association of German Electrical Engineers (Verband der Elektrotechnik, Elektronik, Informationstechnik)", "VDE Verband der Elektrotechnik Elektronik Informationstechnik e.V.", "Association for Electrical, Electronic and Information Technologies", "VDE e.V.", "VDE Association for Electrical, Electronic & Information Technologies", "Verband der Elektrotechnik Elektronik Informationstechnik e.V.", "Verband der Elektrotechnik, Elektronik und Informationstechnik", "Association for Electrical, Electronic & Information Technologies" ],
@@ -11715,6 +11759,7 @@
     "corporateBodyName" : "Verband der Elektrotechnik, Elektronik, Informationstechnik"
   }, {
     "corporateBodyName" : "Verein Deutscher Ingenieure",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1012118-3" ],
     "identifierGND" : [ "1012118-3" ],
     "variantName" : [ "Verein Deutscher Ingenieure in der Britischen Zone", "Société des Ingenieurs Allemands", "Verein Deutscher Ingenieure im NSBDT", "VDI e.V.", "Asociación de Ingenieros Alemanes", "Verein Deutscher Ingenieure e.V.", "Society of German Engineers", "VDI Verein Deutscher Ingenieure e.V.", "Deguo-Gongchengshi-Xuehui", "Verein Deutscher Ingenieure im Nationalsozialistischen Bund Deutscher Technik", "Doitsu Gijutsusha Kyōkai", "Association of German Engineers" ],
@@ -11723,6 +11768,7 @@
     "corporateBodyName" : "Verein Deutscher Ingenieure"
   }, {
     "corporateBodyName" : "Deutscher Verband für Schweißtechnik",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2008535-7" ],
     "identifierGND" : [ "2008535-7" ],
     "variantName" : [ "Verband für Schweißtechnik (Deutschland)", "Welding Society (Deutschland, Bundesrepublik)", "Welding Society (Deutschland, Deutscher Verband für Schweißtechnik)", "German Welding Society (Deutscher Verband für Schweißtechnik)", "Verband für Schweißtechnik (Deutschland, Bundesrepublik)", "Société Allemande de la Soudure" ],
@@ -11731,6 +11777,7 @@
     "corporateBodyName" : "Deutscher Verband für Schweißtechnik"
   }, {
     "corporateBodyName" : "Deutscher Verband für Schweißen und Verwandte Verfahren",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2167949-6" ],
     "identifierGND" : [ "2167949-6" ],
     "variantName" : [ "Deutscher Verband für Schweißen und Verwandte Verfahren e.V. - Die Verbindungsspezialisten", "Verband für Schweißen und Verwandte Verfahren (Deutschland)", "DVS - Deutscher Verband für Schweißen und Verwandte Verfahren e.V.", "German Welding Society (Deutscher Verband für Schweißen und Verwandte Verfahren)", "Welding Society (Deutschland, Deutscher Verband für Schweißen und Verwandte Verfahren)" ],
@@ -11739,6 +11786,7 @@
     "corporateBodyName" : "Deutscher Verband für Schweißen und Verwandte Verfahren"
   }, {
     "corporateBodyName" : "Verband Deutscher Elektrotechniker",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)40433-0" ],
     "identifierGND" : [ "40433-0" ],
     "variantName" : [ "Association of German Electrical Engineers (Verband Deutscher Elektrotechniker)" ],
@@ -11747,6 +11795,7 @@
     "corporateBodyName" : "Verband Deutscher Elektrotechniker"
   }, {
     "corporateBodyName" : "Verband der Elektrotechnik, Elektronik, Informationstechnik",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)5312882-5" ],
     "identifierGND" : [ "5312882-5" ],
     "variantName" : [ "Technisch-Wissenschaftlicher Verband der Elektrotechnik, Elektronik, Informationstechnik", "VDE Association for Electrical, Electronic and Information Technologies", "Association of German Electrical Engineers (Verband der Elektrotechnik, Elektronik, Informationstechnik)", "VDE Verband der Elektrotechnik Elektronik Informationstechnik e.V.", "Association for Electrical, Electronic and Information Technologies", "VDE e.V.", "VDE Association for Electrical, Electronic & Information Technologies", "Verband der Elektrotechnik Elektronik Informationstechnik e.V.", "Verband der Elektrotechnik, Elektronik und Informationstechnik", "Association for Electrical, Electronic & Information Technologies" ],
@@ -11755,6 +11804,7 @@
     "corporateBodyName" : "Verband der Elektrotechnik, Elektronik, Informationstechnik"
   }, {
     "corporateBodyName" : "Verein Deutscher Ingenieure",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1012118-3" ],
     "identifierGND" : [ "1012118-3" ],
     "variantName" : [ "Verein Deutscher Ingenieure in der Britischen Zone", "Société des Ingenieurs Allemands", "Verein Deutscher Ingenieure im NSBDT", "VDI e.V.", "Asociación de Ingenieros Alemanes", "Verein Deutscher Ingenieure e.V.", "Society of German Engineers", "VDI Verein Deutscher Ingenieure e.V.", "Deguo-Gongchengshi-Xuehui", "Verein Deutscher Ingenieure im Nationalsozialistischen Bund Deutscher Technik", "Doitsu Gijutsusha Kyōkai", "Association of German Engineers" ],
@@ -11763,6 +11813,7 @@
     "corporateBodyName" : "Verein Deutscher Ingenieure"
   }, {
     "corporateBodyName" : "Deutscher Verband für Schweißtechnik",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2008535-7" ],
     "identifierGND" : [ "2008535-7" ],
     "variantName" : [ "Verband für Schweißtechnik (Deutschland)", "Welding Society (Deutschland, Bundesrepublik)", "Welding Society (Deutschland, Deutscher Verband für Schweißtechnik)", "German Welding Society (Deutscher Verband für Schweißtechnik)", "Verband für Schweißtechnik (Deutschland, Bundesrepublik)", "Société Allemande de la Soudure" ],
@@ -11771,6 +11822,7 @@
     "corporateBodyName" : "Deutscher Verband für Schweißtechnik"
   }, {
     "corporateBodyName" : "Deutscher Verband für Schweißen und Verwandte Verfahren",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2167949-6" ],
     "identifierGND" : [ "2167949-6" ],
     "variantName" : [ "Deutscher Verband für Schweißen und Verwandte Verfahren e.V. - Die Verbindungsspezialisten", "Verband für Schweißen und Verwandte Verfahren (Deutschland)", "DVS - Deutscher Verband für Schweißen und Verwandte Verfahren e.V.", "German Welding Society (Deutscher Verband für Schweißen und Verwandte Verfahren)", "Welding Society (Deutschland, Deutscher Verband für Schweißen und Verwandte Verfahren)" ],
@@ -11884,6 +11936,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutsches Institut für Urbanistik",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)5028175-6" ],
     "identifierGND" : [ "5028175-6" ],
     "variantName" : [ "German Institute of Urban Affairs", "Deutsches Institut für Urbanistik gGmbH", "Institut für Urbanistik (Deutschland)", "Institute of Urban Affairs (Deutschland)", "Kommunalwissenschaftliches Informationszentrum" ],
@@ -12106,6 +12159,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Nordrhein-Westfalen",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)4042570-8" ],
     "identifierGND" : [ "4042570-8" ],
     "variantName" : [ "Noordrijn-Westfalen", "North-Rhine/Westphalia", "Nord-Westphalie", "North Rhine-Westphalia", "Norte-Westfalia", "Land Nordrhein-Westfalen" ],
@@ -12113,6 +12167,7 @@
   }, {
     "corporateBodyName" : "Nordrhein-Westfalen",
     "corporateBodyNameUnit" : [ "Minister für Wirtschaft und Verkehr" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)19458-X" ],
     "identifierGND" : [ "19458-X" ],
     "variantName" : [ "Nordrhein-Westfalen. Ministerium für Wirtschaft und Verkehr", "Nordrhein-Westfalen. Wirtschafts- und Verkehrsministerium", "Ministerium für Wirtschaft und Verkehr (Nordrhein-Westfalen)", "Minister für Wirtschaft und Verkehr des Landes Nordrhein-Westfalen", "Bergverwaltung (Nordrhein-Westfalen, Minister für Wirtschaft und Verkehr)", "Bergbehörden (Nordrhein-Westfalen, Minister für Wirtschaft und Verkehr)", "Wirtschafts- und Verkehrsministerium (Nordrhein-Westfalen)", "Nordrhein-Westfalen. Verkehrsministerium", "Nordrhein-Westfalen. Minister für Wirtschaft und Verkehr. Bergbehörden", "Nordrhein-Westfalen. Minister für Wirtschaft und Verkehr. Bergverwaltung", "Nordrhein-Westfalen. Minister für Wirtschaft und Verkehr. Referat Wasserwirtschaft, Gewässerkunde", "Minister für Wirtschaft und Verkehr (Nordrhein-Westfalen)" ],
@@ -12123,6 +12178,7 @@
   }, {
     "corporateBodyName" : "Nordrhein-Westfalen",
     "corporateBodyNameUnit" : [ "Minister für Wirtschaft und Verkehr" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)19458-X" ],
     "identifierGND" : [ "19458-X" ],
     "variantName" : [ "Nordrhein-Westfalen. Ministerium für Wirtschaft und Verkehr", "Nordrhein-Westfalen. Wirtschafts- und Verkehrsministerium", "Ministerium für Wirtschaft und Verkehr (Nordrhein-Westfalen)", "Minister für Wirtschaft und Verkehr des Landes Nordrhein-Westfalen", "Bergverwaltung (Nordrhein-Westfalen, Minister für Wirtschaft und Verkehr)", "Bergbehörden (Nordrhein-Westfalen, Minister für Wirtschaft und Verkehr)", "Wirtschafts- und Verkehrsministerium (Nordrhein-Westfalen)", "Nordrhein-Westfalen. Verkehrsministerium", "Nordrhein-Westfalen. Minister für Wirtschaft und Verkehr. Bergbehörden", "Nordrhein-Westfalen. Minister für Wirtschaft und Verkehr. Bergverwaltung", "Nordrhein-Westfalen. Minister für Wirtschaft und Verkehr. Referat Wasserwirtschaft, Gewässerkunde", "Minister für Wirtschaft und Verkehr (Nordrhein-Westfalen)" ],
@@ -12237,6 +12293,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Institut für Vergleichende Städtegeschichte",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2041928-4" ],
     "identifierGND" : [ "2041928-4" ],
     "variantName" : [ "Institut für Vergleichende Städtegeschichte an der WWU Münster", "Institut des Kuratoriums für Vergleichende Städtegeschichte in Münster", "Kuratorium für Vergleichende Städtegeschichte. Institut für Vergleichende Städtegeschichte", "Institut für Vergleichende Städtegeschichte", "Institut für Vergleichende Städtegeschichte in Münster" ],
@@ -12544,6 +12601,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Institution of Electrical Engineers",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1730-9" ],
     "identifierGND" : [ "1730-9" ],
     "variantName" : [ "Information Services in Physics, Electrotechnology, Computers and Control", "Institute of Electrical Engineering (Großbritannien)", "Institution of Electrical Engineers. Information Services in Physics, Electrotechnology, Computers and Control", "Institute of Electrical Engineers", "Angliĭskiĭ institut inzhenerov-ėlektrikov", "Information Services for the Physics and Engineering Communities", "Anglijskij institut inženerov-ėlektrikov", "Institution of Electrical Engineering", "Institution of Electrical Engineers. Information Services for the Physics and Engineering Communities" ],
@@ -12643,6 +12701,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Institution of Electrical Engineers",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1730-9" ],
     "identifierGND" : [ "1730-9" ],
     "variantName" : [ "Information Services in Physics, Electrotechnology, Computers and Control", "Institute of Electrical Engineering (Großbritannien)", "Institution of Electrical Engineers. Information Services in Physics, Electrotechnology, Computers and Control", "Institute of Electrical Engineers", "Angliĭskiĭ institut inzhenerov-ėlektrikov", "Information Services for the Physics and Engineering Communities", "Anglijskij institut inženerov-ėlektrikov", "Institution of Electrical Engineering", "Institution of Electrical Engineers. Information Services for the Physics and Engineering Communities" ],
@@ -12733,6 +12792,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Schiller-Nationalmuseum und Deutsches Literaturarchiv",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2008819-X" ],
     "identifierGND" : [ "2008819-X" ],
     "variantName" : [ "Schiller-Nationalmuseum und Deutsches Literaturarchiv Marbach a.N.", "Schiller-Nationalmuseum und Deutsches Literaturarchiv Marbach am Neckar" ],
@@ -12944,6 +13004,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Institut für Arbeitsmarkt- und Berufsforschung",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2034565-3" ],
     "identifierGND" : [ "2034565-3" ],
     "variantName" : [ "Bundesagentur für Arbeit. Institut für Arbeitsmarkt- und Berufsforschung", "Institut für Arbeitsmarkt- und Berufsforschung, die Forschungseinrichtung der Bundesagentur für Arbeit", "Institute for Labor Market and Occupational Research", "Institut de recherches de l'emploi", "Institute for Employment Research (Nürnberg)", "Bundesanstalt für Arbeit. Institut für Arbeitsmarkt- und Berufsforschung", "Bundesanstalt für Arbeitsvermittlung und Arbeitslosenversicherung. Institut für Arbeitsmarkt- und Berufsforschung", "Institut für Arbeitsmarkt- und Berufsforschung der Bundesagentur für Arbeit", "Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit" ],
@@ -13131,6 +13192,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Gesellschaft für Wirtschafts- und Sozialwissenschaften",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)4062733-0" ],
     "identifierGND" : [ "4062733-0" ],
     "variantName" : [ "German Economic Association" ],
@@ -13233,6 +13295,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Rheinischer Verein für Denkmalpflege und Landschaftsschutz",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)37817-3" ],
     "identifierGND" : [ "37817-3" ],
     "variantName" : [ "Rheinischer Verein für Denkmalpflege", "Rheinischer Verein für Denkmalpflege und Landschaftsschutz e.V.", "Landschaftsverband Rheinland. Rheinischer Verein für Denkmalpflege und Landschaftsschutz" ],
@@ -13457,12 +13520,14 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2038958-9" ],
     "identifierGND" : [ "2038958-9" ],
     "variantName" : [ "Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt e.V.", "German Aerospace Research Establishment", "Forschungs- und Versuchsanstalt für Luft- und Raumfahrt (Köln)" ],
     "preferredName" : "Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt"
   }, {
     "corporateBodyName" : "Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2038958-9" ],
     "identifierGND" : [ "2038958-9" ],
     "variantName" : [ "Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt e.V.", "German Aerospace Research Establishment", "Forschungs- und Versuchsanstalt für Luft- und Raumfahrt (Köln)" ],
@@ -13471,6 +13536,7 @@
     "corporateBodyName" : "Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt"
   }, {
     "corporateBodyName" : "Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2038958-9" ],
     "identifierGND" : [ "2038958-9" ],
     "variantName" : [ "Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt e.V.", "German Aerospace Research Establishment", "Forschungs- und Versuchsanstalt für Luft- und Raumfahrt (Köln)" ],
@@ -13592,6 +13658,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Bibliothekar-Lehrinstitut des Landes Nordrhein-Westfalen",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2004732-0" ],
     "identifierGND" : [ "2004732-0" ],
     "preferredName" : "Bibliothekar-Lehrinstitut des Landes Nordrhein-Westfalen"
@@ -13682,6 +13749,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Rheinisch-Westfälische Akademie der Wissenschaften",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)38897-X" ],
     "identifierGND" : [ "38897-X" ],
     "variantName" : [ "Akademie der Wissenschaften (Rheinland-Westfalen)" ],
@@ -13774,6 +13842,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Strabag-Bau-Aktiengesellschaft",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2023077-1" ],
     "identifierGND" : [ "2023077-1" ],
     "variantName" : [ "Strabag Bau AG" ],
@@ -13950,6 +14019,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutschland",
     "corporateBodyNameUnit" : [ "Bundesminister für Verkehr" ],
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyOther" : [ "Bundesrepublik" ],
     "corporateBodyIdentifier" : [ "(DE-588)2036867-7" ],
     "identifierGND" : [ "2036867-7" ],
@@ -14533,6 +14603,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutscher Verband für Schweißtechnik",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2008535-7" ],
     "identifierGND" : [ "2008535-7" ],
     "variantName" : [ "Verband für Schweißtechnik (Deutschland)", "Welding Society (Deutschland, Bundesrepublik)", "Welding Society (Deutschland, Deutscher Verband für Schweißtechnik)", "German Welding Society (Deutscher Verband für Schweißtechnik)", "Verband für Schweißtechnik (Deutschland, Bundesrepublik)", "Société Allemande de la Soudure" ],
@@ -14708,6 +14779,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Ulmer Verein - Verband für Kunst- und Kulturwissenschaften",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)17898-6" ],
     "identifierGND" : [ "17898-6" ],
     "variantName" : [ "Ulmer Verein", "Ulmer Verein - Verband für Kunst- und Kulturwissenschaften e.V." ],
@@ -14800,6 +14872,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Institut für Museumskunde",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2123177-1" ],
     "identifierGND" : [ "2123177-1" ],
     "variantName" : [ "Institute of Museology (Berlin, West)", "Staatliche Museen zu Berlin. Institut für Museumskunde", "Institut für Museumskunde, Berlin, Staatliche Museen Preußischer Kulturbesitz" ],
@@ -14892,12 +14965,14 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Berufsgenossenschaftliches Institut für Arbeitssicherheit",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2067560-4" ],
     "identifierGND" : [ "2067560-4" ],
     "variantName" : [ "Professional Associations Institute for Safety at Work" ],
     "preferredName" : "Berufsgenossenschaftliches Institut für Arbeitssicherheit"
   }, {
     "corporateBodyName" : "Zentralstelle für Unfallverhütung und Arbeitsmedizin",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2042299-4" ],
     "identifierGND" : [ "2042299-4" ],
     "variantName" : [ "Accident Prevention and Occupational Medicine Centre" ],
@@ -14906,6 +14981,7 @@
     "corporateBodyName" : "Zentralstelle für Unfallverhütung und Arbeitsmedizin"
   }, {
     "corporateBodyName" : "Zentralstelle für Unfallverhütung und Arbeitsmedizin",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2042299-4" ],
     "identifierGND" : [ "2042299-4" ],
     "variantName" : [ "Accident Prevention and Occupational Medicine Centre" ],
@@ -15002,6 +15078,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Schwäbische Forschungsgemeinschaft",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2021602-6" ],
     "identifierGND" : [ "2021602-6" ],
     "variantName" : [ "Bayerische Akademie der Wissenschaften. Kommission für Bayerische Landesgeschichte. Schwäbische Forschungsgemeinschaft", "Forschungsgemeinschaft (Schwäbische Forschungsgemeinschaft)", "Bayerische Akademie der Wissenschaften. Schwäbische Forschungsgemeinschaft", "Schwäbische Forschungsgemeinschaft e.V." ],
@@ -15119,12 +15196,14 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Verein Deutscher Bibliothekare",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)38105-6" ],
     "identifierGND" : [ "38105-6" ],
     "variantName" : [ "Vorstandschaft des Vereins Deutscher Bibliothekare", "Verein Deutscher Bibliothekare. Vorstandschaft", "Verein Deutscher Bibliothekare e.V." ],
     "preferredName" : "Verein Deutscher Bibliothekare"
   }, {
     "corporateBodyName" : "Verein der Diplom-Bibliothekare an Wissenschaftlichen Bibliotheken",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)40070-1" ],
     "identifierGND" : [ "40070-1" ],
     "preferredName" : "Verein der Diplom-Bibliothekare an Wissenschaftlichen Bibliotheken"
@@ -15323,6 +15402,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Walter Eucken Institut",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2026101-9" ],
     "identifierGND" : [ "2026101-9" ],
     "variantName" : [ "Eucken Institut", "Walter-Eucken-Institut", "Eucken (Walter Institut)", "Eucken-Institut", "Eucken Institut Freiburg im Breisgau" ],
@@ -15910,6 +15990,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Arbeitsgemeinschaft für Forschung des Landes Nordrhein-Westfalen",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)40579-6" ],
     "identifierGND" : [ "40579-6" ],
     "variantName" : [ "Arbeitsgemeinschaft Forschung Nordrhein-Westfalen" ],
@@ -16013,6 +16094,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Bundeszentrale für Politische Bildung",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2006663-6" ],
     "identifierGND" : [ "2006663-6" ],
     "variantName" : [ "Deutschland (Bundesrepublik). Bundeszentrale für Politische Bildung", "Deutschland. Bundeszentrale für Politische Bildung" ],
@@ -16638,6 +16720,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Rheinisch-Westfälische Akademie der Wissenschaften",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)38897-X" ],
     "identifierGND" : [ "38897-X" ],
     "variantName" : [ "Akademie der Wissenschaften (Rheinland-Westfalen)" ],
@@ -16871,6 +16954,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Nordrhein-Westfalen",
     "corporateBodyNameUnit" : [ "Minister für Landesplanung, Wohnungsbau und Öffentliche Arbeiten" ],
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2029419-0" ],
     "identifierGND" : [ "2029419-0" ],
     "variantName" : [ "Ministerium für Landesplanung, Wohnungsbau und Öffentliche Arbeiten (Nordrhein-Westfalen)", "Nordrhein-Westfalen. Landesplanungsbehörde (Minister für Landesplanung, Wohnungsbau und Öffentliche Arbeiten)", "Nordrhein-Westfalen. Vermessungs- und Katasterverwaltung", "Vermessungs- und Katasterverwaltung (Nordrhein-Westfalen)", "Minister für Landesplanung, Wohnungsbau und Öffentliche Arbeiten (Nordrhein-Westfalen)", "Nordrhein-Westfalen. Minister für Landesplanung, Wohnungsbau und Öffentliche Arbeiten. Landesplanungsbehörde", "Landesplanungsbehörde (Nordrhein-Westfalen, Minister für Landesplanung, Wohnungsbau und Öffentliche Arbeiten)", "Nordrhein-Westfalen. Ministerium für Landesplanung, Wohnungsbau und Öffentliche Arbeiten" ],
@@ -16977,6 +17061,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Verein für Wasser-, Boden- und Lufthygiene",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)7480-9" ],
     "identifierGND" : [ "7480-9" ],
     "variantName" : [ "Verein WaBoLu", "Verein für Wasser-Boden-Lufthygiene", "Verein für Wasser-, Boden- und Lufthygiene e.V." ],
@@ -17104,6 +17189,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutsche Verkehrswissenschaftliche Gesellschaft",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2008024-4" ],
     "identifierGND" : [ "2008024-4" ],
     "variantName" : [ "Vereinigung der höheren technischen Reichsbahnbeamten", "Vereistech", "Wissenschaftlichen Verein für Verkehrswesen", "Wissenschaftliche Verein für Verkehrstechnik", "Verkehrswissenschaftliche Gesellschaft (Deutschland)", "Deutsche Verkehrswissenschaftliche Gesellschaft e.V.", "WVV", "German Scientific Association of Transport", "Scientific Association of Transport (Deutschland)" ],
@@ -17698,6 +17784,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Rheinisches Freilichtmuseum und Landesmuseum für Volkskunde",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)5173745-0" ],
     "identifierGND" : [ "5173745-0" ],
     "variantName" : [ "Landesmuseum für Volkskunde (Mechernich)", "Freilichtmuseum und Landesmuseum für Volkskunde", "Rheinisches Freilichtmuseum und Landesmuseum für Volkskunde in Kommern", "Rheinisches Freilichtmuseum and the Landesmuseum für Volkskunde at Kommern", "Freilichtmuseum (Mechernich)", "Rheinisches Freilichtmuseum and the Landesmuseum für Volkskunde", "Rheinisches Freilichtmuseum Kommern" ],
@@ -17794,6 +17881,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Forschungsgesellschaft für das Straßenwesen",
     "corporateBodyNameUnit" : [ "Arbeitsgruppe Untergrund, Unterbau" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyOther" : [ "Deutschland, Bundesrepublik" ],
     "corporateBodyIdentifier" : [ "(DE-588)2010431-5" ],
     "identifierGND" : [ "2010431-5" ],
@@ -17893,6 +17981,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "HWWA-Institut für Wirtschaftsforschung",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2013262-1" ],
     "identifierGND" : [ "2013262-1" ],
     "variantName" : [ "Instituto Hamburgues de Economía Mundial (HWWA-Institut für Wirtschaftsforschung)", "HWWA-Institut für Wirtschaftsforschung (Hamburg)", "Hamburg Institute for International Economics", "Institute for International Economics (Hamburg)", "Hamburg Institute for International Economics (HWWA-Institut für Wirtschaftsforschung)", "Instituto Hamburgues de Economia Mundial", "Institute for International Economics (HWWA-Institut für Wirtschaftsforschung)", "Hamburg Institute of Economic Research", "HWWA-Institute for Economic Research", "Institute of Economic Research (Hamburg)", "Institut hamburgeois de recherches économiques internationales", "Institut Hambourgeois de Recherches Economiques Internationales (HWWA-Institut für Wirtschaftsforschung)", "Institut für Wirtschaftsforschung (Hamburg)" ],
@@ -17992,6 +18081,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Industriegewerkschaft Druck und Papier",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyOther" : [ "Deutschland, Bundesrepublik" ],
     "corporateBodyIdentifier" : [ "(DE-588)2013587-7" ],
     "identifierGND" : [ "2013587-7" ],
@@ -18300,6 +18390,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "C.H. Beck'sche Verlagsbuchhandlung",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2006624-7" ],
     "identifierGND" : [ "2006624-7" ],
     "variantName" : [ "Beck'sche Verlagsbuchhandlung", "C. H. Beck'sche Verlagsbuchhandlung", "Verlag C.H. Beck (C.H. Beck'sche Verlagsbuchhandlung)", "Beck (C.H. Beck'sche Verlagsbuchhandlung)", "Beck Verlag (C.H. Beck'sche Verlagsbuchhandlung)" ],
@@ -18425,6 +18516,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutschland",
     "corporateBodyNameUnit" : [ "Bundesminister für Verkehr" ],
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyOther" : [ "Bundesrepublik" ],
     "corporateBodyIdentifier" : [ "(DE-588)2036867-7" ],
     "identifierGND" : [ "2036867-7" ],
@@ -18539,6 +18631,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutscher Ausschuss für Stahlbau",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2008166-2" ],
     "identifierGND" : [ "2008166-2" ],
     "variantName" : [ "Ausschuss für Stahlbau (Deutschland, Bundesrepublik)", "DAST (Deutscher Ausschuss für Stahlbau)", "Ausschuss für Stahlbau (Deutschland)" ],
@@ -18626,6 +18719,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Georg-Michael-Pfaff-Gedächtnisstiftung",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2003505-6" ],
     "identifierGND" : [ "2003505-6" ],
     "variantName" : [ "Georg Michael Pfaff Gedächtnisstiftung", "Pfaff-Gedächtnisstiftung" ],
@@ -18740,6 +18834,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutsche Gesellschaft für Personalführung",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2007594-7" ],
     "identifierGND" : [ "2007594-7" ],
     "variantName" : [ "Gesellschaft für Personalführung (Deutschland, Bundesrepublik)", "Deutsche Gesellschaft für Personalführung e.V.", "Gesellschaft für Personalführung (Deutschland)" ],
@@ -18846,6 +18941,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Technische Universität Hannover",
     "corporateBodyNameUnit" : [ "Lehrstuhl für Ländliches Bau- und Siedlungswesen" ],
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2024115-X" ],
     "identifierGND" : [ "2024115-X" ],
     "variantName" : [ "Technische Universität Hannover. Lehrstuhl für das Ländliche Bau- und Siedlungswesen", "Lehrstuhl für das Ländliche Bau- und Siedlungswesen (Hannover, Technische Universität)", "Lehrstuhl für Ländliches Bau- und Siedlungswesen (Hannover, Technische Universität)" ],
@@ -18853,6 +18949,7 @@
   }, {
     "corporateBodyName" : "Technische Hochschule Hannover",
     "corporateBodyNameUnit" : [ "Lehrstuhl für Ländliches Bau- und Siedlungswesen" ],
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2023815-0" ],
     "identifierGND" : [ "2023815-0" ],
     "variantName" : [ "Technische Hochschule Hannover. Lehrstuhl für das Ländliche Bau- und Siedlungswesen", "Lehrstuhl für das Ländliche Bau- und Siedlungswesen (Hannover, Technische Hochschule)", "Lehrstul für Ländliches Bau- und Siedlungswesen (Hannover, Technische Hochschule)" ],
@@ -18992,6 +19089,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2038958-9" ],
     "identifierGND" : [ "2038958-9" ],
     "variantName" : [ "Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt e.V.", "German Aerospace Research Establishment", "Forschungs- und Versuchsanstalt für Luft- und Raumfahrt (Köln)" ],
@@ -19113,6 +19211,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutscher Verband für Wasserwirtschaft und Kulturbau",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2054190-9" ],
     "identifierGND" : [ "2054190-9" ],
     "variantName" : [ "Verband für Wasserwirtschaft und Kulturbau (Deutschland)", "Association allemande pour les ressources en eau et l'amélioration des sols", "Association for Water Resources and Land Improvement (Deutschland, Bundesrepublik)", "Verband für Wasserwirtschaft und Kulturbau (Deutschland, Bundesrepublik)", "Deutscher Verband für Wasserwirtschaft und Kulturbau e. V.", "German Association for Water Resources and Land Improvement", "Association for Water Resources and Land Improvement (Deutschland)" ],
@@ -19532,6 +19631,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Werkbund-Archiv",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2118282-6" ],
     "identifierGND" : [ "2118282-6" ],
     "variantName" : [ "Museum der Alltagskultur des 20. Jahrhunderts", "Museum der Alltagskultur", "Werkbund-Archiv e.V.", "Werkbund-Archiv, Museum der Alltagskultur", "Deutscher Werkbund. Werkbund-Archiv", "Museum der Alltagskultur des zwanzigsten Jahrhunderts" ],
@@ -19619,6 +19719,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Universität Hannover",
     "corporateBodyNameUnit" : [ "Institut für Verkehrswesen, Eisenbahnbau und -betrieb" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2060366-6" ],
     "identifierGND" : [ "2060366-6" ],
     "variantName" : [ "Institut für Verkehrswesen, Eisenbahnbau und -betrieb (Hannover)" ],
@@ -19821,6 +19922,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Royal Society of Chemistry",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1081648-3" ],
     "identifierGND" : [ "1081648-3" ],
     "variantName" : [ "Chemical Society (1980 -)", "Society of Chemistry" ],
@@ -19997,6 +20099,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Technische Universität München",
     "corporateBodyNameUnit" : [ "Lehrstuhl für Energiewirtschaft und Kraftwerkstechnik" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1088115-3" ],
     "identifierGND" : [ "1088115-3" ],
     "variantName" : [ "Technische Universität München. Laboratorium für Energiewirtschaft und Kraftwerkstechnik", "Laboratorium für Energiewirtschaft und Kraftwerkstechnik (München)", "Lehrstuhl und Laboratorium für Energiewirtschaft und Kraftwerkstechnik (München)", "Technische Universität München. Lehrstuhl und Laboratorium für Energiewirtschaft und Kraftwerkstechnik", "Lehrstuhl für Energiewirtschaft und Kraftwerkstechnik (München)" ],
@@ -20658,6 +20761,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Werkbund-Archiv",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2118282-6" ],
     "identifierGND" : [ "2118282-6" ],
     "variantName" : [ "Museum der Alltagskultur des 20. Jahrhunderts", "Museum der Alltagskultur", "Werkbund-Archiv e.V.", "Werkbund-Archiv, Museum der Alltagskultur", "Deutscher Werkbund. Werkbund-Archiv", "Museum der Alltagskultur des zwanzigsten Jahrhunderts" ],
@@ -22611,6 +22715,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Sandoz AG",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyOther" : [ "Basel" ],
     "corporateBodyIdentifier" : [ "(DE-588)9077-3" ],
     "identifierGND" : [ "9077-3" ],
@@ -23118,6 +23223,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Institut für Bauforschung",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyOther" : [ "Hannover" ],
     "corporateBodyIdentifier" : [ "(DE-588)2013692-4" ],
     "identifierGND" : [ "2013692-4" ],
@@ -23835,12 +23941,14 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Gesamthochschule Kassel",
     "corporateBodyNameUnit" : [ "Fachbereich Stadtplanung, Landschaftsplanung" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2064139-4" ],
     "identifierGND" : [ "2064139-4" ],
     "variantName" : [ "Fachbereich (13)", "Fachbereich Stadt- und Landschaftsplanung", "Fachbereich 13", "Fachbereich Stadtplanung, Landschaftsplanung", "Fachbereich Stadtplanung und Landschaftsplanung" ],
     "preferredName" : "Gesamthochschule Kassel. Fachbereich Stadtplanung, Landschaftsplanung"
   }, {
     "corporateBodyName" : "Arbeitsgemeinschaft Freiraum und Vegetation",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2080718-1" ],
     "identifierGND" : [ "2080718-1" ],
     "variantName" : [ "AG Freiraum und Vegetation (Kassel)", "Arbeitsgemeinschaft Freiraum und Vegetation (Kassel)", "AG FuV", "AG Freiraum und Vegetation", "Arbeitsgemeinschaft Freiraum und Vegetation (Gemeinnütziger Verein)", "Arbeitsgruppe Freiraum und Vegetation", "Arbeitsgemeinschaft Freiraum & Vegetation" ],
@@ -23849,6 +23957,7 @@
     "corporateBodyName" : "Arbeitsgemeinschaft Freiraum und Vegetation"
   }, {
     "corporateBodyName" : "Arbeitsgemeinschaft Freiraum und Vegetation",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2080718-1" ],
     "identifierGND" : [ "2080718-1" ],
     "variantName" : [ "AG Freiraum und Vegetation (Kassel)", "Arbeitsgemeinschaft Freiraum und Vegetation (Kassel)", "AG FuV", "AG Freiraum und Vegetation", "Arbeitsgemeinschaft Freiraum und Vegetation (Gemeinnütziger Verein)", "Arbeitsgruppe Freiraum und Vegetation", "Arbeitsgemeinschaft Freiraum & Vegetation" ],
@@ -23972,12 +24081,14 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Bundesanstalt für Arbeitsschutz",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2076562-9" ],
     "identifierGND" : [ "2076562-9" ],
     "variantName" : [ "Deutschland. Bundesanstalt für Arbeitsschutz", "Deutschland (Bundesrepublik). Bundesanstalt für Arbeitsschutz", "Federal Institute for Occupational Safety and Health (Bundesanstalt für Arbeitsschutz)", "Institute for Occupational Safety and Health (Bundesanstalt für Arbeitsschutz)", "Institut Fédéral de Sécurité de Santé au Travail (Bundesanstalt für Arbeitsschutz)" ],
     "preferredName" : "Bundesanstalt für Arbeitsschutz"
   }, {
     "corporateBodyName" : "Bundesanstalt für Arbeitsschutz",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2076562-9" ],
     "identifierGND" : [ "2076562-9" ],
     "variantName" : [ "Deutschland. Bundesanstalt für Arbeitsschutz", "Deutschland (Bundesrepublik). Bundesanstalt für Arbeitsschutz", "Federal Institute for Occupational Safety and Health (Bundesanstalt für Arbeitsschutz)", "Institute for Occupational Safety and Health (Bundesanstalt für Arbeitsschutz)", "Institut Fédéral de Sécurité de Santé au Travail (Bundesanstalt für Arbeitsschutz)" ],
@@ -23986,6 +24097,7 @@
     "corporateBodyName" : "Bundesanstalt für Arbeitsschutz"
   }, {
     "corporateBodyName" : "Bundesanstalt für Arbeitsschutz",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2076562-9" ],
     "identifierGND" : [ "2076562-9" ],
     "variantName" : [ "Deutschland. Bundesanstalt für Arbeitsschutz", "Deutschland (Bundesrepublik). Bundesanstalt für Arbeitsschutz", "Federal Institute for Occupational Safety and Health (Bundesanstalt für Arbeitsschutz)", "Institute for Occupational Safety and Health (Bundesanstalt für Arbeitsschutz)", "Institut Fédéral de Sécurité de Santé au Travail (Bundesanstalt für Arbeitsschutz)" ],
@@ -24104,6 +24216,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Verein Deutscher Ingenieure",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1012118-3" ],
     "identifierGND" : [ "1012118-3" ],
     "variantName" : [ "Verein Deutscher Ingenieure in der Britischen Zone", "Société des Ingenieurs Allemands", "Verein Deutscher Ingenieure im NSBDT", "VDI e.V.", "Asociación de Ingenieros Alemanes", "Verein Deutscher Ingenieure e.V.", "Society of German Engineers", "VDI Verein Deutscher Ingenieure e.V.", "Deguo-Gongchengshi-Xuehui", "Verein Deutscher Ingenieure im Nationalsozialistischen Bund Deutscher Technik", "Doitsu Gijutsusha Kyōkai", "Association of German Engineers" ],
@@ -24235,6 +24348,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Verein Deutscher Ingenieure",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1012118-3" ],
     "identifierGND" : [ "1012118-3" ],
     "variantName" : [ "Verein Deutscher Ingenieure in der Britischen Zone", "Société des Ingenieurs Allemands", "Verein Deutscher Ingenieure im NSBDT", "VDI e.V.", "Asociación de Ingenieros Alemanes", "Verein Deutscher Ingenieure e.V.", "Society of German Engineers", "VDI Verein Deutscher Ingenieure e.V.", "Deguo-Gongchengshi-Xuehui", "Verein Deutscher Ingenieure im Nationalsozialistischen Bund Deutscher Technik", "Doitsu Gijutsusha Kyōkai", "Association of German Engineers" ],
@@ -25037,6 +25151,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Wirtschaftswissenschaftliches Seminar",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)9017-7" ],
     "identifierGND" : [ "9017-7" ],
     "variantName" : [ "Ottobeurener wirtschaftswissenschaftliches Seminar", "Wirtschaftswissenschaftliches Seminar Ottobeuren", "Ottobeurener Wirtschaftswissenschaftliches Seminar", "Ottobeurer wirtschaftswissenschaftliches Seminar", "Wirtschaftswissenschaftliches Seminar (Ottobeuren)", "Ottobeurer Wirtschaftswissenschaftliches Seminar" ],
@@ -25255,6 +25370,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Graphische Sammlung Albertina",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2012512-4" ],
     "identifierGND" : [ "2012512-4" ],
     "variantName" : [ "Abeidina-Bowuguan", "Kunstsammlung Albertina (1921-2001)", "Erzherzogliche Kunstsammlung Albertina", "Grafische Sammlung Albertina", "Aodili-Abeidina-Bowuguan", "Albertina im Akademiehof (1921-2001)", "Albertina (1921-2001)", "Albertinum (1921-2001)", "Albertina Graphic Collection" ],
@@ -25430,6 +25546,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Hochschul-Informations-System GmbH",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2012120-9" ],
     "identifierGND" : [ "2012120-9" ],
     "variantName" : [ "HIS Hochschul-Informations-System GmbH", "HIS-Institut für Hochschulforschung", "HIS Hochschulinformationssystem GmbH", "Hochschulinformationssystem GmbH (Hannover)", "Hochschul-Informations-System-GmbH", "HIS GmbH", "HIS-GmbH" ],
@@ -25543,6 +25660,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Zweites Deutsches Fernsehen",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)38777-0" ],
     "identifierGND" : [ "38777-0" ],
     "variantName" : [ "German Television ZDF", "Second German Television System", "Fernsehen (Mainz)", "Deutsches Fernsehen (Zweites Deutsches Fernsehen)", "ZDF-Wirtschaftsredaktion (Mainz)", "ZDF-Fernsehen", "Fernsehrat (Zweites Deutsches Fernsehen)", "Deutsches Fernsehen (Mainz)", "Fernsehen (Zweites Deutsches Fernsehen)", "West German Television ZDF" ],
@@ -25647,6 +25765,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Akademie für Politische Bildung",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyOther" : [ "Tutzing" ],
     "corporateBodyIdentifier" : [ "(DE-588)2003667-X" ],
     "identifierGND" : [ "2003667-X" ],
@@ -26058,6 +26177,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Arbeitskreis für Hausforschung",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2034329-2" ],
     "identifierGND" : [ "2034329-2" ],
     "variantName" : [ "Arbeitskreis für Hausforschung e.V.", "AHF e.V." ],
@@ -26779,6 +26899,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "National Science Foundation",
     "corporateBodyNameUnit" : [ "Conference Board of the Mathematical Sciences" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1083827-2" ],
     "identifierGND" : [ "1083827-2" ],
     "variantName" : [ "Conference Board of the Mathematical Sciences (National Science Foundation)", "Conference Board of Mathematical Sciences", "National Science Foundation. Conference Board of Mathematical Sciences" ],
@@ -27217,6 +27338,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Henkel-Kommanditgesellschaft auf Aktien",
     "corporateBodyNameUnit" : [ "Werksarchiv" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2071199-2" ],
     "identifierGND" : [ "2071199-2" ],
     "variantName" : [ "Henkel-Kommanditgesellschaft auf Aktien. Corporate Communications. Werksarchiv", "Werksarchiv der Henkel KGaA", "Henkel-Kommanditgesellschaft auf Aktien. Unternehmenskommunikation. Werksarchiv", "Henkel-Archiv (Düsseldorf)" ],
@@ -28297,6 +28419,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Nordrhein-Westfalen",
     "corporateBodyNameUnit" : [ "Minister für Stadtentwicklung, Wohnen und Verkehr" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)213301-5" ],
     "identifierGND" : [ "213301-5" ],
     "variantName" : [ "Minister für Stadtentwicklung, Wohnen und Verkehr (Nordrhein-Westfalen)" ],
@@ -28389,6 +28512,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutscher Ausschuss für Stahlbau",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2008166-2" ],
     "identifierGND" : [ "2008166-2" ],
     "variantName" : [ "Ausschuss für Stahlbau (Deutschland, Bundesrepublik)", "DAST (Deutscher Ausschuss für Stahlbau)", "Ausschuss für Stahlbau (Deutschland)" ],
@@ -29305,6 +29429,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Institut für Landes- und Stadtentwicklungsforschung des Landes Nordrhein-Westfalen",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1025270-8" ],
     "identifierGND" : [ "1025270-8" ],
     "variantName" : [ "I.L.S.", "Institut für Landes- und Stadtentwicklungsforschung des Landes NRW", "Institut für Landes- und Stadtentwicklungsforschung Dortmund" ],
@@ -29390,6 +29515,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Skidmore, Owings and Merrill LLP",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyOther" : [ "Chicago, Ill.; New York, NY" ],
     "corporateBodyIdentifier" : [ "(DE-588)1029486-7" ],
     "identifierGND" : [ "1029486-7" ],
@@ -29488,6 +29614,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutsches Institut für Normung",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1030066-1" ],
     "identifierGND" : [ "1030066-1" ],
     "variantName" : [ "Institute for Standardization (Deutschland)", "Institut für Normung (Deutschland)", "Institut für Normung (Deutschland, Bundesrepublik)", "DIN Deutsches Institut für Normung e.V.", "German Institute for Standardization" ],
@@ -29579,6 +29706,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Wallraf-Richartz-Museum",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2026220-6" ],
     "identifierGND" : [ "2026220-6" ],
     "variantName" : [ "Wallrafianum", "Wallraf Richartz Museum", "Musée Wallraf-Richartz", "Museum Wallraf-Richartz" ],
@@ -29828,6 +29956,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Kunsthistorisches Institut in Florenz",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2016695-3" ],
     "identifierGND" : [ "2016695-3" ],
     "variantName" : [ "Institute for the History of Art", "Deutsches Kunsthistorisches Institut (Firenze)", "Kunsthistorisches Institut in Florenz - Max-Planck-Institut", "Istituto Germanico di Storia dell'Arte (Florenz)", "Kunsthistorisches Institut (Firenze)", "Istituto Tedesco di Storia dell'Arte", "Deutsches Kunsthistorisches Institut (Florenz)", "Kunsthistorisches Institut Florenz", "KHI (Kunsthistorisches Institut, Firenze)", "Kunsthistorisches Institut in Florenz Max-Planck-Institut", "Institute for the Study of the History of Art (Firenze)", "Istituto di Storia dell'Arte", "Istituto Germanico di Storia dell'Arte (Firenze)", "Florenz, Kunsthistorisches Institut", "Istituto di storia dell' arte (Firenze)", "Università degli Studi (Firenze). Istituto di Storia dell'Arte", "Institute for the Study of History of Art", "Istituto germanico di storia dell'arte di Firenze", "Max-Planck-Gesellschaft zur Förderung der Wissenschaften. Kunsthistorisches Institut (Firenze)", "Institute for the History of Art (Florenz)", "Istituto Germanico di storia dell'arte (Firenze)", "Istituto di Storia dell'Arte (Firenze)", "Max-Planck-Gesellschaft zur Förderung der Wissenschaften. Kunsthistorisches Institut in Florenz", "Institute for the History of Art (Firenze)", "Florenz / Casa Zuccari / Kunsthistorisches Institut", "Florenz / Palazzo Capponi-Incontri / Kunsthistorisches Institut", "Max-Planck-Gesellschaft zur Förderung der Wissenschaften. Kunsthistorisches Institut in Florenz Max-Planck-Institut" ],
@@ -30341,6 +30470,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutsche Forschungsanstalt für Luft- und Raumfahrt",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2007728-2" ],
     "identifierGND" : [ "2007728-2" ],
     "variantName" : [ "German Aerospace Research Establishment (Deutsche Forschungsanstalt für Luft- und Raumfahrt)", "Centre allemand de recherches aérospatiales" ],
@@ -30560,6 +30690,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Oberösterreichisches Landesmuseum",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1006323-7" ],
     "identifierGND" : [ "1006323-7" ],
     "variantName" : [ "Upper Austrian State Museum", "OÖ. Landesmuseum" ],
@@ -30663,6 +30794,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Technische Universität Hamburg-Harburg",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2067664-5" ],
     "identifierGND" : [ "2067664-5" ],
     "variantName" : [ "University of Technology (Hamburg-Harburg)", "Technische Universität Harburg", "Techn. Univ. Hamburg-Harburg", "Technical University (Hamburg-Harburg)", "TU Harburg", "TU Hamburg-Harburg", "University of Technology (Harburg)", "Hamburg University of Technology", "Technical University (Harburg)" ],
@@ -31162,6 +31294,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Abwassertechnische Vereinigung",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2003428-3" ],
     "identifierGND" : [ "2003428-3" ],
     "variantName" : [ "Association for Water Pollution Control (Deutschland)", "Association for the Water Environment (Deutschland)", "Abwassertechnische Vereinigung e.V.", "German Association for the Water Environment", "Vereinigung für Abwasser, Abfall und Gewässerschutz", "German Association for Water Pollution Control" ],
@@ -31294,12 +31427,14 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Institut für Österreichische Kunstforschung",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)39719-2" ],
     "identifierGND" : [ "39719-2" ],
     "variantName" : [ "Österreich. Bundesdenkmalamt. Institut für Österreichische Kunstforschung", "Institut für Österreichische Kunstforschung des Bundesdenkmalamtes" ],
     "preferredName" : "Institut für Österreichische Kunstforschung"
   }, {
     "corporateBodyName" : "Bundesdenkmalamt",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)39718-0" ],
     "identifierGND" : [ "39718-0" ],
     "variantName" : [ "Federal Office of Historic Monuments (Österreich)", "Österreich. Bundeskanzleramt. Bundesdenkmalamt", "Federal Monuments Authority Austria", "Österreich. Bundesdenkmalamt", "Österreich. Bundesministerium für Inneres und Unterricht. Bundesdenkmalamt", "Bundesdenkmalamt (Österreich)", "Österreich. Österreichisches Bundesdenkmalamt", "Österreich. Bundesministerium für Unterricht. Bundesdenkmalamt", "Federal Office of Historic Monuments in Austria", "Österreich. Office of Historic Monuments", "Österreichisches Bundesdenkmalamt", "Federal Monuments Authority (Österreich)" ],
@@ -31816,6 +31951,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutsche Forschungsgemeinschaft",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2007744-0" ],
     "identifierGND" : [ "2007744-0" ],
     "variantName" : [ "De yi zhi yan jiu lian he hui", "German Research Society", "German Science Foundation", "German Research Foundation", "Deutsche Forschungsgemeinschaft e.V.", "Nemecko Naučno-Issledovatel'skoe Obščestvo", "Fundación Alemana para la Investigación Científica", "German Research Council", "German Research Association" ],
@@ -31975,6 +32111,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Gesellschaft Energietechnik",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2051961-8" ],
     "identifierGND" : [ "2051961-8" ],
     "variantName" : [ "VDI-Gesellschaft Energietechnik", "Verein Deutscher Ingenieure. Gesellschaft Energietechnik", "VDI-GET (Gesellschaft Energietechnik)", "Gesellschaft für Energietechnologie", "Verein Deutscher Ingenieure. Society for Energy Technologies", "Verein Deutscher Ingenieure. Gesellschaft für Energietechnologie", "Society for Energy Technologies", "VDI-Energietechnik", "Verein deutscher Ingenieure. Gesellschaft Energietechnik" ],
@@ -32362,6 +32499,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Kestner Gesellschaft",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2015509-8" ],
     "identifierGND" : [ "2015509-8" ],
     "variantName" : [ "Kestner-Gesellschaft", "Kestner-Gesellschaft e.V.", "Kestner Gesellschaft e.V.", "Kestnergesellschaft" ],
@@ -32885,6 +33023,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Schlesisches Museum der Bildenden Künste",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyOther" : [ "Breslau" ],
     "corporateBodyIdentifier" : [ "(DE-588)5172307-4" ],
     "identifierGND" : [ "5172307-4" ],
@@ -33433,6 +33572,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Neue Galerie",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyOther" : [ "Aachen" ],
     "corporateBodyIdentifier" : [ "(DE-588)1040476-4" ],
     "identifierGND" : [ "1040476-4" ],
@@ -33789,6 +33929,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Rationalisierungs-Kuratorium der Deutschen Wirtschaft",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)6553-5" ],
     "identifierGND" : [ "6553-5" ],
     "variantName" : [ "Rationalisierungs-Kuratorium der Deutschen Wirtschaft e. V." ],
@@ -34514,6 +34655,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Documenta",
     "corporateBodyDate" : [ "1992" ],
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyNumber" : [ "9" ],
     "corporateBodyIdentifier" : [ "(DE-588)2121702-6" ],
     "identifierGND" : [ "2121702-6" ],
@@ -35385,12 +35527,14 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Westdeutsche Rektorenkonferenz",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2026559-1" ],
     "identifierGND" : [ "2026559-1" ],
     "variantName" : [ "West German Vice Chancellors' Conference", "Conference of West German University Rectors", "West German Rectors' Conference", "Conferencia de Rectores de Alemania Occidental", "West German Vice-Chancellors' Conference", "Vice-Chancellors' Conference (Deutschland, Bundesrepublik)", "Vice Chancellors' Conference (Deutschland, Bundesrepublik)", "Rektorenkonferenz (Deutschland, Bundesrepublik)", "Conférence des Recteurs d'Allemagne Occidentale", "Conférence des Recteurs d'Allemagne de l'Ouest" ],
     "preferredName" : "Westdeutsche Rektorenkonferenz"
   }, {
     "corporateBodyName" : "Hochschulrektorenkonferenz",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)5021339-8" ],
     "identifierGND" : [ "5021339-8" ],
     "variantName" : [ "Association of Rectors and Presidents of Universities and Other Higher Education Institutions in the Federal Republic of Germany", "Conference of Rectors and Presidents of Universities and Other Education Institutions in the Federal Republic of Germany", "Association of Universities and Other Higher Education Institutions in Germany", "German Rectors' Conference", "Conference of Rectors and Presidents of Universities and Other Higher Education Institutions in the Federal Republic of Germany", "Conferencia de los Rectores de los Institutos Universitarios", "Konferenz der Rektoren und Präsidenten der Hochschulen in der Bundesrepublik Deutschland - Hochschulrektorenkonferenz", "Rectors' Conference (Deutschland)", "Hochschulrektorenkonferenz (HRK)", "HRK Hochschulrektorenkonferenz" ],
@@ -38228,6 +38372,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "International Union of Railways",
+    "corporateBodyRole" : [ "Autor/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)2015652-2" ],
     "identifierGND" : [ "2015652-2" ],
     "variantName" : [ "International Railway Union", "Unión Internacional de Ferrocarriles", "Međunarodna železnička unija", "Unione internazionale delle ferrovie", "Union internationale des chemins de fer", "Mednarodna Železniška Zveza", "Internationaler Eisenbahnverband" ],
@@ -38488,6 +38633,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2038958-9" ],
     "identifierGND" : [ "2038958-9" ],
     "variantName" : [ "Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt e.V.", "German Aerospace Research Establishment", "Forschungs- und Versuchsanstalt für Luft- und Raumfahrt (Köln)" ],
@@ -39169,6 +39315,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Herzog & de Meuron",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2104319-X" ],
     "identifierGND" : [ "2104319-X" ],
     "variantName" : [ "Meuron (Firma)", "De Meuron, Herzog und", "De Meuron, Herzog &", "Meuron, Herzog & de", "DeMeuron, Herzog und", "Herzog & de Meuron Architekten Basel", "Meuron, Herzog und de", "Büro Herzog und de Meuron", "Herzog und de Meuron", "Büro Herzog & de Meuron", "Herzog & de Meuron Architekturbüro", "Herzog (Firma : Basel)" ],
@@ -39516,6 +39663,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Fachgespräch Autonome Mobile Systeme",
     "corporateBodyDate" : [ "1997" ],
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyNumber" : [ "13" ],
     "corporateBodyIdentifier" : [ "(DE-588)5253455-8" ],
     "identifierGND" : [ "5253455-8" ],
@@ -43222,6 +43370,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Museum für Neue Kunst",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyOther" : [ "Karlsruhe" ],
     "corporateBodyIdentifier" : [ "(DE-588)2165826-2" ],
     "identifierGND" : [ "2165826-2" ],
@@ -43229,6 +43378,7 @@
     "preferredName" : "Museum für Neue Kunst (Karlsruhe)"
   }, {
     "corporateBodyName" : "Zentrum für Kunst und Medientechnologie Karlsruhe",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)56384-5" ],
     "identifierGND" : [ "56384-5" ],
     "variantName" : [ "ZKM Karlsruhe", "Center for Art and Media Karlsruhe", "Centre d'art et de technologie médiatique Karlsruhe", "Zentrum für Kunst und Medien Karlsruhe", "Centre d'art et de technologie des médias Karlsruhe" ],
@@ -43236,6 +43386,7 @@
   }, {
     "corporateBodyName" : "Ausstellung Video Cultures: Multimediale Installationen der 90er Jahre",
     "corporateBodyDate" : [ "1999" ],
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)6009058-3" ],
     "identifierGND" : [ "6009058-3" ],
     "preferredName" : "Ausstellung Video Cultures: Multimediale Installationen der 90er Jahre (1999 : Karlsruhe)"
@@ -44173,6 +44324,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Ausstellung Helfershelfer - Türbremse, Tropfenfänger und Andere Obligate Symbionten",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)16253068-7" ],
     "identifierGND" : [ "16253068-7" ],
     "preferredName" : "Ausstellung Helfershelfer - Türbremse, Tropfenfänger und Andere Obligate Symbionten"
@@ -44911,6 +45063,7 @@
   "CorporateBody" : [ {
     "corporateBodyName" : "Universität Essen",
     "corporateBodyNameUnit" : [ "Studiengang Kommunikationsdesign" ],
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2178328-7" ],
     "identifierGND" : [ "2178328-7" ],
     "variantName" : [ "Universität Essen. Fachbereich Gestaltung, Kunsterziehung. Studiengang Kommunikationsdesign", "Kommunikationsdesign (Universität Essen)", "Universität Essen. Fachbereich Gestaltung, Kunsterziehung. Kommunikationsdesign", "Studiengang Kommunikationsdesign (Universität Essen)", "Universität Essen. Kommunikationsdesign" ],
@@ -45202,6 +45355,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Museum of Contemporary Art",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyOther" : [ "Los Angeles, Calif." ],
     "corporateBodyIdentifier" : [ "(DE-588)819589-4" ],
     "identifierGND" : [ "819589-4" ],
@@ -45209,6 +45363,7 @@
   }, {
     "corporateBodyName" : "Exhibition The Architecture of R. M. Schindler",
     "corporateBodyDate" : [ "2001 - 2002" ],
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)10011040-X" ],
     "identifierGND" : [ "10011040-X" ],
     "variantName" : [ "Ausstellung The Architecture of R. M. Schindler (2001 - 2002 : Los Angeles, Calif. u.a.)" ],
@@ -45752,6 +45907,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Technische Universität Dresden",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2024114-8" ],
     "identifierGND" : [ "2024114-8" ],
     "variantName" : [ "Technische Univ. Dresden", "University of Technology Dresden", "Techničeskij universitet Dresden", "Technical University Dresden", "TU Dresden (Körperschaft)", "Uniwersytet Techniczny Dresden", "Dresden University of Technology", "Universidad Técnica Dresden", "University of Dresden", "Technische Universität (Dresden)", "Université technique Dresden" ],
@@ -48819,6 +48975,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Arc en Rêve Centre d'Architecture",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyOther" : [ "Bordeaux" ],
     "corporateBodyIdentifier" : [ "(DE-588)5003121-1" ],
     "identifierGND" : [ "5003121-1" ],
@@ -49395,6 +49552,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Wilhelm-Hack-Museum",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2055392-4" ],
     "identifierGND" : [ "2055392-4" ],
     "variantName" : [ "Wilhelm-Hack-Museum Ludwigshafen am Rhein", "Hack-Museum", "Wilhelm-Hack-Museum der Stadt Ludwigshafen am Rhein", "Muzej Vilʹgelʹma Chaka Ljudvigschafen", "Muzej Vil'gelm Chak", "Wilhelm-Hack-Museum Ludwigshafen", "wilhelmhack.museum" ],
@@ -49402,6 +49560,7 @@
   }, {
     "corporateBodyName" : "Ausstellung I Love Aldi",
     "corporateBodyDate" : [ "2011 - 2012" ],
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)16335077-2" ],
     "identifierGND" : [ "16335077-2" ],
     "preferredName" : "Ausstellung I Love Aldi (2011 - 2012 : Ludwigshafen am Rhein)"
@@ -49590,12 +49749,14 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "World Press Photo Foundation",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)1030205-0" ],
     "identifierGND" : [ "1030205-0" ],
     "variantName" : [ "Stichting World Press Photo", "Stiftung World Press Photo", "Foundation World Press Photo", "World Press Photo (Foundation World Press Photo)", "Fondation World Press Photo", "World Press Photo Holland Foundation" ],
     "preferredName" : "World Press Photo Foundation"
   }, {
     "corporateBodyName" : "World Press Photo Foundation",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)1030205-0" ],
     "identifierGND" : [ "1030205-0" ],
     "variantName" : [ "Stichting World Press Photo", "Stiftung World Press Photo", "Foundation World Press Photo", "World Press Photo (Foundation World Press Photo)", "Fondation World Press Photo", "World Press Photo Holland Foundation" ],
@@ -49739,12 +49900,14 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Kestner Gesellschaft",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)2015509-8" ],
     "identifierGND" : [ "2015509-8" ],
     "variantName" : [ "Kestner-Gesellschaft", "Kestner-Gesellschaft e.V.", "Kestner Gesellschaft e.V.", "Kestnergesellschaft" ],
     "preferredName" : "Kestner Gesellschaft"
   }, {
     "corporateBodyName" : "Musée d'art moderne de la ville de Paris",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)1006821-1" ],
     "identifierGND" : [ "1006821-1" ],
     "variantName" : [ "MAM Ville de Paris", "Bali-Jindai-Meishuguan", "Jindai-Meishuguan (Paris)", "Musée Municipal d'Art Moderne (Paris)", "Musée d'art moderne de Paris", "Musée d'art moderne (Paris)" ],
@@ -50082,6 +50245,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Palais des Beaux-Arts",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyOther" : [ "Brüssel" ],
     "corporateBodyIdentifier" : [ "(DE-588)42324-5" ],
     "identifierGND" : [ "42324-5" ],
@@ -51221,6 +51385,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Verlag C.H. Beck",
+    "corporateBodyRole" : [ "Verlag" ],
     "corporateBodyIdentifier" : [ "(DE-588)1023902869" ],
     "identifierGND" : [ "1023902869" ],
     "variantName" : [ "Verlag C. H. Beck oHG", "C.H. Beck (Firma)", "Beck (Verlag C.H. Beck)" ],
@@ -51418,6 +51583,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Fraunhofer IRB-Verlag",
+    "corporateBodyRole" : [ "Verlag" ],
     "corporateBodyIdentifier" : [ "(DE-588)4786605-6" ],
     "identifierGND" : [ "4786605-6" ],
     "variantName" : [ "Fraunhofer Verlag", "Fraunhofer - Ges. z. Förderung der angew. Forschung e.V. Fraunhofer IRB Verlag" ],
@@ -51638,6 +51804,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Verlag C.H. Beck",
+    "corporateBodyRole" : [ "Verlag" ],
     "corporateBodyIdentifier" : [ "(DE-588)1023902869" ],
     "identifierGND" : [ "1023902869" ],
     "variantName" : [ "Verlag C. H. Beck oHG", "C.H. Beck (Firma)", "Beck (Verlag C.H. Beck)" ],
@@ -52713,6 +52880,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Dietrich-Untertrifaller Architekten",
+    "corporateBodyRole" : [ "Architekt/in" ],
     "corporateBodyOther" : [ "Bregenz" ],
     "corporateBodyIdentifier" : [ "(DE-588)6090189-5" ],
     "identifierGND" : [ "6090189-5" ],
@@ -52994,6 +53162,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "UVK Verlagsgesellschaft mbH",
+    "corporateBodyRole" : [ "Verlag" ],
     "corporateBodyIdentifier" : [ "(DE-588)106537268X" ],
     "identifierGND" : [ "106537268X" ],
     "preferredName" : "UVK Verlagsgesellschaft mbH"
@@ -53791,6 +53960,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Andy Warhol Foundation for the Visual Arts",
+    "corporateBodyRole" : [ "Sonstige" ],
     "corporateBodyIdentifier" : [ "(DE-588)10001059-3" ],
     "identifierGND" : [ "10001059-3" ],
     "variantName" : [ "Warhol Foundation", "Warhol Foundation for the Visual Arts" ],
@@ -54579,6 +54749,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Wiley-VCH",
+    "corporateBodyRole" : [ "Verlag" ],
     "corporateBodyIdentifier" : [ "(DE-588)16179388-5" ],
     "identifierGND" : [ "16179388-5" ],
     "preferredName" : "Wiley-VCH"
@@ -54816,6 +54987,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutsche Bundesstiftung Umwelt",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)5090756-6" ],
     "identifierGND" : [ "5090756-6" ],
     "variantName" : [ "Bundesstiftung Umwelt (Deutschland)", "Deutsche Bundesstiftung Umwelt gGmbH", "Federal Environment Foundation (Deutschland)", "Bundesstiftung Umwelt (Deutschland, Bundesrepublik)", "Umwelt-Stiftung", "German Federal Environment Foundation" ],
@@ -57261,6 +57433,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Christian Brandstätter Verlag GmbH & Co KG",
+    "corporateBodyRole" : [ "Verlag" ],
     "corporateBodyIdentifier" : [ "(DE-588)1065532393" ],
     "identifierGND" : [ "1065532393" ],
     "variantName" : [ "Brandstätter Verlag", "Brandstätter-Verlag" ],
@@ -57904,12 +58077,14 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Deutsches Institut für Normung",
+    "corporateBodyRole" : [ "Herausgeber/in" ],
     "corporateBodyIdentifier" : [ "(DE-588)1030066-1" ],
     "identifierGND" : [ "1030066-1" ],
     "variantName" : [ "Institute for Standardization (Deutschland)", "Institut für Normung (Deutschland)", "Institut für Normung (Deutschland, Bundesrepublik)", "DIN Deutsches Institut für Normung e.V.", "German Institute for Standardization" ],
     "preferredName" : "Deutsches Institut für Normung"
   }, {
     "corporateBodyName" : "Wilhelm Ernst & Sohn",
+    "corporateBodyRole" : [ "Verlag" ],
     "corporateBodyIdentifier" : [ "(DE-588)2026876-2" ],
     "identifierGND" : [ "2026876-2" ],
     "variantName" : [ "Verlag für Architektur und Technische Wissenschaften (Berlin)", "Verlag Wilhelm Ernst und Sohn", "Wilhelm Ernst & Sohn (Berlin)", "Verlag für Architektur und Technische Wissenschaften GmbH & Co. KG", "Ernst und Sohn, Verlag Wilhelm (Berlin)", "Wilhelm Ernst und Sohn", "Verlag Ernst & Sohn (Berlin)", "Verlag Wilhelm Ernst & Sohn (Berlin)", "Wilhelm Ernst & Sohn Verlag für Architektur und technische Wissenschaften GmbH & Co. KG", "Verlag Wilhelm Ernst und Sohn (Berlin)", "Wilhelm Ernst & Sohn, Verlag für Architektur und Technische Wissenschaften", "Verlag für Architektur und Technische Wissenschaften", "Wilhelm Ernst & Sohn, Verlag für Architektur und Technische Wissenschaften (Berlin)", "Ernst und Sohn (Berlin)", "Ernst & Sohn (Berlin)", "Wilhelm Ernst und Sohn, Verlag (Berlin)", "Ernst und Sohn" ],
@@ -58198,6 +58373,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Verlag C.H. Beck",
+    "corporateBodyRole" : [ "Verlag" ],
     "corporateBodyIdentifier" : [ "(DE-588)1023902869" ],
     "identifierGND" : [ "1023902869" ],
     "variantName" : [ "Verlag C. H. Beck oHG", "C.H. Beck (Firma)", "Beck (Verlag C.H. Beck)" ],
@@ -58798,10 +58974,12 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "International Monetary Fund",
-    "corporateBodyNameUnit" : [ "Middle East and Central Asia Dept" ]
+    "corporateBodyNameUnit" : [ "Middle East and Central Asia Dept" ],
+    "corporateBodyRole" : [ "Autor/in" ]
   }, {
     "corporateBodyName" : "International Monetary Fund",
-    "corporateBodyNameUnit" : [ "Middle East and Central Asia Dept" ]
+    "corporateBodyNameUnit" : [ "Middle East and Central Asia Dept" ],
+    "corporateBodyRole" : [ "Sonstige" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Iraq"
@@ -59122,9 +59300,11 @@
     "preferredISSN" : "19347685"
   } ],
   "CorporateBody" : [ {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Autor/in" ]
   }, {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Sonstige" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "New Zealand"
@@ -59226,9 +59406,11 @@
     "preferredISSN" : "19347685"
   } ],
   "CorporateBody" : [ {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Autor/in" ]
   }, {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Sonstige" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Kingdom of Lesotho"
@@ -59570,9 +59752,11 @@
     "preferredISSN" : "19347685"
   } ],
   "CorporateBody" : [ {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Autor/in" ]
   }, {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Sonstige" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "United Kingdom"
@@ -59671,9 +59855,11 @@
     "preferredISSN" : "05388759"
   } ],
   "CorporateBody" : [ {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Autor/in" ]
   }, {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Sonstige" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Social Dimensions of the IMF'S Policy Di Alogue"
@@ -60559,9 +60745,11 @@
     "preferredISSN" : "19347685"
   } ],
   "CorporateBody" : [ {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Autor/in" ]
   }, {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Sonstige" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Cyprus"
@@ -60771,9 +60959,11 @@
     "preferredISSN" : "00747025"
   } ],
   "CorporateBody" : [ {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Autor/in" ]
   }, {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Sonstige" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Summary Proceedings of the Sixtieth Annual Meeting of the Board of Governors"
@@ -60875,9 +61065,11 @@
     "preferredISSN" : "19347685"
   } ],
   "CorporateBody" : [ {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Autor/in" ]
   }, {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Sonstige" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Lao People's Democratic Republic"
@@ -60979,9 +61171,11 @@
     "preferredISSN" : "19347685"
   } ],
   "CorporateBody" : [ {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Autor/in" ]
   }, {
-    "corporateBodyName" : "International Monetary Fund"
+    "corporateBodyName" : "International Monetary Fund",
+    "corporateBodyRole" : [ "Sonstige" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Solomon Islands"
@@ -61084,10 +61278,12 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "International Monetary Fund",
-    "corporateBodyNameUnit" : [ "European Dept" ]
+    "corporateBodyNameUnit" : [ "European Dept" ],
+    "corporateBodyRole" : [ "Autor/in" ]
   }, {
     "corporateBodyName" : "International Monetary Fund",
-    "corporateBodyNameUnit" : [ "European Dept" ]
+    "corporateBodyNameUnit" : [ "European Dept" ],
+    "corporateBodyRole" : [ "Sonstige" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Euro Area Policies"
@@ -61192,9 +61388,11 @@
     "preferredISSN" : "19347685"
   } ],
   "CorporateBody" : [ {
-    "corporateBodyName" : "International Monetary Fund. Asia and Pacific Dept"
+    "corporateBodyName" : "International Monetary Fund. Asia and Pacific Dept",
+    "corporateBodyRole" : [ "Autor/in" ]
   }, {
-    "corporateBodyName" : "International Monetary Fund. Asia and Pacific Dept"
+    "corporateBodyName" : "International Monetary Fund. Asia and Pacific Dept",
+    "corporateBodyRole" : [ "Sonstige" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "People’s Republic of China"
