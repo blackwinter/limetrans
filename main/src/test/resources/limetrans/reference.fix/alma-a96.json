@@ -61110,7 +61110,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Galileo Press",
-    "corporateBodyRole" : [ "[Verlag]" ]
+    "corporateBodyRole" : [ "Verlag" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Debian GNU, Linux"
@@ -62971,10 +62971,10 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Donet͡sʹkyĭ derz͡havnyĭ universytet,",
-    "corporateBodyRole" : [ "[issuing body.]" ]
+    "corporateBodyRole" : [ "issuing body." ]
   }, {
     "corporateBodyName" : "Donet͡sʹkyĭ nat͡sionalʹnyĭ universytet,",
-    "corporateBodyRole" : [ "[issuing body.]" ]
+    "corporateBodyRole" : [ "issuing body." ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Linhvistychni studiï"
@@ -63282,10 +63282,10 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Институт славяноведения (Российская академия наук)",
-    "corporateBodyRole" : [ "[издающая организация]" ]
+    "corporateBodyRole" : [ "издающая организация" ]
   }, {
     "corporateBodyName" : "Институт славяноведения (Российская академия наук)",
-    "corporateBodyRole" : [ "[издающая организация]" ]
+    "corporateBodyRole" : [ "издающая организация" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Категория оценки и система ценностей в языке и культуре"
@@ -63933,7 +63933,7 @@
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Fachhochschule Aachen",
-    "corporateBodyRole" : [ "[Grad-verleihende Institution]" ],
+    "corporateBodyRole" : [ "Grad-verleihende Institution" ],
     "corporateBodyIdentifier" : [ "(DE-588)1101482451" ],
     "identifierGND" : [ "1101482451" ],
     "variantName" : [ "Technische Hochschule Georg Agricola für Rohstoff, Energie und Umwelt zu Bochum", "TH Georg Agricola", "Technische Hochschule Bochum", "TH Bochum" ],
