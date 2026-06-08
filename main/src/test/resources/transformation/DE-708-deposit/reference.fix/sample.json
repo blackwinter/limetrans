@@ -28,7 +28,7 @@
   },
   "Person" : [ {
     "personName" : "Acker, Heike",
-    "personRole" : [ "[Author]" ],
+    "personRole" : [ "Author" ],
     "personIdentifier" : [ "(DE-588)141069678" ],
     "identifierGND" : [ "141069678" ]
   } ],
@@ -51,12 +51,12 @@
   },
   "PersonContributor" : [ {
     "personName" : "Bast, Roland",
-    "personRole" : [ "[Thesis advisor]" ],
+    "personRole" : [ "Thesis advisor" ],
     "personIdentifier" : [ "(DE-588)108519740" ],
     "identifierGND" : [ "108519740" ]
   }, {
     "personName" : "Pfundtner, Raimund",
-    "personRole" : [ "[Reviewer]" ],
+    "personRole" : [ "Reviewer" ],
     "personIdentifier" : [ "(DE-588)132907690" ],
     "identifierGND" : [ "132907690" ]
   } ],
@@ -99,7 +99,7 @@
   },
   "Person" : [ {
     "personName" : "Kienle, Andrea",
-    "personRole" : [ "[Author]" ],
+    "personRole" : [ "Author" ],
     "personIdentifier" : [ "(DE-588)124723470" ],
     "identifierGND" : [ "124723470" ]
   } ],
@@ -128,7 +128,7 @@
   },
   "PersonContributor" : [ {
     "personName" : "Haake, Jörg M.",
-    "personRole" : [ "[Reviewer]" ],
+    "personRole" : [ "Reviewer" ],
     "personIdentifier" : [ "(DE-588)112929931" ],
     "identifierGND" : [ "112929931" ]
   } ],
@@ -347,7 +347,7 @@
   },
   "Person" : [ {
     "personName" : "Böttcher, Roger",
-    "personRole" : [ "[Author]" ],
+    "personRole" : [ "Author" ],
     "personIdentifier" : [ "(DE-588)130898988" ],
     "identifierGND" : [ "130898988" ]
   } ],
@@ -379,7 +379,7 @@
   },
   "PersonContributor" : [ {
     "personName" : "Duma, Andrei",
-    "personRole" : [ "[Reviewer]" ],
+    "personRole" : [ "Reviewer" ],
     "personIdentifier" : [ "(DE-588)108213935" ],
     "identifierGND" : [ "108213935" ]
   } ],
@@ -422,7 +422,7 @@
   },
   "Person" : [ {
     "personName" : "Knütter, Rolf",
-    "personRole" : [ "[Author]" ],
+    "personRole" : [ "Author" ],
     "personIdentifier" : [ "(DE-588)133754812" ],
     "identifierGND" : [ "133754812" ]
   } ],
@@ -465,7 +465,7 @@
   } ],
   "PersonCreator" : [ {
     "personName" : "Mohr, Benjamin",
-    "personRole" : [ "[Author]" ],
+    "personRole" : [ "Author" ],
     "personIdentifier" : [ "(DE-588)137111304" ],
     "identifierGND" : [ "137111304" ]
   } ]
@@ -500,7 +500,7 @@
   },
   "Person" : [ {
     "personName" : "Fechner, Bernhard",
-    "personRole" : [ "[Author]" ],
+    "personRole" : [ "Author" ],
     "personIdentifier" : [ "(DE-588)136114873" ],
     "identifierGND" : [ "136114873" ]
   } ],
@@ -542,7 +542,7 @@
   } ],
   "PersonCreator" : [ {
     "personName" : "Keller, Jörg",
-    "personRole" : [ "[Author]" ],
+    "personRole" : [ "Author" ],
     "personIdentifier" : [ "(DE-588)132286769" ],
     "identifierGND" : [ "132286769" ]
   } ]
@@ -648,7 +648,7 @@
   },
   "PersonContributor" : [ {
     "personName" : "The World Bank",
-    "personRole" : [ "[Editor]" ]
+    "personRole" : [ "Editor" ]
   } ],
   "ConstituentUnitEntry" : [ {
     "mainEntryHeading" : "The World Bank; Universitätsbibliothek Hagen (Digitale Sammlungen), Digitalisate und Netzpublikationen",
@@ -733,7 +733,7 @@
   },
   "Person" : [ {
     "personName" : "Junge, Thorsten",
-    "personRole" : [ "[Author]" ],
+    "personRole" : [ "Author" ],
     "personIdentifier" : [ "(DE-588)1047171945" ],
     "identifierGND" : [ "1047171945" ]
   } ],
@@ -776,7 +776,7 @@
   } ],
   "PersonCreator" : [ {
     "personName" : "Clausen, Dennis",
-    "personRole" : [ "[Author]" ],
+    "personRole" : [ "Author" ],
     "personIdentifier" : [ "(DE-588)1045663530" ],
     "identifierGND" : [ "1045663530" ]
   } ]
@@ -814,7 +814,7 @@
   } ],
   "Person" : [ {
     "personName" : "Junge, Thorsten",
-    "personRole" : [ "[Author]" ],
+    "personRole" : [ "Author" ],
     "personIdentifier" : [ "(DE-588)1047171945" ],
     "identifierGND" : [ "1047171945" ]
   } ],
@@ -860,10 +860,10 @@
   } ],
   "PersonCreator" : [ {
     "personName" : "Schumacher, Claudia",
-    "personRole" : [ "[Author]" ]
+    "personRole" : [ "Author" ]
   }, {
     "personName" : "Clausen, Dennis",
-    "personRole" : [ "[Author]" ],
+    "personRole" : [ "Author" ],
     "personIdentifier" : [ "(DE-588)1045663530" ],
     "identifierGND" : [ "1045663530" ]
   } ]
@@ -898,7 +898,7 @@
   } ],
   "Person" : [ {
     "personName" : "Felten, Michael",
-    "personRole" : [ "[Author]" ],
+    "personRole" : [ "Author" ],
     "personIdentifier" : [ "(DE-588)142659266" ],
     "identifierGND" : [ "142659266" ]
   } ],
@@ -975,7 +975,7 @@
   } ],
   "Person" : [ {
     "personName" : "Ladendorf, Oliver",
-    "personRole" : [ "[Author]" ],
+    "personRole" : [ "Author" ],
     "personIdentifier" : [ "(DE-588)124607314" ],
     "identifierGND" : [ "124607314" ]
   } ],
@@ -1001,12 +1001,12 @@
   },
   "PersonContributor" : [ {
     "personName" : "Völzmann-Stickelbrock, Barbara",
-    "personRole" : [ "[Thesis advisor]" ],
+    "personRole" : [ "Thesis advisor" ],
     "personIdentifier" : [ "(DE-588)135610885" ],
     "identifierGND" : [ "135610885" ]
   }, {
     "personName" : "Völzmann-Stickelbrock, Barbara",
-    "personRole" : [ "[Reviewer]" ],
+    "personRole" : [ "Reviewer" ],
     "personIdentifier" : [ "(DE-588)135610885" ],
     "identifierGND" : [ "135610885" ]
   } ],

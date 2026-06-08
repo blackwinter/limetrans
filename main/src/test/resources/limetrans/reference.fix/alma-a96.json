@@ -436,7 +436,7 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Wählisch, Georg",
-    "personRole" : [ "[Betreuer]" ]
+    "personRole" : [ "Betreuer" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-A96)991000043359706444"
@@ -499,7 +499,7 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Behbahani, Mehdi",
-    "personRole" : [ "[Betreuer]" ]
+    "personRole" : [ "Betreuer" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-A96)991000048849706444"
@@ -560,7 +560,7 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Sander, Volker",
-    "personRole" : [ "[Betreuer]" ]
+    "personRole" : [ "Betreuer" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-A96)991001149389706444"
@@ -623,7 +623,7 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Seibler, Jost",
-    "personRole" : [ "[Betreuer]" ]
+    "personRole" : [ "Betreuer" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-A96)991001128369706444"
@@ -808,7 +808,7 @@
   } ],
   "Person" : [ {
     "personName" : "Anderson, Kym",
-    "personRole" : [ "[Author]" ]
+    "personRole" : [ "Author" ]
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "University of Adelaide Press,"
@@ -966,7 +966,7 @@
   } ],
   "Person" : [ {
     "personName" : "Hegger, Manfred",
-    "personRole" : [ "[author.]" ]
+    "personRole" : [ "author." ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Materialität"
@@ -1019,10 +1019,10 @@
   "TypeMedia" : "Elektronische Ressource",
   "PersonCreator" : [ {
     "personName" : "Drexler, Hans",
-    "personRole" : [ "[author.]" ]
+    "personRole" : [ "author." ]
   }, {
     "personName" : "Zeumer, Martin",
-    "personRole" : [ "[author.]" ]
+    "personRole" : [ "author." ]
   } ],
   "TitleOther" : [ {
     "title" : "Materialität",
@@ -1466,7 +1466,7 @@
     "identifierGND" : [ "108735184" ]
   }, {
     "personName" : "Laisiepen, Klaus",
-    "personRole" : [ "[Begründer des Werks]" ],
+    "personRole" : [ "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)105708305" ],
     "identifierGND" : [ "105708305" ]
   } ],
@@ -1654,7 +1654,7 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Wählisch, Georg",
-    "personRole" : [ "[Betreuer]" ]
+    "personRole" : [ "Betreuer" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-A96)991000067219706444"
@@ -1853,7 +1853,7 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Behbahani, Mehdi",
-    "personRole" : [ "[Betreuer]" ]
+    "personRole" : [ "Betreuer" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-A96)991000073589706444"
@@ -2827,7 +2827,7 @@
   } ],
   "Person" : [ {
     "personName" : "Hübener, Rudolf P.",
-    "personRole" : [ "[author.]" ]
+    "personRole" : [ "author." ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Leiter, Halbleiter, Supraleiter"
@@ -5558,7 +5558,7 @@
   }, {
     "personName" : "Vierny, Dina",
     "personBio" : "1919-2009",
-    "personRole" : [ "[Bearb.]" ],
+    "personRole" : [ "Bearb." ],
     "personIdentifier" : [ "(DE-588)132738120" ],
     "identifierGND" : [ "132738120" ],
     "variantName" : [ "Verni, Dina", "Aibinder, Dina Iakovlevna", "Aibinder, Dina Jakovlevna" ],
@@ -6260,7 +6260,7 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Freytag, Heinrich",
-    "personRole" : [ "[Bearb.]" ]
+    "personRole" : [ "Bearb." ]
   } ],
   "SeriesAddedEntryUniformTitle" : [ {
     "title" : "Life, die Photographie",
@@ -21086,7 +21086,7 @@
   "PersonContributor" : [ {
     "personName" : "Houben, Josef",
     "personBio" : "1875-1940",
-    "personRole" : [ "[Begründer des Werks]" ],
+    "personRole" : [ "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)117013870" ],
     "identifierGND" : [ "117013870" ],
     "variantName" : [ "Houben, J.", "Houben, Heinrich Hubert Maria Josef", "Houben-Weyl, ...", "Houben, H. J." ],
@@ -21507,7 +21507,7 @@
   "PersonContributor" : [ {
     "personName" : "Rahtgens, Hugo",
     "personBio" : "1872-1946",
-    "personRole" : [ "[Bearb.]" ],
+    "personRole" : [ "Bearb." ],
     "personIdentifier" : [ "(DE-588)116337443" ],
     "identifierGND" : [ "116337443" ],
     "variantName" : [ "Rahtgens, Hugo Georg" ],
@@ -21686,7 +21686,7 @@
   "PersonContributor" : [ {
     "personName" : "Lueger, Otto",
     "personBio" : "1843-1911",
-    "personRole" : [ "[Begründer des Werks]" ],
+    "personRole" : [ "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)117667358" ],
     "identifierGND" : [ "117667358" ],
     "variantName" : [ "Lüger, Otto" ],
@@ -24411,7 +24411,7 @@
     "preferredName" : "Debatin, Helmut"
   }, {
     "personName" : "Korn, Rudolf",
-    "personRole" : [ "[Begründer des Werks]" ]
+    "personRole" : [ "Begründer des Werks" ]
   }, {
     "personName" : "Wassermeyer, Franz",
     "personBio" : "1940-",
@@ -26102,7 +26102,7 @@
   "PersonContributor" : [ {
     "personName" : "Lorenz, Stephan",
     "personBio" : "1961-",
-    "personRole" : [ "[Bearb.]" ],
+    "personRole" : [ "Bearb." ],
     "personIdentifier" : [ "(DE-588)137372930" ],
     "identifierGND" : [ "137372930" ],
     "preferredName" : "Lorenz, Stephan"
@@ -29105,7 +29105,7 @@
   "PersonContributor" : [ {
     "personName" : "Gall, Ernst",
     "personBio" : "1888-1958",
-    "personRole" : [ "[Bearb.]" ],
+    "personRole" : [ "Bearb." ],
     "personIdentifier" : [ "(DE-588)118689266" ],
     "identifierGND" : [ "118689266" ],
     "variantName" : [ "Gall" ],
@@ -30682,7 +30682,7 @@
   }, {
     "personName" : "Selg, Herbert",
     "personBio" : "1935-2017",
-    "personRole" : [ "[Begründer des Werks]" ],
+    "personRole" : [ "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)120732602" ],
     "identifierGND" : [ "120732602" ],
     "preferredName" : "Selg, Herbert"
@@ -30806,7 +30806,7 @@
   "PersonContributor" : [ {
     "personName" : "Römpp, Hermann",
     "personBio" : "1901-1964",
-    "personRole" : [ "[Begründer des Werks]" ],
+    "personRole" : [ "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)124682057" ],
     "identifierGND" : [ "124682057" ],
     "variantName" : [ "Römpp", "Schmid, Helmut" ],
@@ -31203,7 +31203,7 @@
   "PersonContributor" : [ {
     "personName" : "Frey, Dagobert",
     "personBio" : "1883-1962",
-    "personRole" : [ "[Begründer des Werks]" ],
+    "personRole" : [ "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)118693220" ],
     "identifierGND" : [ "118693220" ],
     "preferredName" : "Frey, Dagobert"
@@ -34479,7 +34479,7 @@
   "PersonContributor" : [ {
     "personName" : "Bergmann, Ludwig",
     "personBio" : "1898-1959",
-    "personRole" : [ "[Begründer des Werks]" ],
+    "personRole" : [ "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)130394025" ],
     "identifierGND" : [ "130394025" ],
     "variantName" : [ "Bergmann, L.", "Bergmann, Hans Franz Rudolf Ludwig" ],
@@ -34487,7 +34487,7 @@
   }, {
     "personName" : "Schaefer, Clemens",
     "personBio" : "1878-1968",
-    "personRole" : [ "[Begründer des Werks]" ],
+    "personRole" : [ "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)11709644X" ],
     "identifierGND" : [ "11709644X" ],
     "variantName" : [ "Schaefer, C.", "Schaefer, Cl.", "Schaefer, Klemens", "Bergmann-Schaefer", "Schäfer, Clemens" ],
@@ -34612,7 +34612,7 @@
     "preferredName" : "Hopt, Klaus J."
   }, {
     "personName" : "Gadow, Wilhelm",
-    "personRole" : [ "[Begründer des Werks]" ]
+    "personRole" : [ "Begründer des Werks" ]
   } ],
   "AdditionalPhysicalFormEntry" : [ {
     "relationshipInformation" : [ "Erscheint auch als" ],
@@ -36796,7 +36796,7 @@
   "PersonContributor" : [ {
     "personName" : "Staudinger, Julius von",
     "personBio" : "1836-1902",
-    "personRole" : [ "[Begründer des Werks]" ],
+    "personRole" : [ "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)102034869" ],
     "identifierGND" : [ "102034869" ],
     "variantName" : [ "Staudinger, Jul. von", "Staudinger, Julius v.", "Staudinger, Julius", "Staudinger, J. von" ],
@@ -38833,7 +38833,7 @@
     "personName" : "Buder, Marianne"
   }, {
     "personName" : "Laisiepen, Klaus",
-    "personRole" : [ "[Begründer des Werks]" ]
+    "personRole" : [ "Begründer des Werks" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990050093380206441"
@@ -40418,7 +40418,7 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Conrad, Peter",
-    "personRole" : [ "[Bearb.]" ],
+    "personRole" : [ "Bearb." ],
     "personIdentifier" : [ "(DE-588)131961853" ],
     "identifierGND" : [ "131961853" ],
     "variantName" : [ "Conrad, P." ],
@@ -41520,7 +41520,7 @@
   "PersonContributor" : [ {
     "personName" : "Erman, Walter",
     "personBio" : "1904-1982",
-    "personRole" : [ "[Begründer des Werks]" ],
+    "personRole" : [ "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)102156417" ],
     "identifierGND" : [ "102156417" ],
     "preferredName" : "Erman, Walter"
@@ -41534,7 +41534,7 @@
   }, {
     "personName" : "Aderhold, Lutz",
     "personBio" : "1951-",
-    "personRole" : [ "[Bearb.]" ],
+    "personRole" : [ "Bearb." ],
     "personIdentifier" : [ "(DE-588)1050901800" ],
     "identifierGND" : [ "1050901800" ],
     "preferredName" : "Aderhold, Lutz"
@@ -45477,11 +45477,11 @@
   },
   "PersonContributor" : [ {
     "personName" : "Gross, Helmut",
-    "personRole" : [ "[Begründer des Werks]" ]
+    "personRole" : [ "Begründer des Werks" ]
   }, {
     "personName" : "Arndt, Karl-Friedrich",
     "personBio" : "1948-2015",
-    "personRole" : [ "[Bearb.]" ],
+    "personRole" : [ "Bearb." ],
     "personIdentifier" : [ "(DE-588)1071626434" ],
     "identifierGND" : [ "1071626434" ],
     "variantName" : [ "Arndt, K.-F.", "Arndt, Karl-Fr." ],
@@ -48094,7 +48094,7 @@
   }, {
     "personName" : "Hisaishi, Joe",
     "personBio" : "1950-",
-    "personRole" : [ "[Musik]" ],
+    "personRole" : [ "Musik" ],
     "personIdentifier" : [ "(DE-588)135208653" ],
     "identifierGND" : [ "135208653" ],
     "variantName" : [ "Hisaishi Jō", "久石譲", "Hisaishi, Jo", "Hisaishi, Joe" ],
@@ -51306,7 +51306,7 @@
   "PersonContributor" : [ {
     "personName" : "Schaub, Günter",
     "personBio" : "1933-2013",
-    "personRole" : [ "[Begründer des Werks]" ],
+    "personRole" : [ "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)119556901" ],
     "identifierGND" : [ "119556901" ],
     "variantName" : [ "Schaub, Günther" ],
@@ -61106,7 +61106,7 @@
   } ],
   "Person" : [ {
     "personName" : "Jurzik, Heike",
-    "personRole" : [ "[Verfasser]" ]
+    "personRole" : [ "Verfasser" ]
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Galileo Press",
@@ -63316,7 +63316,7 @@
   },
   "PersonContributor" : [ {
     "personName" : "Толстая, С. М",
-    "personRole" : [ "[редактор]" ]
+    "personRole" : [ "редактор" ]
   } ],
   "SourceOfDescriptionNote" : [ {
     "note" : "Description based on physical resource."
@@ -63786,7 +63786,7 @@
   } ],
   "Person" : [ {
     "personName" : "Maioli, Martino",
-    "personRole" : [ "[author.]" ]
+    "personRole" : [ "author." ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Enrico Paribeni e la Ceramica Attica Di Populonia"
@@ -63926,7 +63926,7 @@
   "Person" : [ {
     "personName" : "Genth, Till",
     "personBio" : "1991-",
-    "personRole" : [ "[Autor/in]" ],
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1235623440" ],
     "identifierGND" : [ "1235623440" ],
     "preferredName" : "Genth, Till"
@@ -63972,14 +63972,14 @@
   "PersonContributor" : [ {
     "personName" : "Melchers, Christian",
     "personBio" : "1977-",
-    "personRole" : [ "[Akademische Betreuung]" ],
+    "personRole" : [ "Akademische Betreuung" ],
     "personIdentifier" : [ "(DE-588)141348364" ],
     "identifierGND" : [ "141348364" ],
     "variantName" : [ "Melchers, Ch.", "Melchers, C." ],
     "preferredName" : "Melchers, Christian"
   }, {
     "personName" : "Jasnowski-Peters, Henning",
-    "personRole" : [ "[Akademische Betreuung]" ]
+    "personRole" : [ "Akademische Betreuung" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-A96)991000720349606444"
