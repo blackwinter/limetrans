@@ -628,7 +628,8 @@
     "languageSource" : "ger"
   } ],
   "Person" : [ {
-    "personName" : "Irsch, Nikolaus"
+    "personName" : "Irsch, Nikolaus",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Romanische Bauten im Kreise Ahrweiler"
@@ -773,7 +774,8 @@
     "languageSource" : "ger"
   } ],
   "Person" : [ {
-    "personName" : "Weidner, Andreas"
+    "personName" : "Weidner, Andreas",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Gebiets-Album Schenkenberg bei Sinzig"
@@ -973,6 +975,7 @@
   "PersonContributor" : [ {
     "personName" : "Frankenberg, Peter",
     "personBio" : "1947-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)123876559" ],
     "identifierGND" : [ "123876559" ],
     "preferredName" : "Frankenberg, Peter"
@@ -1082,7 +1085,8 @@
     "volume" : [ "Jg. 39, H. 6" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Leipert, Christian"
+    "personName" : "Leipert, Christian",
+    "personRole" : [ "Sonstige" ]
   } ],
   "SeriesAddedEntryUniformTitle" : [ {
     "title" : "Geographische Rundschau",
@@ -2006,7 +2010,8 @@
     "sortIndicator" : "1"
   } ],
   "PersonContributor" : [ {
-    "personName" : "Schuh, Frieder"
+    "personName" : "Schuh, Frieder",
+    "personRole" : [ "Beitragende/r" ]
   } ],
   "SubjectHeadings" : [ {
     "subject" : "Wörterbuch"
@@ -2096,6 +2101,7 @@
   "Person" : [ {
     "personName" : "Langenbucher, Hellmuth",
     "personBio" : "1905-1980",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)116707380" ],
     "identifierGND" : [ "116707380" ],
     "preferredName" : "Langenbucher, Hellmuth"
@@ -2326,6 +2332,7 @@
   "PersonContributor" : [ {
     "personName" : "Bach, Johann Sebastian",
     "personBio" : "1685-1750",
+    "personRole" : [ "Komposition" ],
     "personIdentifier" : [ "(DE-588)11850553X" ],
     "identifierGND" : [ "11850553X" ],
     "variantName" : [ "Bach, I. S.", "Bach, Giov. Seb.", "Bach, Sebastian", "Bach, Iogann Sebastian", "Bach, Johann-Sebastian", "Bakh, Iogann Sebastian", "Bach, Joh. Sebas.", "Bach, Johann Seb.", "Bach, Joh. Sebastian", "Bach, Iogann S.", "Bach, Jan Sebastian", "Bāḵ, Jōhān Sebaṣtī'ān", "Bach, Sebastiano", "Bach, John Sebastian", "Bach, Jean-Sébastien", "Bach, Jean Sébastien", "Bach, Johann S.", "Bach, Giov. Sebast.", "Bach, Johann", "Bach, Jean Sebastien", "Bach, Iogann Sebastʹjan", "Bach, Johannes S.", "Bach, G. S.", "Bach, Joh. Seb.", "Bach, J. S.", "Bach", "Bach, Joannes Sebastianus", "Bach, Iogann Sebastjan", "Bach, Iogann Sebast'jan", "Bach, Giovanni S.", "Bach, Giovanni Sebastiano", "Bach, Jean Sebastian", "Bach, Johan Sebastian", "Bach, Jean-Sebastien", "Bach, Joh. Sebast.", "Bach, J.-S.", "Bach, Giovanni Sebastian", "Bach, J. Seb.", "Bach, Johannes Sebastian", "Bach, Joh.-Seb.", "Bach, Jean S." ],
@@ -2333,6 +2340,7 @@
   }, {
     "personName" : "Dürr, Alfred",
     "personBio" : "1918-2011",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)118527894" ],
     "identifierGND" : [ "118527894" ],
     "variantName" : [ "Dürr, Alfr." ],
@@ -2506,6 +2514,7 @@
   "PersonContributor" : [ {
     "personName" : "Verdi, Giuseppe",
     "personBio" : "1813-1901",
+    "personRole" : [ "Komposition" ],
     "personIdentifier" : [ "(DE-588)118626523" ],
     "identifierGND" : [ "118626523" ],
     "variantName" : [ "Verdi, Fortunato Giuseppe Francesco", "Verdi, G.", "Верди, Джузеппе Фортуни́но Франче́ско", "Verdi, Giuseppe Fortun. Francesco", "Verdi, Joseph", "Verdi, Josef", "Верди, Джузеппе", "Verdi, Džiuzeppe", "Verdy, Giuseppe", "Verdi, Giuseppe Fortunino Francesco", "Verdi, Džuzepe", "Verdi, J.", "Verdi, Guiseppe", "Verdi, Fortunino Giuseppe Francesco", "Verdi, Džuzeppe", "Verdi", "Verdi, Fortunio Giuseppe Francesco", "Verdi, Jos." ],
@@ -2513,6 +2522,7 @@
   }, {
     "personName" : "Gossett, Philip",
     "personBio" : "1941-2017",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)103981756" ],
     "identifierGND" : [ "103981756" ],
     "variantName" : [ "Gossett, Philippe" ],
@@ -2617,7 +2627,8 @@
     "variantISBN" : [ "978-3-86150-336-1", "3-86150-336-0" ]
   } ],
   "Person" : [ {
-    "personName" : "Arijon, Daniel"
+    "personName" : "Arijon, Daniel",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Grammatik der Filmsprache"
@@ -2739,6 +2750,7 @@
   "Person" : [ {
     "personName" : "Schliemann, Heinrich",
     "personBio" : "1822-1890",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118608215" ],
     "identifierGND" : [ "118608215" ],
     "variantName" : [ "Slēman, Herrikos", "Schliemann, Henri", "Schliemann, Enrico", "Schliemann, Henry", "Schlēman, Herrikos", "Šliman, Genrich", "Schliemann, Johann Ludwig Heinrich Julius", "Schliemann, H.", "Shliman, Genrikh" ],

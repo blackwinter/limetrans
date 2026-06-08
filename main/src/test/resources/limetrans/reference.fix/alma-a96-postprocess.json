@@ -716,6 +716,7 @@
   "Person" : [ {
     "personName" : "Kahl, Günter",
     "personBio" : "1943-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)133130754" ],
     "identifierGND" : [ "133130754" ],
     "preferredName" : "Kahl, Günter"
@@ -1116,6 +1117,7 @@
   } ],
   "Person" : [ {
     "personName" : "Setzen, Karl M.",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)177401427" ],
     "identifierGND" : [ "177401427" ]
   } ],
@@ -1237,6 +1239,7 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Schmidt, Klaus J.",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)111951097" ],
     "identifierGND" : [ "111951097" ]
   } ],
@@ -1358,6 +1361,7 @@
   "PersonContributor" : [ {
     "personName" : "Fenselau, Catherine",
     "personBio" : "1939-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1018725954" ],
     "identifierGND" : [ "1018725954" ],
     "preferredName" : "Fenselau, Catherine"
@@ -1486,11 +1490,12 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Buder, Marianne",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)108735184" ],
     "identifierGND" : [ "108735184" ]
   }, {
     "personName" : "Laisiepen, Klaus",
-    "personRole" : [ "Begründer des Werks" ],
+    "personRole" : [ "Sonstige", "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)105708305" ],
     "identifierGND" : [ "105708305" ]
   } ],
@@ -1586,7 +1591,8 @@
     "description" : "Erschienen: Erschienen: Student's book, Key, Teacher's book sowie CD bzw. Tonkassetten"
   } ],
   "PersonContributor" : [ {
-    "personName" : "Skipper, Mark"
+    "personName" : "Skipper, Mark",
+    "personRole" : [ "Sonstige" ]
   } ],
   "SubjectHeadings" : [ {
     "subject" : "Aufgabensammlung"
@@ -2041,6 +2047,7 @@
   "Person" : [ {
     "personName" : "Haas-Arndt, Doris",
     "personBio" : "1957-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)121619087" ],
     "identifierGND" : [ "121619087" ],
     "variantName" : [ "Hägermann, Doris", "Arndt, Doris Haas-", "Haas, Doris" ],
@@ -2225,6 +2232,7 @@
   } ],
   "Person" : [ {
     "personName" : "Derler, Petra",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)115793771" ],
     "identifierGND" : [ "115793771" ],
     "preferredName" : "Derler, Petra"
@@ -2883,7 +2891,7 @@
   } ],
   "Person" : [ {
     "personName" : "Hübener, Rudolf P.",
-    "personRole" : [ "author." ]
+    "personRole" : [ "Autor/in", "author." ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Leiter, Halbleiter, Supraleiter"
@@ -3026,6 +3034,7 @@
   "Person" : [ {
     "personName" : "McLuhan, Marshall",
     "personBio" : "1911-1980",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118729977" ],
     "identifierGND" : [ "118729977" ],
     "variantName" : [ "McLuhan, H. Marshall", "MacLuhan, Herbert Marshall", "MacLuhan, H. Marshall", "Mc Luhan, Marshall", "MacLuhan, Marshall", "McLuhan, Herbert Marshall" ],
@@ -3164,6 +3173,7 @@
   "Person" : [ {
     "personName" : "Gieseke, Wolfram",
     "personBio" : "1971-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)141678259" ],
     "identifierGND" : [ "141678259" ],
     "variantName" : [ "Gieseke, Wolfgang", "Gieseke, Walfram", "Gieseke", "Gieseke, W." ],
@@ -3453,6 +3463,7 @@
   "Person" : [ {
     "personName" : "Lüttgens, Günter",
     "personBio" : "1933-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)109296443" ],
     "identifierGND" : [ "109296443" ],
     "variantName" : [ "Lüttgens, G." ],
@@ -3534,20 +3545,24 @@
   "PersonCreator" : [ {
     "personName" : "Lüttgens, Sylvia",
     "personBio" : "1946-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1142576795" ],
     "identifierGND" : [ "1142576795" ],
     "preferredName" : "Lüttgens, Sylvia"
   }, {
     "personName" : "Emde, Stefan",
     "personBio" : "1960-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1201773784" ],
     "identifierGND" : [ "1201773784" ],
     "preferredName" : "Emde, Stefan"
   }, {
-    "personName" : "Pidoll, Ulrich von"
+    "personName" : "Pidoll, Ulrich von",
+    "personRole" : [ "Autor/in" ]
   }, {
     "personName" : "Schubert, Wolfgang",
     "personBio" : "1952-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1026875439" ],
     "identifierGND" : [ "1026875439" ],
     "preferredName" : "Schubert, Wolfgang"
@@ -3728,6 +3743,7 @@
   "PersonContributor" : [ {
     "personName" : "Birbaumer, Niels-Peter",
     "personBio" : "1945-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)121603164" ],
     "identifierGND" : [ "121603164" ],
     "variantName" : [ "Birbaumer, Niels P.", "Birbaumer, N. P.", "Birbaumer, Niels Peter", "Birbaumer, Niels", "Birbaumer, N.-P.", "Birbaumer, Niels-P.", "Birbaumer, N." ],
@@ -3824,7 +3840,8 @@
     "variantISBN" : [ "978-1-4842-6123-1", "1484261232", "1-4842-6123-2" ]
   } ],
   "Person" : [ {
-    "personName" : "Paluszek, Michael"
+    "personName" : "Paluszek, Michael",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "MATLAB recipes"
@@ -3920,7 +3937,8 @@
     "shelfmark" : "JUE_Frei"
   } ],
   "PersonCreator" : [ {
-    "personName" : "Thomas, Stephanie"
+    "personName" : "Thomas, Stephanie",
+    "personRole" : [ "Autor/in" ]
   } ],
   "RSWK" : [ {
     "subjectTopicName" : [ "Computer software" ],
@@ -4024,6 +4042,7 @@
   } ],
   "Person" : [ {
     "personName" : "Spichale, Kai",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)112194647X" ],
     "identifierGND" : [ "112194647X" ],
     "preferredName" : "Spichale, Kai"
@@ -4184,7 +4203,8 @@
     "standardNumber" : "10.1007/978-3-662-61651-2"
   } ],
   "Person" : [ {
-    "personName" : "Lorenz, Uwe"
+    "personName" : "Lorenz, Uwe",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Reinforcement Learning"
@@ -4743,6 +4763,7 @@
   "PersonContributor" : [ {
     "personName" : "Truffaut, François",
     "personBio" : "1932-1984",
+    "personRole" : [ "Filmregie" ],
     "personIdentifier" : [ "(DE-588)118624202" ],
     "identifierGND" : [ "118624202" ],
     "variantName" : [ "Trjuffo, Fransua", "Truffaut, F." ],
@@ -4750,6 +4771,7 @@
   }, {
     "personName" : "Moreau, Jeanne",
     "personBio" : "1928-2017",
+    "personRole" : [ "Schauspieler/in" ],
     "personIdentifier" : [ "(DE-588)118864688" ],
     "identifierGND" : [ "118864688" ],
     "variantName" : [ "Laclos, M. Jeanne Moreau" ],
@@ -4757,6 +4779,7 @@
   }, {
     "personName" : "Serre, Henri",
     "personBio" : "1931-",
+    "personRole" : [ "Schauspieler/in" ],
     "personIdentifier" : [ "(DE-588)130482501" ],
     "identifierGND" : [ "130482501" ],
     "variantName" : [ "Sera, Henri" ],
@@ -4764,6 +4787,7 @@
   }, {
     "personName" : "Werner, Oskar",
     "personBio" : "1922-1984",
+    "personRole" : [ "Schauspieler/in" ],
     "personIdentifier" : [ "(DE-588)118767186" ],
     "identifierGND" : [ "118767186" ],
     "variantName" : [ "Bschliessmayer, Josef", "Bschließmayer, Oskar Josef", "Bschliessmayr, Oskar Josef" ],
@@ -4979,7 +5003,8 @@
     "extent" : "184 S. : überwiegend Ill."
   },
   "PersonContributor" : [ {
-    "personName" : "Benker, Gertrud"
+    "personName" : "Benker, Gertrud",
+    "personRole" : [ "Sonstige" ]
   } ],
   "SubjectHeadings" : [ {
     "subject" : "Geschichte"
@@ -5083,6 +5108,7 @@
   "Person" : [ {
     "personName" : "Dilly, Heinrich",
     "personBio" : "1941-2019",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)129780251" ],
     "identifierGND" : [ "129780251" ],
     "variantName" : [ "Dilly, H." ],
@@ -5286,7 +5312,8 @@
     "title" : [ "Loseblatt: Texte, Kommentare" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Konitzer, Heribert"
+    "personName" : "Konitzer, Heribert",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "AdditionalPhysicalFormEntry" : [ {
     "relationshipInformation" : [ "Erscheint auch als" ],
@@ -5387,6 +5414,7 @@
   "Person" : [ {
     "personName" : "Gombrich, Ernst H.",
     "personBio" : "1909-2001",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118540637" ],
     "identifierGND" : [ "118540637" ],
     "variantName" : [ "에른스트 H. 곰브리치", "E leun seu teu H. Gom beu li chi", "冈布里奇", "Gombrich, Ernst H. J.", "Gombrich, E.", "Gombrich, E. H.", "贡布里希", "Gombrich, Ernst Hans Joseph", "Gombrihs, Ernsts H.", "Gombrich, E. H", "Gombrich, Ernst Hans", "곰브리치 에른스트 H.", "Gonburitusa, E. H.", "Gombrikh, E. H.", "Gombrich, Ernst", "Gongbulixi", "Gombrich, E.H.", "岡布里奇", "Gong bu li xi", "Gombrixi, Ernst", "貢布里希", "Gang bu li qi", "Gombrih, Ernst H.", "Gombrich, Ernst Hans Josef", "Gombrich, Ėrnst Chans", "გომბრიხი, ერნსტ", "גומבריך, ארנסט", "Gangbuliqi", "Gom beu li chi, E leun seu teu H.", "Gombrikh, E.H.", "Kang-pu-li-chì", "Gombrich, Ernest H." ],
@@ -5496,6 +5524,7 @@
   "Person" : [ {
     "personName" : "Kollbrunner, Curt F.",
     "personBio" : "1907-1983",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118564862" ],
     "identifierGND" : [ "118564862" ],
     "variantName" : [ "Kollbrunner, C.F.", "Kollbrunner, Kurt Friedrich", "Kollbrunner, Curt Friedrich", "Kollbrunner, Curt Fritz", "Kollbrunner, K. F.", "Kollbrunner, Kurt Fritz", "Kollbrunner, Kurt F.", "Kollbrunner, C. F.", "Kollbrunner, Curt" ],
@@ -5550,7 +5579,8 @@
     "shelfmark" : "BAY_Frei"
   } ],
   "PersonCreator" : [ {
-    "personName" : "Meister, Martin"
+    "personName" : "Meister, Martin",
+    "personRole" : [ "Autor/in" ]
   } ]
 }
 {
@@ -5638,6 +5668,7 @@
   "PersonContributor" : [ {
     "personName" : "Maillol, Aristide",
     "personBio" : "1861-1944",
+    "personRole" : [ "Illustration" ],
     "personIdentifier" : [ "(DE-588)118730274" ],
     "identifierGND" : [ "118730274" ],
     "variantName" : [ "Magiol, Aristeidēs", "Maillol, Aristide Bonaventure Jean", "Maillol, Aristide Joseph Bonaventure", "Majol', Aristid" ],
@@ -5645,6 +5676,7 @@
   }, {
     "personName" : "Peters, Hans Albert",
     "personBio" : "1937-2014",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)143263781" ],
     "identifierGND" : [ "143263781" ],
     "variantName" : [ "Peters, Hans-Adalbert", "Peters, Hans", "Peters, Hans-Albert", "Peters, Giovanni Alberto", "Peters, Hans A." ],
@@ -5652,7 +5684,7 @@
   }, {
     "personName" : "Vierny, Dina",
     "personBio" : "1919-2009",
-    "personRole" : [ "Bearb." ],
+    "personRole" : [ "Sonstige", "Bearb." ],
     "personIdentifier" : [ "(DE-588)132738120" ],
     "identifierGND" : [ "132738120" ],
     "variantName" : [ "Verni, Dina", "Aibinder, Dina Iakovlevna", "Aibinder, Dina Jakovlevna" ],
@@ -5784,7 +5816,8 @@
     "extent" : "XVI, 308 S. : Ill., graph. Darst."
   },
   "PersonContributor" : [ {
-    "personName" : "Kleinert, Andreas"
+    "personName" : "Kleinert, Andreas",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "SubjectHeadings" : [ {
     "subject" : "Geschichte 1800-1900"
@@ -5896,12 +5929,14 @@
   "PersonContributor" : [ {
     "personName" : "Picasso, Pablo",
     "personBio" : "1881-1973",
+    "personRole" : [ "Illustration" ],
     "personIdentifier" : [ "(DE-588)118594206" ],
     "identifierGND" : [ "118594206" ],
     "variantName" : [ "Pikasso", "Пикассо", "Ruiz-Picasso, Pablo", "Pikaso, Pablo", "Pikaso", "Picasso", "Ruiz, Pablo", "Pikasso, Pablo", "Ruys Picasso, Pablo", "Pikasso, Pamplo", "Pi-chia-so", "Ruys, Pablo", "Pikaso, Pamplo", "Picasso, Pablo Ruiz y", "Ruiz y Picasso, Pablo", "Pikasso, Pabura", "Piḳaso, ...", "Bikasu, Bablu", "Pikaso, Pabura", "Ruiz Picasso, Pablo", "Pikaso, Paulos", "Pikasso, Paulos", "Picasso, Pablo Ruys", "Picasso, Pablo Ruiz", "Ruys-Picasso, Pablo", "Saci Pos", "Sacipos" ],
     "preferredName" : "Picasso, Pablo"
   }, {
-    "personName" : "Thimme, Jürgen"
+    "personName" : "Thimme, Jürgen",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://digitale-objekte.hbz-nrw.de/storage2/2018/06/11/file_1/7894331.pdf",
@@ -6001,7 +6036,8 @@
     "variantISBN" : [ "978-3-534-07487-7", "3-534-07487-4" ]
   } ],
   "Person" : [ {
-    "personName" : "Pick, Heinz"
+    "personName" : "Pick, Heinz",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Einführung in die Festkörperphysik"
@@ -6110,7 +6146,8 @@
     "variantISBN" : [ "978-0-387-81649-4", "0-387-81649-6" ]
   } ],
   "Person" : [ {
-    "personName" : "Pilny, Franz"
+    "personName" : "Pilny, Franz",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Risse und Fugen in Bauwerken"
@@ -6238,6 +6275,7 @@
   "PersonContributor" : [ {
     "personName" : "Pinder, Wilhelm",
     "personBio" : "1878-1947",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)118792237" ],
     "identifierGND" : [ "118792237" ],
     "variantName" : [ "Pinder, W.", "Pinder, Georg Maximilian Wilhelm", "Rindmehl, Lewi P." ],
@@ -6245,6 +6283,7 @@
   }, {
     "personName" : "Hege, Walter",
     "personBio" : "1893-1955",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)119000148" ],
     "identifierGND" : [ "119000148" ],
     "preferredName" : "Hege, Walter"
@@ -6360,7 +6399,7 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Freytag, Heinrich",
-    "personRole" : [ "Bearb." ]
+    "personRole" : [ "Sonstige", "Bearb." ]
   } ],
   "SeriesAddedEntryUniformTitle" : [ {
     "title" : "Life, die Photographie",
@@ -6448,6 +6487,7 @@
   "Person" : [ {
     "personName" : "Sedlmayr, Hans",
     "personBio" : "1896-1984",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118612557" ],
     "identifierGND" : [ "118612557" ],
     "variantName" : [ "Sedlmayr, H.", "Zedlʹmajr, Chans", "Sedlmayr, János", "Sedlmayr, Johann", "Schwarz, Hans", "Zedlʹmajr, Gans", "Zedlʹmaĭr, Khans", "Zêderumaiya, H." ],
@@ -6568,7 +6608,8 @@
     "variantISBN" : [ "978-3-451-16411-8", "3-451-16411-6" ]
   } ],
   "Person" : [ {
-    "personName" : "Sehon, Hannes"
+    "personName" : "Sehon, Hannes",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Physikalische Chemie"
@@ -6687,6 +6728,7 @@
   "Person" : [ {
     "personName" : "Bihalji-Merin, Oto",
     "personBio" : "1904-1993",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)104534516" ],
     "identifierGND" : [ "104534516" ],
     "variantName" : [ "Merin, Pierre", "Thoene, Peter", "Bikhali-Merin, Oto", "Merin, Otto", "Bihaly, Otto", "Bihalji, Oto", "Merin, Peter", "Merin, Oto Bihalji-", "Merin, Oto Bihalji", "Bihalji-Merin, Otto", "Bihalji, Otto", "Bihalji-Merin, O." ],
@@ -6712,6 +6754,7 @@
   "PersonContributor" : [ {
     "personName" : "Goya y Lucientes, Francisco José de",
     "personBio" : "1746-1828",
+    "personRole" : [ "Illustration" ],
     "personIdentifier" : [ "(DE-588)118541064" ],
     "identifierGND" : [ "118541064" ],
     "variantName" : [ "Goyah", "Goya, Francesco", "Goya, Francisco J.", "Goya y Lucientes, Francisco José", "Goya y Lucientes, Francisco", "Goya, Francisco José de", "Gkogia, Phransisko", "Gojja", "Lucientes, Jose de Goya y", "Lucientes, Francisco de Goya y", "Goya", "Goya, Francisco", "Goya, Francisco José", "Gojja, Fransisko", "Goya y Lucientes, Francisco de", "Goja, Frankisko", "Lucientes, Francisco Goya y", "Lucientes, Francisco José de Goya y", "Goya, Louis-Philippe", "Goya y Lucientes, Francisco de Paula José", "Goya y Lucientes, Francisco J. de", "Gojja, Francisko", "Goya, Francisco de", "Goja, Fransisko Chose", "Гойя, Франсиско", "Goya y Lucienta, Francisco José de", "Goya, Franzisco", "Goya Lucientes, Francisco José de", "Goya, Francesco de" ],
@@ -6800,7 +6843,8 @@
     "languageSource" : "ger"
   } ],
   "Person" : [ {
-    "personName" : "Seilnacht, Willy"
+    "personName" : "Seilnacht, Willy",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Das Bauen in der Landwirtschaft"
@@ -6930,7 +6974,8 @@
     "variantISBN" : [ "978-3-7701-0128-3", "3-7701-0128-6" ]
   } ],
   "Person" : [ {
-    "personName" : "Seitz, William C."
+    "personName" : "Seitz, William C.",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Claude Monet"
@@ -6958,6 +7003,7 @@
   "PersonContributor" : [ {
     "personName" : "Monet, Claude",
     "personBio" : "1840-1926",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)11858345X" ],
     "identifierGND" : [ "11858345X" ],
     "variantName" : [ "Mone, Klod", "Monet, Claude Oscar", "Monet, Claude-Oscar", "Monet, Oscar Claude", "Mone, Klōt", "Monet, Claude O." ],
@@ -7061,6 +7107,7 @@
   "Person" : [ {
     "personName" : "Selle, Gert",
     "personBio" : "1933-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)115351698" ],
     "identifierGND" : [ "115351698" ],
     "variantName" : [ "Selle, Gerd" ],
@@ -7198,6 +7245,7 @@
   "Person" : [ {
     "personName" : "Weber, Annemarie",
     "personBio" : "1953-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)132915235" ],
     "identifierGND" : [ "132915235" ],
     "variantName" : [ "Schuller, Annemarie" ],
@@ -7376,6 +7424,7 @@
   "PersonContributor" : [ {
     "personName" : "Weber, Wilhelm",
     "personBio" : "1918-1999",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)121213013" ],
     "identifierGND" : [ "121213013" ],
     "variantName" : [ "Weber, Karl Wilhelm" ],
@@ -7491,6 +7540,7 @@
   "Person" : [ {
     "personName" : "Weber-Kellermann, Ingeborg",
     "personBio" : "1918-1993",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)11717131X" ],
     "identifierGND" : [ "11717131X" ],
     "variantName" : [ "Kellermann, Ingeborg Weber-", "Kerāman, Ingeboruku Vēba-", "Kerāman, I. W.", "Kellermann, Ingeborg", "Vēba-Kerāman, Ingeboruku", "Weber Kellermann, Ingeborg" ],
@@ -7604,7 +7654,8 @@
     "languageSource" : "ger"
   } ],
   "Person" : [ {
-    "personName" : "Wedepohl, Theodor"
+    "personName" : "Wedepohl, Theodor",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Ästhetik der Perspektive"
@@ -7722,6 +7773,7 @@
   "Person" : [ {
     "personName" : "Wedewer, Rolf",
     "personBio" : "1932-2010",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)122385233" ],
     "identifierGND" : [ "122385233" ],
     "preferredName" : "Wedewer, Rolf"
@@ -7881,6 +7933,7 @@
   "PersonContributor" : [ {
     "personName" : "Sambûrsqî, Šemûʾēl",
     "personBio" : "1900-1990",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)120109794" ],
     "identifierGND" : [ "120109794" ],
     "variantName" : [ "Sambursky, Smuel", "Sambursky, Schmuel", "Sambursky, Samuel", "Sambursky, S.", "Sambursky, Shmuel", "Sambursqi, Šemuʾel" ],
@@ -7889,6 +7942,7 @@
     "personName" : "Anaximander",
     "personTitle" : [ "Milesius" ],
     "personBio" : "v610-v546",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)118645102" ],
     "identifierGND" : [ "118645102" ],
     "variantName" : [ "Anassimandro, Filosofo", "Anassimandro de Mileto", "Anaksimandros", "Anaximandros, Philosoph", "Anaximander, Philosoph", "Anaximandros, von Milet", "Anaximandros, Schüler des Thales", "Anaximander, von Milet", "Anaximandros, Sohn des Praxiades", "Anassimandro, Scolaro di Taleto", "Anassimandro, di Mileto", "Anaximandre, de Milet", "Anaximander, Philosophus", "Anaximander" ],
@@ -8026,6 +8080,7 @@
   "PersonContributor" : [ {
     "personName" : "Berckenhagen, Ekhart",
     "personBio" : "1923-2001",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)171973275" ],
     "identifierGND" : [ "171973275" ],
     "variantName" : [ "Berckenhagen, Eckhard", "Berckenhagen, Eckhart" ],
@@ -8150,7 +8205,8 @@
     "variantISBN" : [ "978-3-570-08632-2", "3-570-08632-1" ]
   } ],
   "Person" : [ {
-    "personName" : "Schumpp, Mechthild"
+    "personName" : "Schumpp, Mechthild",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Stadtbau-Utopien und Gesellschaft"
@@ -12153,6 +12209,7 @@
   "PersonContributor" : [ {
     "personName" : "Drosdowski, Günther",
     "personBio" : "1926-2000",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)130117722" ],
     "identifierGND" : [ "130117722" ],
     "variantName" : [ "Drosdowski, Günter" ],
@@ -20523,6 +20580,7 @@
   "Person" : [ {
     "personName" : "Forster, Otto",
     "personBio" : "1937-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)115448942" ],
     "identifierGND" : [ "115448942" ],
     "variantName" : [ "Forster, O." ],
@@ -20648,6 +20706,7 @@
   "Person" : [ {
     "personName" : "Freeman, Henry George",
     "personBio" : "1902-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)120819287" ],
     "identifierGND" : [ "120819287" ],
     "variantName" : [ "Freeman, Henry G.", "Freeman, Henry", "Freeman, H. G." ],
@@ -20790,6 +20849,7 @@
   "PersonContributor" : [ {
     "personName" : "Durm, Josef",
     "personBio" : "1837-1919",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)118681311" ],
     "identifierGND" : [ "118681311" ],
     "variantName" : [ "Durm, Josephus", "Durm, Joseph", "Durm, José", "Durm, Jos.", "Durm, Josef Wilhelm" ],
@@ -20903,6 +20963,7 @@
   "PersonContributor" : [ {
     "personName" : "Spur, Günter",
     "personBio" : "1928-2013",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)115582487" ],
     "identifierGND" : [ "115582487" ],
     "variantName" : [ "Spur, G." ],
@@ -21124,12 +21185,14 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Assmann, Bruno",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)174090730" ],
     "identifierGND" : [ "174090730" ],
     "variantName" : [ "Assmann, B." ],
     "preferredName" : "Assmann, Bruno"
   }, {
-    "personName" : "Selke, Peter"
+    "personName" : "Selke, Peter",
+    "personRole" : [ "Sonstige" ]
   } ],
   "AdditionalPhysicalFormEntry" : [ {
     "relationshipInformation" : [ "Erscheint auch als" ],
@@ -21247,12 +21310,14 @@
   "PersonContributor" : [ {
     "personName" : "Collatz, Lothar",
     "personBio" : "1910-1990",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)118521543" ],
     "identifierGND" : [ "118521543" ],
     "variantName" : [ "Kollatz, L.", "Collatz, L.", "Kollatc, L.", "Kolac, L." ],
     "preferredName" : "Collatz, Lothar"
   }, {
-    "personName" : "Bredendiek, Elsbeth"
+    "personName" : "Bredendiek, Elsbeth",
+    "personRole" : [ "Sonstige" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990047978270206441"
@@ -21343,6 +21408,7 @@
   "Person" : [ {
     "personName" : "Adorno, Theodor W.",
     "personBio" : "1903-1969",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118500775" ],
     "identifierGND" : [ "118500775" ],
     "variantName" : [ "Adorno, Theodor W.", "W.-Adorno, Theodor", "T.-W.-Aduonuo", "Adorŭno, T'eodorŭ", "Wiesengrund-Adorno, Theodor", "Ti ao duo A duo nuo", "アドルノ Th. W.", "Wiesengrund, Teddie", "Adorŭno, T. W.", "Adorno, Teodors V.", "Adorno, Th. Wiesengrund", "Adorno, T. W.", "Antorno, Teontor B.", "Adoruno", "Aduonuo", "Adorno, Teodor V.", "アドルノ, テオドール ウィーゼングルンド", "A duo nuo", "Adorno, Theodor", "Ādūrnū, Tiʾūdūr W.", "阿多诺, T.W", "Wiesengrund, Theodor", "アドルノ, テオドーア W.", "Aduonuo, T.W.", "Wiesengrund-Adorno, Theodor L.", "Adorno, Teodor", "Adorno, Theodor Wiesengrund", "アドルノ, テオドール W.", "Adoruno, Teodōru W.", "Wiesengrund-Adorno, Theodor Ludwig", "Adorno, Th. W.", "אדורנו, ת. ו", "Wiesengrund Adorno, Theodor", "T. W. A duo nuo", "أدرنو, تيودور ف", "Adorno, T.W.", "Adoruno, Teodōru", "Tiaoduo-Aduonuo", "Wiesengrund, Theodor Ludwig", "Aduonuo, Tiaoduo", "Adorno, Teʾodor V.", "Wiesengrund-Adorno, Th. L.", "Adorŭno, T.W.", "Aduonuo, T. W." ],
@@ -21368,6 +21434,7 @@
   "PersonContributor" : [ {
     "personName" : "Tiedemann, Rolf",
     "personBio" : "1932-2018",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)124131573" ],
     "identifierGND" : [ "124131573" ],
     "variantName" : [ "Tiedemann, R." ],
@@ -21375,6 +21442,7 @@
   }, {
     "personName" : "Adorno, Gretel",
     "personBio" : "1902-1993",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)104750820" ],
     "identifierGND" : [ "104750820" ],
     "variantName" : [ "Karplus, Margarete", "Adorno, Gretel Karplus-", "Karplus-Adorno, Gretel", "Karplus, Gretel" ],
@@ -21476,7 +21544,7 @@
   "PersonContributor" : [ {
     "personName" : "Houben, Josef",
     "personBio" : "1875-1940",
-    "personRole" : [ "Begründer des Werks" ],
+    "personRole" : [ "Sonstige", "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)117013870" ],
     "identifierGND" : [ "117013870" ],
     "variantName" : [ "Houben, J.", "Houben, Heinrich Hubert Maria Josef", "Houben-Weyl, ...", "Houben, H. J." ],
@@ -21484,6 +21552,7 @@
   }, {
     "personName" : "Müller, Eugen",
     "personBio" : "1905-1976",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)137765673" ],
     "identifierGND" : [ "137765673" ],
     "preferredName" : "Müller, Eugen"
@@ -21722,12 +21791,14 @@
   "PersonContributor" : [ {
     "personName" : "Lindner, Helmut",
     "personBio" : "1907-1984",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)131562851" ],
     "identifierGND" : [ "131562851" ],
     "variantName" : [ "Lindner, H." ],
     "preferredName" : "Lindner, Helmut"
   }, {
-    "personName" : "Balcke, Edgar"
+    "personName" : "Balcke, Edgar",
+    "personRole" : [ "Sonstige" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990048075310206441"
@@ -21801,7 +21872,8 @@
     "languageSource" : "ger"
   } ],
   "Person" : [ {
-    "personName" : "Ludwig, Günther"
+    "personName" : "Ludwig, Günther",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Einführung in die Grundlagen der theoretischen Physik"
@@ -21903,7 +21975,7 @@
   "PersonContributor" : [ {
     "personName" : "Rahtgens, Hugo",
     "personBio" : "1872-1946",
-    "personRole" : [ "Bearb." ],
+    "personRole" : [ "Sonstige", "Bearb." ],
     "personIdentifier" : [ "(DE-588)116337443" ],
     "identifierGND" : [ "116337443" ],
     "variantName" : [ "Rahtgens, Hugo Georg" ],
@@ -21986,6 +22058,7 @@
   "PersonContributor" : [ {
     "personName" : "Lueger, Otto",
     "personBio" : "1843-1911",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)117667358" ],
     "identifierGND" : [ "117667358" ],
     "variantName" : [ "Lüger, Otto" ],
@@ -22084,13 +22157,14 @@
   "PersonContributor" : [ {
     "personName" : "Lueger, Otto",
     "personBio" : "1843-1911",
-    "personRole" : [ "Begründer des Werks" ],
+    "personRole" : [ "Sonstige", "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)117667358" ],
     "identifierGND" : [ "117667358" ],
     "variantName" : [ "Lüger, Otto" ],
     "preferredName" : "Lueger, Otto"
   }, {
-    "personName" : "Ehrhardt, Alfred"
+    "personName" : "Ehrhardt, Alfred",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990048078290206441"
@@ -22174,6 +22248,7 @@
   "Person" : [ {
     "personName" : "Luhmann, Niklas",
     "personBio" : "1927-1998",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118575147" ],
     "identifierGND" : [ "118575147" ],
     "variantName" : [ "ルーマン, ニクラス", "Ni keul la seu Lu man", "Nikeullaseu-Luman", "鲁曼", "Ni ke la si · Lu man", "Rūman, Nikuraso", "Luman, Nikeullaseu", "Nikelasi-Luman", "N. Lu man", "尼克拉斯·魯曼", "尼克拉斯·卢曼", "Lumann, Niklas", "Luhmann, N.", "Rūman, N.", "Luman, Nikelasi", "Luman", "卢曼", "尼克拉斯·鲁曼", "Rūman, Nikorasu", "尼克拉斯·盧曼", "Ruman, N.", "Luman, N.", "Ruman, Nik'ŭllasŭ", "Rūman, Nikurasu", "魯曼", "Luman, Niklas", "Lūmān, Nīkulaus", "N.-Luman", "Lu man", "Ni ke la si Lu man", "盧曼" ],
@@ -22288,6 +22363,7 @@
   "Person" : [ {
     "personName" : "Martensen, Erich",
     "personBio" : "1927-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)105129860" ],
     "identifierGND" : [ "105129860" ],
     "variantName" : [ "Martensen, E." ],
@@ -22415,6 +22491,7 @@
   "PersonContributor" : [ {
     "personName" : "Martin, Kurt",
     "personBio" : "1899-1975",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)116805188" ],
     "identifierGND" : [ "116805188" ],
     "preferredName" : "Martin, Kurt"
@@ -22497,6 +22574,7 @@
   "Person" : [ {
     "personName" : "Martz, Georg",
     "personBio" : "1923-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)140770585" ],
     "identifierGND" : [ "140770585" ],
     "preferredName" : "Martz, Georg"
@@ -22620,6 +22698,7 @@
   "Person" : [ {
     "personName" : "Marx, Karl",
     "personBio" : "1818-1883",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118578537" ],
     "identifierGND" : [ "118578537" ],
     "variantName" : [ "מארקאס, קרל", "Mảc, Cảc", "마르크스 카를", "马克思, 卡尔", "Marx, Karl Heinrich", "Maleukeuseu, Kaleul", "Mac, Cac", "Markhsi, Karl", "Marqs, Qarl", "Marukusu, Kāru", "Marx, Karel", "Mārkacha, Kārla", "Makesi", "Maarkis, Kaaral", "Mārks, Kārl", "Maksŭ", "Marx, Carlo", "Marksi, Karl", "Marx, Karl H.", "Ma-k'o-ssu", "馬克思", "Malg-seu, Kal", "Marks, Karol", "Kaer-Makesi", "MŚarks, KŚarl", "Marx, Károly", "Marx, Carl", "Marx, K.", "Marŭk'ŭsŭ, K'al", "Marḳs, Ḳarl", "Malg seu", "Marksas, K.", "מארכס, קארל", "Marksas, Karolis", "Markss, Kārlis", "Malg-seu", "맑스, 칼", "Mārks, Kāṟal", "Mārksa, Kārla", "Marx", "Makesi, Kaer", "Markss, K.", "Malg", "Marks, Karl", "Marks, K.", "מרכס, קרל", "马克思", "Ma-ko-szū", "Các Mác", "Marx, Carlos", "Mārakasa, Kārala", "Mác, Các", "Marx, Heinrich Karl", "Marksa, Karla", "카를 마르크스", "מארקס, קארל", "Ka er Ma ke si", "Marukusu", "Maksŭ, K'al", "Marx, Carolus Henricus", "Ka leul Ma leu keu seu", "Ma leu keu seu, Ka leul", "Marḳs", "מארקס, קרל", "Marks", "Mảc, C.", "Ma, Kesi", "Marks, Karolo" ],
@@ -22668,6 +22747,7 @@
   "PersonCreator" : [ {
     "personName" : "Engels, Friedrich",
     "personBio" : "1820-1895",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118530380" ],
     "identifierGND" : [ "118530380" ],
     "variantName" : [ "En-ke-szu, ...", "Engels, Frigyes", "Ένγκελς, Φρίντριχ", "เอ็งเงิลส์, ฟรีดริช", "Ėngelʹs, Fridrich", "Engels, Frederick", "Engels, Fredrich", "Inǧilz, Frīdrīk", "Enk̇els, ...", "ອັງແກນ, ຟຣິດຣິດ", "Engels, Frederic", "Anǧilz, Frīdirīk", "Eṅgelas, Phreḍerika", "Êngels, F.", "Engelʹs, Fridrich", "En ge si", "Anjilz, Frīdrīk", "ฟรีดริช เอ็งเงิลส์", "Engels, Fridrih", "Engerusu", "Ennkels, Ph.", "Eṅkels, Pireṭerik", "Enk̇als, Pirẹtarik", "Eṅgelsa, Phreḍārika", "إنجلز, فريدريك", "Engels, Frederiko", "Ennkels, Phrintrich", "Engelsi, Pʹ.", "Engels, F.", "F. E.", "Engkels", "Engkels, Fridriγ", "Engels, Frederico", "Engels, Fridrich", "Engels, Bedřich", "Энгельс, Фридрих", "Engels, ...", "Peu li deu li hi Eng gel seu", "Engelss, Frīdrihs", "Ăngghen, PH.", "Engels, Friderik", "Engels, Friederich", "Inǧilz, Frīdirīk", "Enggels, Fridriγ", "エンゲルス, フリードリヒ", "Ăng-Ghen, Ph.", "ຟຣິດຣິດ ອັງແກນ", "Eṅgālasa, Pḥreḍarika", "Ăng-ghen, Phri-đrích", "Enggels, F.", "Eṅgelacha, Phriḍarikha", "Engelʹs, Friedrich", "Inǧils, Frīdrīk", "Engelsas, F.", "Engkels, F.", "Enggelseu, Peulideulihi", "Enk̇els, Pirịt̄ric", "Engels, Federico", "انجلز, فريدريك", "Īngēłs, Frīdrīk", "Ingils, Frīdrīš", "Engels, Fredrik", "Ėngelʹs, F.", "Engels, Freḑrik", "Enggelsŭ, P'ŭridŭrihi", "Anǧilz, Frīdrīk", "Ėngelʹs, Friedrich", "Engels, Frédéric", "Engkles, Phrintrich", "En-ko-szū, ...", "Ēṃgals, ...", "Eenjalis, Feredrig", "Enggels", "Engels, Fryderyk", "انگلس, فردريك", "Eṅgalsa, Phreḍrika", "Eṃgelsa, Phreḍarika", "Engesi", "Eng gel seu, Peu li deu li hi", "Engel's, Fridrich", "ენგელსი, ფრიდრიხ", "Ang-ghên, Phriđrich" ],
@@ -22734,7 +22814,8 @@
     "languageSource" : "ger"
   } ],
   "Person" : [ {
-    "personName" : "Maucksch, Wolfgang"
+    "personName" : "Maucksch, Wolfgang",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Netzplantechnik"
@@ -22832,6 +22913,7 @@
   "Person" : [ {
     "personName" : "Meyberg, Kurt",
     "personBio" : "1936-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)107142031" ],
     "identifierGND" : [ "107142031" ],
     "variantName" : [ "Maiberuku, Kurt" ],
@@ -23103,6 +23185,7 @@
   "PersonContributor" : [ {
     "personName" : "Schmitt, Otto",
     "personBio" : "1890-1951",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)116800011" ],
     "identifierGND" : [ "116800011" ],
     "variantName" : [ "Schmidt, Otto" ],
@@ -23231,6 +23314,7 @@
   "PersonContributor" : [ {
     "personName" : "Stoob, Heinz",
     "personBio" : "1919-1997",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)11875565X" ],
     "identifierGND" : [ "11875565X" ],
     "variantName" : [ "Stoob, Heinz Albert" ],
@@ -23353,7 +23437,8 @@
     "description" : "Erschienen: Bd. 1 - 6"
   } ],
   "PersonContributor" : [ {
-    "personName" : "Vollmer, Hans"
+    "personName" : "Vollmer, Hans",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "SupplementParentEntry" : [ {
     "relationshipInformation" : [ "Reg. u.d.T." ],
@@ -23473,10 +23558,12 @@
     "volume" : [ "..." ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Achterberg, Gerhard"
+    "personName" : "Achterberg, Gerhard",
+    "personRole" : [ "Sonstige" ]
   }, {
     "personName" : "Kräntzer, Karl Richard",
     "personBio" : "1921-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)143972340" ],
     "identifierGND" : [ "143972340" ],
     "variantName" : [ "Kräntzer, Karl R.", "Kräntzer, K. R." ],
@@ -24847,16 +24934,18 @@
   "PersonContributor" : [ {
     "personName" : "Debatin, Helmut",
     "personBio" : "1926-2011",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)119488922" ],
     "identifierGND" : [ "119488922" ],
     "variantName" : [ "Debatin, Helmut Felix", "Debatin, H.", "Debatin" ],
     "preferredName" : "Debatin, Helmut"
   }, {
     "personName" : "Korn, Rudolf",
-    "personRole" : [ "Begründer des Werks" ]
+    "personRole" : [ "Sonstige", "Begründer des Werks" ]
   }, {
     "personName" : "Wassermeyer, Franz",
     "personBio" : "1940-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)106913808" ],
     "identifierGND" : [ "106913808" ],
     "preferredName" : "Wassermeyer, Franz"
@@ -24990,9 +25079,11 @@
     "description" : "Literaturverz. S. 561 - 585"
   } ],
   "PersonContributor" : [ {
-    "personName" : "Hausen, Helmuth"
+    "personName" : "Hausen, Helmuth",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Linde, Hermann"
+    "personName" : "Linde, Hermann",
+    "personRole" : [ "Sonstige" ]
   } ],
   "PrecedingEntry" : [ {
     "relationshipInformation" : [ "1. Aufl. u.d.T." ],
@@ -26343,6 +26434,7 @@
   "PersonContributor" : [ {
     "personName" : "Birbaumer, Niels-Peter",
     "personBio" : "1945-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)121603164" ],
     "identifierGND" : [ "121603164" ],
     "variantName" : [ "Birbaumer, Niels P.", "Birbaumer, N. P.", "Birbaumer, Niels Peter", "Birbaumer, Niels", "Birbaumer, N.-P.", "Birbaumer, Niels-P.", "Birbaumer, N." ],
@@ -26544,6 +26636,7 @@
   "Person" : [ {
     "personName" : "Medicus, Dieter",
     "personBio" : "1929-2015",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)115468897" ],
     "identifierGND" : [ "115468897" ],
     "variantName" : [ "Medicus, D.", "Medikusu, Dītā", "Dítèěr Méidíkùsī", "Medik'usŭ, Tit'ŏ", "Di te er Mei di ku si", "梅迪库斯, 迪特尔" ],
@@ -26580,7 +26673,7 @@
   "PersonContributor" : [ {
     "personName" : "Lorenz, Stephan",
     "personBio" : "1961-",
-    "personRole" : [ "Bearb." ],
+    "personRole" : [ "Sonstige", "Bearb." ],
     "personIdentifier" : [ "(DE-588)137372930" ],
     "identifierGND" : [ "137372930" ],
     "preferredName" : "Lorenz, Stephan"
@@ -26696,6 +26789,7 @@
   "Person" : [ {
     "personName" : "Oppermann, Alfred",
     "personBio" : "1909-1985",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1065412649" ],
     "identifierGND" : [ "1065412649" ],
     "variantName" : [ "Oppermann, Friedrich Wilhelm Alfred" ],
@@ -26842,12 +26936,14 @@
   "PersonContributor" : [ {
     "personName" : "Bitz, Michael",
     "personBio" : "1943-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)12156326X" ],
     "identifierGND" : [ "12156326X" ],
     "preferredName" : "Bitz, Michael"
   }, {
     "personName" : "Baetge, Jörg",
     "personBio" : "1937-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)119535459" ],
     "identifierGND" : [ "119535459" ],
     "variantName" : [ "Baetge, J." ],
@@ -26937,6 +27033,7 @@
   "Person" : [ {
     "personName" : "Zurmühl, Rudolf",
     "personBio" : "1904-1966",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)172475465" ],
     "identifierGND" : [ "172475465" ],
     "variantName" : [ "Mühl, Rudolf zur", "Mühl, R. zur", "Zurmühl, R." ],
@@ -26991,6 +27088,7 @@
   "PersonCreator" : [ {
     "personName" : "Falk, Sigurd",
     "personBio" : "1921-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)172071054" ],
     "identifierGND" : [ "172071054" ],
     "variantName" : [ "Falk, S." ],
@@ -27289,6 +27387,7 @@
   "Person" : [ {
     "personName" : "Klapheck, Richard",
     "personBio" : "1883-1939",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)116197390" ],
     "identifierGND" : [ "116197390" ],
     "variantName" : [ "Klapheck, Rich." ],
@@ -27413,6 +27512,7 @@
   "Person" : [ {
     "personName" : "Frutiger, Adrian",
     "personBio" : "1928-2015",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118693891" ],
     "identifierGND" : [ "118693891" ],
     "variantName" : [ "Frutiger-Heiderhoff, ..." ],
@@ -27448,6 +27548,7 @@
   "PersonContributor" : [ {
     "personName" : "Heiderhoff, Horst",
     "personBio" : "1934-1987",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)143293133" ],
     "identifierGND" : [ "143293133" ],
     "variantName" : [ "Heiderhoff, Horst G." ],
@@ -27873,6 +27974,7 @@
   "Person" : [ {
     "personName" : "Höll, Karl",
     "personBio" : "1901-1997",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)10135732X" ],
     "identifierGND" : [ "10135732X" ],
     "variantName" : [ "Höll, K.", "Hoell, Karl" ],
@@ -28054,12 +28156,14 @@
   "PersonContributor" : [ {
     "personName" : "Tipke, Klaus",
     "personBio" : "1925-2021",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)119305038" ],
     "identifierGND" : [ "119305038" ],
     "preferredName" : "Tipke, Klaus"
   }, {
     "personName" : "Kruse, Heinrich Wilhelm",
     "personBio" : "1931-2019",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)11585102X" ],
     "identifierGND" : [ "11585102X" ],
     "variantName" : [ "Kruse, H. W." ],
@@ -28204,6 +28308,7 @@
   "PersonContributor" : [ {
     "personName" : "Merian, Ernest",
     "personBio" : "1921-1995",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1090031971" ],
     "identifierGND" : [ "1090031971" ],
     "preferredName" : "Merian, Ernest"
@@ -28328,7 +28433,8 @@
     "variantISBN" : [ "978-3-446-13659-5", "3-446-13659-2" ]
   } ],
   "Person" : [ {
-    "personName" : "Charchut, Werner"
+    "personName" : "Charchut, Werner",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Werkzeugmaschinen"
@@ -28393,6 +28499,7 @@
   "PersonCreator" : [ {
     "personName" : "Tschätsch, Heinz",
     "personBio" : "1924-2010",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)122954440" ],
     "identifierGND" : [ "122954440" ],
     "variantName" : [ "Tschätsch, H.", "Tschätsch, ...", "Tschaetsch, Heinz" ],
@@ -28494,7 +28601,8 @@
     "title" : [ "... rund um's Haus" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Thomas, Roland"
+    "personName" : "Thomas, Roland",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://digitale-objekte.hbz-nrw.de/storage2/2018/05/04/file_134/7659645.pdf",
@@ -28593,6 +28701,7 @@
   "Person" : [ {
     "personName" : "Kröplien, Manfred",
     "personBio" : "1937-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)124929117" ],
     "identifierGND" : [ "124929117" ],
     "preferredName" : "Kröplien, Manfred"
@@ -29209,6 +29318,7 @@
   "Person" : [ {
     "personName" : "Feynman, Richard P.",
     "personBio" : "1918-1988",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118827545" ],
     "identifierGND" : [ "118827545" ],
     "variantName" : [ "Feynman, Richard", "Fejnman, Ričard", "Phillips Feynman, Richard", "Feynman, Richard Phillips", "Feinman, Richard P.", "Feynman, R. P.", "Fejnman, R.", "Fejnman, R. P." ],
@@ -29261,6 +29371,7 @@
   "PersonCreator" : [ {
     "personName" : "Leighton, Robert B.",
     "personBio" : "1919-1997",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)113133316" ],
     "identifierGND" : [ "113133316" ],
     "variantName" : [ "Leighton, R. B.", "Lejton, R.", "Leighton, Robert Benjamin" ],
@@ -29268,6 +29379,7 @@
   }, {
     "personName" : "Sands, Matthew L.",
     "personBio" : "1919-2014",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)113133324" ],
     "identifierGND" : [ "113133324" ],
     "variantName" : [ "Sands, M. L.", "Sands, Matthew", "Sands, Matthew Linzee", "Sėnds, M." ],
@@ -29360,6 +29472,7 @@
   "PersonContributor" : [ {
     "personName" : "Skira, Albert",
     "personBio" : "1904-1973",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)121601994" ],
     "identifierGND" : [ "121601994" ],
     "preferredName" : "Skira, Albert"
@@ -29613,6 +29726,7 @@
   "Person" : [ {
     "personName" : "Dehio, Georg",
     "personBio" : "1850-1932",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)11852433X" ],
     "identifierGND" : [ "11852433X" ],
     "variantName" : [ "Dehio, Georg Gottfried Julius", "Dehio", "Dehio, G. G.", "Dehio-Gall", "Dehio, G.G.", "Dehio, G.", "Dehio, Georg Gottfried" ],
@@ -29641,7 +29755,7 @@
   "PersonContributor" : [ {
     "personName" : "Gall, Ernst",
     "personBio" : "1888-1958",
-    "personRole" : [ "Bearb." ],
+    "personRole" : [ "Sonstige", "Bearb." ],
     "personIdentifier" : [ "(DE-588)118689266" ],
     "identifierGND" : [ "118689266" ],
     "variantName" : [ "Gall" ],
@@ -30481,6 +30595,7 @@
   "PersonContributor" : [ {
     "personName" : "Latscha, Hans Peter",
     "personBio" : "1937-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)121047199" ],
     "identifierGND" : [ "121047199" ],
     "variantName" : [ "Latscha, H.", "Latscha, Hans-P.", "Latscha, Hans", "Latscha, H.-P.", "Latscha, H. P.", "Latscha, Hans-Peter", "Latscha, Hans P." ],
@@ -30488,6 +30603,7 @@
   }, {
     "personName" : "Klein, Helmut A.",
     "personBio" : "1949-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)108331695" ],
     "identifierGND" : [ "108331695" ],
     "variantName" : [ "Klein, H. A.", "Klein, Helmut", "Klein, H.", "Klein, Helmut Alfons" ],
@@ -30495,12 +30611,14 @@
   }, {
     "personName" : "Kazmaier, Uli",
     "personBio" : "1960-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)142637211" ],
     "identifierGND" : [ "142637211" ],
     "preferredName" : "Kazmaier, Uli"
   }, {
     "personName" : "Linti, Gerald W.",
     "personBio" : "1962-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)142637114" ],
     "identifierGND" : [ "142637114" ],
     "variantName" : [ "Linti, Gerald Walter", "Linti, Gerald" ],
@@ -31246,13 +31364,14 @@
   "PersonContributor" : [ {
     "personName" : "Leplow, Bernd",
     "personBio" : "1953-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)11212609X" ],
     "identifierGND" : [ "11212609X" ],
     "preferredName" : "Leplow, Bernd"
   }, {
     "personName" : "Selg, Herbert",
     "personBio" : "1935-2017",
-    "personRole" : [ "Begründer des Werks" ],
+    "personRole" : [ "Sonstige", "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)120732602" ],
     "identifierGND" : [ "120732602" ],
     "preferredName" : "Selg, Herbert"
@@ -31378,7 +31497,7 @@
   "PersonContributor" : [ {
     "personName" : "Römpp, Hermann",
     "personBio" : "1901-1964",
-    "personRole" : [ "Begründer des Werks" ],
+    "personRole" : [ "Sonstige", "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)124682057" ],
     "identifierGND" : [ "124682057" ],
     "variantName" : [ "Römpp", "Schmid, Helmut" ],
@@ -31386,6 +31505,7 @@
   }, {
     "personName" : "Falbe, Jürgen",
     "personBio" : "1933-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)135841135" ],
     "identifierGND" : [ "135841135" ],
     "variantName" : [ "Falbe, J." ],
@@ -31513,6 +31633,7 @@
   "PersonContributor" : [ {
     "personName" : "Joedicke, Jürgen",
     "personBio" : "1925-2015",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)134051610" ],
     "identifierGND" : [ "134051610" ],
     "variantName" : [ "Ëdike, Jurgen", "Joedicke, J.", "Joedicke, Jurgen" ],
@@ -31633,11 +31754,14 @@
     "printingPlace" : [ "München" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Miliczek, Peter"
+    "personName" : "Miliczek, Peter",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Stier, Erwin"
+    "personName" : "Stier, Erwin",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Buchholz, Max-Peter"
+    "personName" : "Buchholz, Max-Peter",
+    "personRole" : [ "Sonstige" ]
   } ],
   "SucceedingEntry" : [ {
     "relationshipInformation" : [ "Ab 6. Aufl. u.d.T.:" ],
@@ -31781,26 +31905,31 @@
   "PersonContributor" : [ {
     "personName" : "Frey, Dagobert",
     "personBio" : "1883-1962",
-    "personRole" : [ "Begründer des Werks" ],
+    "personRole" : [ "Sonstige", "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)118693220" ],
     "identifierGND" : [ "118693220" ],
     "preferredName" : "Frey, Dagobert"
   }, {
-    "personName" : "Ginhart, Karl"
+    "personName" : "Ginhart, Karl",
+    "personRole" : [ "Herausgeber/in" ]
   }, {
     "personName" : "Donin, Richard Kurt",
     "personBio" : "1881-1963",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)129116726" ],
     "identifierGND" : [ "129116726" ],
     "variantName" : [ "Donin, Richard K.", "Donin, R.", "Donin, Kurt", "Donin, R. K.", "Donin, Richard" ],
     "preferredName" : "Donin, Richard Kurt"
   }, {
-    "personName" : "Martin, Franz"
+    "personName" : "Martin, Franz",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Hainisch, Erwin"
+    "personName" : "Hainisch, Erwin",
+    "personRole" : [ "Sonstige" ]
   }, {
     "personName" : "Dehio, Georg",
     "personBio" : "1850-1932",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)11852433X" ],
     "identifierGND" : [ "11852433X" ],
     "variantName" : [ "Dehio, Georg Gottfried Julius", "Dehio", "Dehio, G. G.", "Dehio-Gall", "Dehio, G.G.", "Dehio, G.", "Dehio, Georg Gottfried" ],
@@ -31901,6 +32030,7 @@
   "Person" : [ {
     "personName" : "Weck, Manfred",
     "personBio" : "1937-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1017053707" ],
     "identifierGND" : [ "1017053707" ],
     "variantName" : [ "Weck, M." ],
@@ -32016,6 +32146,7 @@
   "Person" : [ {
     "personName" : "Berger, John",
     "personBio" : "1926-2017",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118891413" ],
     "identifierGND" : [ "118891413" ],
     "variantName" : [ "Bërǆer, ǅon" ],
@@ -32164,22 +32295,27 @@
   "PersonContributor" : [ {
     "personName" : "Schiffmann, Wolfram",
     "personBio" : "1956-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)111426758" ],
     "identifierGND" : [ "111426758" ],
     "variantName" : [ "Schiffmann, W." ],
     "preferredName" : "Schiffmann, Wolfram"
   }, {
-    "personName" : "Schmitz, Robert"
+    "personName" : "Schmitz, Robert",
+    "personRole" : [ "Sonstige" ]
   }, {
     "personName" : "Weiland, Jürgen",
     "personBio" : "1966-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)133677591" ],
     "identifierGND" : [ "133677591" ],
     "preferredName" : "Weiland, Jürgen"
   }, {
-    "personName" : "Bähring, Helmut"
+    "personName" : "Bähring, Helmut",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Hönig, Udo"
+    "personName" : "Hönig, Udo",
+    "personRole" : [ "Sonstige" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990049078040206441"
@@ -32360,7 +32496,8 @@
     "printingPlace" : [ "Zandhoven, Belgium" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Ibou, Paul"
+    "personName" : "Ibou, Paul",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990049079230206441"
@@ -32561,7 +32698,8 @@
     "variantISBN" : [ "978-3-598-10977-5", "3-598-10977-6" ]
   } ],
   "Person" : [ {
-    "personName" : "Wennrich, Peter"
+    "personName" : "Wennrich, Peter",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "International dictionary of abbreviations and acronyms of electronics, electrical engineering, computer technology, and information processing"
@@ -32720,16 +32858,19 @@
   "PersonContributor" : [ {
     "personName" : "Grewe, Klaus",
     "personBio" : "1944-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)115495924" ],
     "identifierGND" : [ "115495924" ],
     "preferredName" : "Grewe, Klaus"
   }, {
     "personName" : "Labicki, Peter",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)1046133985" ],
     "identifierGND" : [ "1046133985" ],
     "preferredName" : "Labicki, Peter"
   }, {
-    "personName" : "Resnik, Boris"
+    "personName" : "Resnik, Boris",
+    "personRole" : [ "Sonstige" ]
   } ],
   "SubjectHeadings" : [ {
     "subject" : "Geschichte"
@@ -32833,10 +32974,12 @@
     "volume" : [ "..." ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Tremlett, David"
+    "personName" : "Tremlett, David",
+    "personRole" : [ "Illustration" ]
   }, {
     "personName" : "Haenlein, Carl",
     "personBio" : "1933-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)135583365" ],
     "identifierGND" : [ "135583365" ],
     "variantName" : [ "Haenlein, Karl Albrecht", "Haenlein, C.-A.", "Haenlein, Karl", "Haenlein, C. A.", "Haenlein, Karl-Albrecht", "Haenlein, Carl-August", "Haenlein, Carl-Albrecht", "Haenlein, Carl Albrecht", "Haenlein, C." ],
@@ -32844,6 +32987,7 @@
   }, {
     "personName" : "Ahrens, Carsten",
     "personBio" : "1961-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)122074017" ],
     "identifierGND" : [ "122074017" ],
     "preferredName" : "Ahrens, Carsten"
@@ -32909,6 +33053,7 @@
   "Person" : [ {
     "personName" : "Berger, Stefan",
     "personBio" : "1946-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)124698107" ],
     "identifierGND" : [ "124698107" ],
     "variantName" : [ "Berger, S.", "Berger, St." ],
@@ -32943,9 +33088,11 @@
   } ],
   "TypePeriodical" : [ "Schriftenreihe" ],
   "PersonCreator" : [ {
-    "personName" : "Braun, Siegmar"
+    "personName" : "Braun, Siegmar",
+    "personRole" : [ "Autor/in" ]
   }, {
-    "personName" : "Kalinowski, Hans-Otto"
+    "personName" : "Kalinowski, Hans-Otto",
+    "personRole" : [ "Autor/in" ]
   } ],
   "RSWK" : [ {
     "subjectTopicName" : [ "Nichtmetall" ],
@@ -33044,6 +33191,7 @@
   "PersonContributor" : [ {
     "personName" : "Rebmann, Kurt",
     "personBio" : "1924-2005",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)119016729" ],
     "identifierGND" : [ "119016729" ],
     "preferredName" : "Rebmann, Kurt"
@@ -33141,6 +33289,7 @@
   "PersonContributor" : [ {
     "personName" : "Güntherodt, Hans-Joachim",
     "personBio" : "1939-2014",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)113962010" ],
     "identifierGND" : [ "113962010" ],
     "variantName" : [ "Güntherodt, Hans-J.", "Gjunterodt, G.-J.", "Güntherodt, H.-J." ],
@@ -33148,12 +33297,14 @@
   }, {
     "personName" : "Anselmetti, Dario",
     "personBio" : "1963-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)137758960" ],
     "identifierGND" : [ "137758960" ],
     "variantName" : [ "Anselmetti, Dario G." ],
     "preferredName" : "Anselmetti, Dario"
   }, {
-    "personName" : "Baumeister, Wolfgang"
+    "personName" : "Baumeister, Wolfgang",
+    "personRole" : [ "Sonstige" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990049093970206441"
@@ -33249,6 +33400,7 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Bochnig, Stefan",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)171981596" ],
     "identifierGND" : [ "171981596" ],
     "preferredName" : "Bochnig, Stefan"
@@ -33344,7 +33496,8 @@
     "printingPlace" : [ "Breslau" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Lutsch, Hans"
+    "personName" : "Lutsch, Hans",
+    "personRole" : [ "Sonstige" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990049096330206441"
@@ -33500,6 +33653,7 @@
   "PersonContributor" : [ {
     "personName" : "Comer, Douglas",
     "personBio" : "1949-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)12274926X" ],
     "identifierGND" : [ "12274926X" ],
     "variantName" : [ "Comer, Doug", "Comer, Douglas Earl", "Comer, Douglas E." ],
@@ -33507,6 +33661,7 @@
   }, {
     "personName" : "Stevens, David L.",
     "personBio" : "1962-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)12957693X" ],
     "identifierGND" : [ "12957693X" ],
     "preferredName" : "Stevens, David L."
@@ -33594,9 +33749,11 @@
     "title" : [ "English for academic purposes series" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Johnson, Christine M."
+    "personName" : "Johnson, Christine M.",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Johnson, David G."
+    "personName" : "Johnson, David G.",
+    "personRole" : [ "Sonstige" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990049099960206441"
@@ -33656,6 +33813,7 @@
   } ],
   "Person" : [ {
     "personName" : "Möschwitzer, Albrecht",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)172265886" ],
     "identifierGND" : [ "172265886" ],
     "variantName" : [ "Möschwitzer, A." ],
@@ -33766,6 +33924,7 @@
   "Person" : [ {
     "personName" : "Malraux, André",
     "personBio" : "1901-1976",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118576844" ],
     "identifierGND" : [ "118576844" ],
     "variantName" : [ "Ma-erh-lo", "Malraux, Georges André", "Àngdre Manro", "อ็องเดร์ มาลโรช์", "Mal'ro, Andre", "マルロー, アンドレ", "Marurō, Andore", "Malraux, Andrih" ],
@@ -33896,6 +34055,7 @@
   "PersonContributor" : [ {
     "personName" : "Becker, Wolfgang",
     "personBio" : "1930-2008",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)143032399" ],
     "identifierGND" : [ "143032399" ],
     "preferredName" : "Becker, Wolfgang"
@@ -34008,7 +34168,8 @@
     "printingPlace" : [ "London [u.a.]" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Newman, Peter"
+    "personName" : "Newman, Peter",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "SupplementParentEntry" : [ {
     "relationshipInformation" : [ "Erg. zu" ],
@@ -34103,7 +34264,8 @@
     "languageSource" : "ger"
   } ],
   "Person" : [ {
-    "personName" : "Sayer, Michael"
+    "personName" : "Sayer, Michael",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Wert und Entwicklungsmöglichkeiten straßennaher Biotope für Tiere"
@@ -34139,6 +34301,7 @@
   "PersonCreator" : [ {
     "personName" : "Schaefer, Matthias",
     "personBio" : "1942-2021",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1033818615" ],
     "identifierGND" : [ "1033818615" ],
     "variantName" : [ "Schaefer, Matthias R." ],
@@ -34349,6 +34512,7 @@
   "PersonContributor" : [ {
     "personName" : "Oursel, Raymond",
     "personBio" : "1921-2008",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)107655853" ],
     "identifierGND" : [ "107655853" ],
     "variantName" : [ "Oursel, R." ],
@@ -34451,9 +34615,11 @@
     "description" : "Erschienen: Bd. 1 - 2, 1 Videokass."
   } ],
   "PersonContributor" : [ {
-    "personName" : "Malossi, Giannino"
+    "personName" : "Malossi, Giannino",
+    "personRole" : [ "Herausgeber/in" ]
   }, {
-    "personName" : "Casciani, Stefano"
+    "personName" : "Casciani, Stefano",
+    "personRole" : [ "Sonstige" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990049110450206441"
@@ -34553,6 +34719,7 @@
   "PersonContributor" : [ {
     "personName" : "Greiner, Walter",
     "personBio" : "1935-2016",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)118541994" ],
     "identifierGND" : [ "118541994" ],
     "variantName" : [ "Wa'erte-Gulaina", "Gurainā, W.", "Greiner, W.", "W. Gu lai na", "Wa er te Gu lai na", "W.-Gulaina" ],
@@ -34560,6 +34727,7 @@
   }, {
     "personName" : "Müller, Berndt",
     "personBio" : "1950-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)105976903" ],
     "identifierGND" : [ "105976903" ],
     "variantName" : [ "Müller, Bernt", "Müller, B." ],
@@ -34645,7 +34813,8 @@
     "volume" : [ "..." ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "MacConaill, P. A."
+    "personName" : "MacConaill, P. A.",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990049113230206441"
@@ -34716,6 +34885,7 @@
   "Person" : [ {
     "personName" : "Simmel, Georg",
     "personBio" : "1858-1918",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118614436" ],
     "identifierGND" : [ "118614436" ],
     "variantName" : [ "זימל, גיאורג", "Zimel, Geʾorg", "Zimmelʹ, Heorh", "Simmel, Georgius", "ゲオルグ・ジンメル", "ジンメル, ゲオルグ", "Ximeier, Geaoerge", "Ge ao er ge Xi mei er", "Ximeier", "Zimel, Georg", "Geaoerge-Ximeier", "Xi mei er", "Simmel, Friedrich Eduard Georg", "Ximeier, ...", "Zimmelʹ, Georg", "Jinmeru, Georuku" ],
@@ -34750,6 +34920,7 @@
   "PersonContributor" : [ {
     "personName" : "Rammstedt, Otthein",
     "personBio" : "1938-2020",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)10744187X" ],
     "identifierGND" : [ "10744187X" ],
     "variantName" : [ "Rammstedt, O.", "Rammstedt, Otto-Heinrich" ],
@@ -34757,6 +34928,7 @@
   }, {
     "personName" : "Dahme, Heinz-Jürgen",
     "personBio" : "1949-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)120007142" ],
     "identifierGND" : [ "120007142" ],
     "variantName" : [ "Dahme, Heinz J." ],
@@ -34764,12 +34936,14 @@
   }, {
     "personName" : "Köhnke, Klaus Christian",
     "personBio" : "1953-2013",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)110639200" ],
     "identifierGND" : [ "110639200" ],
     "preferredName" : "Köhnke, Klaus Christian"
   }, {
     "personName" : "Frisby, David",
     "personBio" : "1944-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)111848695" ],
     "identifierGND" : [ "111848695" ],
     "variantName" : [ "Frisby, David Patrick", "Frisby, David P." ],
@@ -34777,30 +34951,35 @@
   }, {
     "personName" : "Kramme, Rüdiger",
     "personBio" : "1952-2010",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1201508282" ],
     "identifierGND" : [ "1201508282" ],
     "preferredName" : "Kramme, Rüdiger"
   }, {
     "personName" : "Cavalli, Alessandro",
     "personBio" : "1939-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)172017300" ],
     "identifierGND" : [ "172017300" ],
     "preferredName" : "Cavalli, Alessandro"
   }, {
     "personName" : "Behr, Michael",
     "personBio" : "1960-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)121954978" ],
     "identifierGND" : [ "121954978" ],
     "preferredName" : "Behr, Michael"
   }, {
     "personName" : "Oakes, Guy",
     "personBio" : "1946-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)143292137" ],
     "identifierGND" : [ "143292137" ],
     "preferredName" : "Oakes, Guy"
   }, {
     "personName" : "Röttgers, Kurt",
     "personBio" : "1944-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)12399327X" ],
     "identifierGND" : [ "12399327X" ],
     "variantName" : [ "Röttgers, K." ],
@@ -34808,18 +34987,21 @@
   }, {
     "personName" : "Rammstedt, Angela",
     "personBio" : "1943-2018",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1123669686" ],
     "identifierGND" : [ "1123669686" ],
     "preferredName" : "Rammstedt, Angela"
   }, {
     "personName" : "Latzel, Klaus",
     "personBio" : "1955-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)135972043" ],
     "identifierGND" : [ "135972043" ],
     "preferredName" : "Latzel, Klaus"
   }, {
     "personName" : "Kösser, Uta",
     "personBio" : "1942-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)111639247" ],
     "identifierGND" : [ "111639247" ],
     "variantName" : [ "Burggraf, Uta" ],
@@ -34827,6 +35009,7 @@
   }, {
     "personName" : "Kruckis, Hans-Martin",
     "personBio" : "1957-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1157950558" ],
     "identifierGND" : [ "1157950558" ],
     "variantName" : [ "Kruckis, Hans Martin" ],
@@ -34834,18 +35017,21 @@
   }, {
     "personName" : "Fitzi, Gregor",
     "personBio" : "1963-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)135765870" ],
     "identifierGND" : [ "135765870" ],
     "preferredName" : "Fitzi, Gregor"
   }, {
     "personName" : "Papilloud, Christian",
     "personBio" : "19XX-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1072377764" ],
     "identifierGND" : [ "1072377764" ],
     "preferredName" : "Papilloud, Christian"
   }, {
     "personName" : "Watier, Patrick",
     "personBio" : "19XX-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1206659815" ],
     "identifierGND" : [ "1206659815" ],
     "preferredName" : "Watier, Patrick"
@@ -34975,7 +35161,8 @@
     "description" : "Erschienen: Bd. 1 - 3"
   } ],
   "PersonContributor" : [ {
-    "personName" : "Nachtigäller, Roland"
+    "personName" : "Nachtigäller, Roland",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "SubjectHeadings" : [ {
     "subject" : "Geschichte 1989-1992"
@@ -35090,7 +35277,7 @@
   "PersonContributor" : [ {
     "personName" : "Bergmann, Ludwig",
     "personBio" : "1898-1959",
-    "personRole" : [ "Begründer des Werks" ],
+    "personRole" : [ "Sonstige", "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)130394025" ],
     "identifierGND" : [ "130394025" ],
     "variantName" : [ "Bergmann, L.", "Bergmann, Hans Franz Rudolf Ludwig" ],
@@ -35098,7 +35285,7 @@
   }, {
     "personName" : "Schaefer, Clemens",
     "personBio" : "1878-1968",
-    "personRole" : [ "Begründer des Werks" ],
+    "personRole" : [ "Sonstige", "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)11709644X" ],
     "identifierGND" : [ "11709644X" ],
     "variantName" : [ "Schaefer, C.", "Schaefer, Cl.", "Schaefer, Klemens", "Bergmann-Schaefer", "Schäfer, Clemens" ],
@@ -35219,13 +35406,14 @@
   "PersonContributor" : [ {
     "personName" : "Hopt, Klaus J.",
     "personBio" : "1940-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)122206029" ],
     "identifierGND" : [ "122206029" ],
     "variantName" : [ "Chopt, Klaus", "Hopt, Klaus Jürgen", "Hopt, Klaus", "克劳斯·霍普特", "Kelaosi Huopute", "Hopt, K. J." ],
     "preferredName" : "Hopt, Klaus J."
   }, {
     "personName" : "Gadow, Wilhelm",
-    "personRole" : [ "Begründer des Werks" ]
+    "personRole" : [ "Sonstige", "Begründer des Werks" ]
   } ],
   "AdditionalPhysicalFormEntry" : [ {
     "relationshipInformation" : [ "Erscheint auch als" ],
@@ -35357,6 +35545,7 @@
   "PersonContributor" : [ {
     "personName" : "Bartz, Wilfried J.",
     "personBio" : "1934-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)115373047" ],
     "identifierGND" : [ "115373047" ],
     "variantName" : [ "Bartz, W. J.", "Bartz, Wilfried" ],
@@ -35535,11 +35724,14 @@
     "description" : "Gesamttitel-Angabe bis zur 21. Aufl.: Europa-Fachbuchreihe Kraftfahrzeugtechnik"
   } ],
   "PersonContributor" : [ {
-    "personName" : "Gerschler, Hellmut"
+    "personName" : "Gerschler, Hellmut",
+    "personRole" : [ "Herausgeber/in" ]
   }, {
-    "personName" : "Bohner, Max"
+    "personName" : "Bohner, Max",
+    "personRole" : [ "Sonstige" ]
   }, {
     "personName" : "Fischer, Richard",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)105532464X" ],
     "identifierGND" : [ "105532464X" ],
     "preferredName" : "Fischer, Richard"
@@ -35613,7 +35805,8 @@
     "languageSource" : "ger"
   } ],
   "Person" : [ {
-    "personName" : "Schneider, Manfred"
+    "personName" : "Schneider, Manfred",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Himmelsmechanik"
@@ -35722,9 +35915,11 @@
     "description" : "Frühere Aufl. u.d.T.: Fachzeichnen Energietechnik"
   } ],
   "PersonContributor" : [ {
-    "personName" : "Schuh, Manfred"
+    "personName" : "Schuh, Manfred",
+    "personRole" : [ "Herausgeber/in" ]
   }, {
-    "personName" : "Beer, Ulrich"
+    "personName" : "Beer, Ulrich",
+    "personRole" : [ "Sonstige" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990049120700206441"
@@ -35844,6 +36039,7 @@
   "PersonContributor" : [ {
     "personName" : "Becker, Werner",
     "personBio" : "1938-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1013369637" ],
     "identifierGND" : [ "1013369637" ],
     "preferredName" : "Becker, Werner"
@@ -35973,6 +36169,7 @@
   "PersonContributor" : [ {
     "personName" : "Meyers, Robert A.",
     "personBio" : "1936-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)11508438X" ],
     "identifierGND" : [ "11508438X" ],
     "variantName" : [ "Meyers, Bob", "Meyers, R. A.", "Meyers, Robert Allen" ],
@@ -36074,6 +36271,7 @@
   "PersonContributor" : [ {
     "personName" : "Appelrath, Hans-Jürgen",
     "personBio" : "1952-2016",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)12181761X" ],
     "identifierGND" : [ "12181761X" ],
     "variantName" : [ "Appelrath, H.-J.", "Appelrath, H.-Jürgen" ],
@@ -36081,6 +36279,7 @@
   }, {
     "personName" : "Ludewig, Jochen",
     "personBio" : "1947-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)109116062" ],
     "identifierGND" : [ "109116062" ],
     "variantName" : [ "Ludewig, J." ],
@@ -36088,6 +36287,7 @@
   }, {
     "personName" : "Spiegel, André",
     "personBio" : "1969-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)112735169" ],
     "identifierGND" : [ "112735169" ],
     "preferredName" : "Spiegel, André"
@@ -36177,7 +36377,8 @@
     "languageSource" : "ger"
   } ],
   "Person" : [ {
-    "personName" : "Mattes, Heinz"
+    "personName" : "Mattes, Heinz",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Übungskurs Elektrotechnik"
@@ -36263,7 +36464,8 @@
     "languageSource" : "ger"
   } ],
   "Person" : [ {
-    "personName" : "Ameling, Walter"
+    "personName" : "Ameling, Walter",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Digitalrechner"
@@ -36346,6 +36548,7 @@
   "Person" : [ {
     "personName" : "Handschin, Edmund",
     "personBio" : "1941-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)137287445" ],
     "identifierGND" : [ "137287445" ],
     "variantName" : [ "Handschin, E.", "Handschin, Edmond" ],
@@ -36457,6 +36660,7 @@
   "Person" : [ {
     "personName" : "Zurmühl, Rudolf",
     "personBio" : "1904-1966",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)172475465" ],
     "identifierGND" : [ "172475465" ],
     "variantName" : [ "Mühl, Rudolf zur", "Mühl, R. zur", "Zurmühl, R." ],
@@ -36509,6 +36713,7 @@
   "PersonCreator" : [ {
     "personName" : "Falk, Sigurd",
     "personBio" : "1921-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)172071054" ],
     "identifierGND" : [ "172071054" ],
     "variantName" : [ "Falk, S." ],
@@ -36583,7 +36788,8 @@
     "variantISBN" : [ "978-3-446-17036-0", "3-446-17036-7" ]
   } ],
   "Person" : [ {
-    "personName" : "Naumann, Helmut"
+    "personName" : "Naumann, Helmut",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Bauelemente der Optik"
@@ -36648,6 +36854,7 @@
   "PersonCreator" : [ {
     "personName" : "Schröder, Gottfried",
     "personBio" : "1928-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)115862730" ],
     "identifierGND" : [ "115862730" ],
     "variantName" : [ "Schröder, G." ],
@@ -36743,6 +36950,7 @@
   "PersonContributor" : [ {
     "personName" : "Deuflhard, Peter",
     "personBio" : "1944-2019",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)108205983" ],
     "identifierGND" : [ "108205983" ],
     "variantName" : [ "Deuflhard, P." ],
@@ -36750,12 +36958,14 @@
   }, {
     "personName" : "Hohmann, Andreas",
     "personBio" : "1964-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)143434772" ],
     "identifierGND" : [ "143434772" ],
     "preferredName" : "Hohmann, Andreas"
   }, {
     "personName" : "Bornemann, Folkmar",
     "personBio" : "1967-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)120096269" ],
     "identifierGND" : [ "120096269" ],
     "variantName" : [ "Bornemann, FolkmarA.", "Bornemann, Folkmar A.", "Bornemann, F. A.", "Bornemann, F." ],
@@ -36763,6 +36973,7 @@
   }, {
     "personName" : "Weiser, Martin",
     "personBio" : "1970-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)123252040" ],
     "identifierGND" : [ "123252040" ],
     "variantName" : [ "Weiser, M." ],
@@ -36878,6 +37089,7 @@
   "PersonContributor" : [ {
     "personName" : "Drosdowski, Günther",
     "personBio" : "1926-2000",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)130117722" ],
     "identifierGND" : [ "130117722" ],
     "variantName" : [ "Drosdowski, Günter" ],
@@ -36885,6 +37097,7 @@
   }, {
     "personName" : "Wermke, Matthias",
     "personBio" : "1956-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)133592782" ],
     "identifierGND" : [ "133592782" ],
     "variantName" : [ "Wermke, M." ],
@@ -36980,6 +37193,7 @@
   "Person" : [ {
     "personName" : "Münch, Ingo von",
     "personBio" : "1932-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118100203" ],
     "identifierGND" : [ "118100203" ],
     "variantName" : [ "Mjunch, Ingo fon", "Minxi, Yingge feng", "Miunh, Ingo p'on" ],
@@ -37113,6 +37327,7 @@
   "Person" : [ {
     "personName" : "Louis, Alfred Karl",
     "personBio" : "1949-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)120229552" ],
     "identifierGND" : [ "120229552" ],
     "variantName" : [ "Louis, Alfred", "Louis, Alfred K.", "Louis, A. K." ],
@@ -37188,6 +37403,7 @@
   "PersonCreator" : [ {
     "personName" : "Maaß, Peter",
     "personBio" : "1959-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)120229595" ],
     "identifierGND" : [ "120229595" ],
     "variantName" : [ "Maaß, P.", "Maass, Peter" ],
@@ -37195,6 +37411,7 @@
   }, {
     "personName" : "Rieder, Andreas",
     "personBio" : "1963-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)120229625" ],
     "identifierGND" : [ "120229625" ],
     "variantName" : [ "Rieder, A." ],
@@ -37272,6 +37489,7 @@
   "Person" : [ {
     "personName" : "Götz, Klaus",
     "personBio" : "1957-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118080164" ],
     "identifierGND" : [ "118080164" ],
     "preferredName" : "Götz, Klaus"
@@ -37436,7 +37654,7 @@
   "PersonContributor" : [ {
     "personName" : "Staudinger, Julius von",
     "personBio" : "1836-1902",
-    "personRole" : [ "Begründer des Werks" ],
+    "personRole" : [ "Sonstige", "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)102034869" ],
     "identifierGND" : [ "102034869" ],
     "variantName" : [ "Staudinger, Jul. von", "Staudinger, Julius v.", "Staudinger, Julius", "Staudinger, J. von" ],
@@ -37444,6 +37662,7 @@
   }, {
     "personName" : "Albrecht, Karl-Dieter",
     "personBio" : "1942-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)1027556876" ],
     "identifierGND" : [ "1027556876" ],
     "preferredName" : "Albrecht, Karl-Dieter"
@@ -37555,6 +37774,7 @@
   "Person" : [ {
     "personName" : "Tichy, Gunther",
     "personBio" : "1937-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)121100871" ],
     "identifierGND" : [ "121100871" ],
     "variantName" : [ "Tichy, Gunther J.", "Tichy, Gunter" ],
@@ -37692,6 +37912,7 @@
   "Person" : [ {
     "personName" : "Lamport, Leslie",
     "personBio" : "1941-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)170465918" ],
     "identifierGND" : [ "170465918" ],
     "preferredName" : "Lamport, Leslie"
@@ -37964,6 +38185,7 @@
   "PersonContributor" : [ {
     "personName" : "Bruhn, Manfred",
     "personBio" : "1949-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)115483896" ],
     "identifierGND" : [ "115483896" ],
     "variantName" : [ "Bruhn, M." ],
@@ -38094,7 +38316,8 @@
     "title" : [ "Gabler Wirtschaft" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Zenk, Georg"
+    "personName" : "Zenk, Georg",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://digitale-objekte.hbz-nrw.de/storage/2006/08/03/file_193/1541934.pdf",
@@ -38255,18 +38478,21 @@
   "PersonContributor" : [ {
     "personName" : "Forster, Otto",
     "personBio" : "1937-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)115448942" ],
     "identifierGND" : [ "115448942" ],
     "variantName" : [ "Forster, O." ],
     "preferredName" : "Forster, Otto"
   }, {
     "personName" : "Szymczak, Thomas",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)1048456455" ],
     "identifierGND" : [ "1048456455" ],
     "variantName" : [ "Szymczak, Th.", "Szymczak, T." ],
     "preferredName" : "Szymczak, Thomas"
   }, {
     "personName" : "Wessoly, Rüdiger",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)1048456153" ],
     "identifierGND" : [ "1048456153" ],
     "variantName" : [ "Wessoly, R." ],
@@ -38365,6 +38591,7 @@
   "Person" : [ {
     "personName" : "Cammerer, Walter F.",
     "personBio" : "1920-2013",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)14067876X" ],
     "identifierGND" : [ "14067876X" ],
     "variantName" : [ "Cammerer, Walter Friedrich", "Cammerer, W. F." ],
@@ -38512,6 +38739,7 @@
   "Person" : [ {
     "personName" : "Goetzel, Claus G.",
     "personBio" : "1913-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)172826969" ],
     "identifierGND" : [ "172826969" ],
     "variantName" : [ "Goetzel, Claus Guenther" ],
@@ -38573,7 +38801,8 @@
     "shelfmark" : "JUE_Frei"
   } ],
   "PersonCreator" : [ {
-    "personName" : "Goetzel, Lilo K."
+    "personName" : "Goetzel, Lilo K.",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleOther" : [ {
     "title" : "Englisch-deutsches Wörterbuch der industriellen Werkstofftechnik"
@@ -38761,7 +38990,8 @@
     "description" : "Erscheinen eingestellt"
   } ],
   "PersonContributor" : [ {
-    "personName" : "Ruske, Wolfgang"
+    "personName" : "Ruske, Wolfgang",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
@@ -38855,6 +39085,7 @@
   },
   "PersonContributor" : [ {
     "personName" : "Klein, Jacob",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1024089223" ],
     "identifierGND" : [ "1024089223" ],
     "variantName" : [ "Klein, Jakob", "Klein, Jacob I.", "Klein, J." ],
@@ -39147,7 +39378,8 @@
     "extent" : "XI, 236 S. : Ill., graph. Darst."
   },
   "PersonContributor" : [ {
-    "personName" : "Baltes, Heinrich P."
+    "personName" : "Baltes, Heinrich P.",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "HostItemEntry" : [ {
     "controlNumber" : [ "(DE-605)HT007233841" ],
@@ -39260,11 +39492,14 @@
     "extent" : "XXII, 641 S. : Ill., graph. Darst."
   },
   "PersonContributor" : [ {
-    "personName" : "Schulze, Günter"
+    "personName" : "Schulze, Günter",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Krafka, Helmut"
+    "personName" : "Krafka, Helmut",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Neumann, Peter"
+    "personName" : "Neumann, Peter",
+    "personRole" : [ "Sonstige" ]
   } ],
   "SucceedingEntry" : [ {
     "relationshipInformation" : [ "3. Aufl. u.d.T." ],
@@ -39379,7 +39614,8 @@
     "description" : "Erschienen: 1 - 2"
   } ],
   "PersonContributor" : [ {
-    "personName" : "Volland, Hans"
+    "personName" : "Volland, Hans",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990050093220206441"
@@ -39498,10 +39734,11 @@
     "description" : "Erschienen: Bd. 1 - 2"
   } ],
   "PersonContributor" : [ {
-    "personName" : "Buder, Marianne"
+    "personName" : "Buder, Marianne",
+    "personRole" : [ "Herausgeber/in" ]
   }, {
     "personName" : "Laisiepen, Klaus",
-    "personRole" : [ "Begründer des Werks" ]
+    "personRole" : [ "Sonstige", "Begründer des Werks" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990050093380206441"
@@ -39594,6 +39831,7 @@
   "Person" : [ {
     "personName" : "Mack, Gerhard",
     "personBio" : "1956-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)131802267" ],
     "identifierGND" : [ "131802267" ],
     "preferredName" : "Mack, Gerhard"
@@ -39625,12 +39863,14 @@
   "PersonContributor" : [ {
     "personName" : "Herzog, Jacques",
     "personBio" : "1950-",
+    "personRole" : [ "Illustration" ],
     "personIdentifier" : [ "(DE-588)122229517" ],
     "identifierGND" : [ "122229517" ],
     "preferredName" : "Herzog, Jacques"
   }, {
     "personName" : "Meuron, Pierre de",
     "personBio" : "1950-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)122454561" ],
     "identifierGND" : [ "122454561" ],
     "variantName" : [ "De Meuron, Pierre", "DeMeuron, Pierre" ],
@@ -39716,7 +39956,8 @@
     "printingPlace" : [ "München [u.a.]" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Klöppel, Bert"
+    "personName" : "Klöppel, Bert",
+    "personRole" : [ "Sonstige" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990050094310206441"
@@ -39805,6 +40046,7 @@
   "Person" : [ {
     "personName" : "Brunner, Götz",
     "personBio" : "1938-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)133550648" ],
     "identifierGND" : [ "133550648" ],
     "variantName" : [ "Brunner, G." ],
@@ -39979,7 +40221,8 @@
     "description" : "Beitr. teilw. dt., teilw. engl."
   } ],
   "PersonContributor" : [ {
-    "personName" : "Levi, Paul"
+    "personName" : "Levi, Paul",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://digitale-objekte.hbz-nrw.de/storage2/2019/07/14/file_38/8525676.pdf",
@@ -40183,7 +40426,8 @@
     "extent" : "344 S. : graph. Darst."
   },
   "PersonContributor" : [ {
-    "personName" : "Neumann, Peter"
+    "personName" : "Neumann, Peter",
+    "personRole" : [ "Sonstige" ]
   } ],
   "SucceedingEntry" : [ {
     "relationshipInformation" : [ "3. Aufl. u.d.T." ],
@@ -40346,6 +40590,7 @@
   "Person" : [ {
     "personName" : "Murrenhoff, Hubertus",
     "personBio" : "1953-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1066352585" ],
     "identifierGND" : [ "1066352585" ],
     "variantName" : [ "Murrenhoff, Hubertus Josef", "Murrenhoff, H." ],
@@ -40398,6 +40643,7 @@
   "PersonCreator" : [ {
     "personName" : "Schmitz, Katharina",
     "personBio" : "1986-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1071900013" ],
     "identifierGND" : [ "1071900013" ],
     "variantName" : [ "Schrank, K.", "Schrank, Katharina" ],
@@ -40556,7 +40802,8 @@
     "variantISBN" : [ "978-3-406-44007-6", "3-406-44007-X" ]
   } ],
   "Person" : [ {
-    "personName" : "Leopold, Günter"
+    "personName" : "Leopold, Günter",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Eigenkapital für den Mittelstand"
@@ -40621,6 +40868,7 @@
   "PersonCreator" : [ {
     "personName" : "Frommann, Holger",
     "personBio" : "1954-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)124777252" ],
     "identifierGND" : [ "124777252" ],
     "preferredName" : "Frommann, Holger"
@@ -40760,6 +41008,7 @@
   "PersonContributor" : [ {
     "personName" : "Duwendag, Dieter",
     "personBio" : "1938-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)124627102" ],
     "identifierGND" : [ "124627102" ],
     "variantName" : [ "Duwendag, D." ],
@@ -40968,9 +41217,11 @@
     "date" : [ "1998-" ]
   },
   "PersonContributor" : [ {
-    "personName" : "Jakubke, Hans-Dieter"
+    "personName" : "Jakubke, Hans-Dieter",
+    "personRole" : [ "Herausgeber/in" ]
   }, {
-    "personName" : "Acker, Andrea"
+    "personName" : "Acker, Andrea",
+    "personRole" : [ "Sonstige" ]
   } ],
   "AdditionalPhysicalFormEntry" : [ {
     "relationshipInformation" : [ "Erscheint auch als" ],
@@ -41071,6 +41322,7 @@
   "Person" : [ {
     "personName" : "Staehle, Wolfgang H.",
     "personBio" : "1938-1992",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)121695360" ],
     "identifierGND" : [ "121695360" ],
     "variantName" : [ "Staehle, Wolfgang Herbert", "Staehle, W. H.", "Staehle, Wolfgang" ],
@@ -41104,7 +41356,7 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Conrad, Peter",
-    "personRole" : [ "Bearb." ],
+    "personRole" : [ "Sonstige", "Bearb." ],
     "personIdentifier" : [ "(DE-588)131961853" ],
     "identifierGND" : [ "131961853" ],
     "variantName" : [ "Conrad, P." ],
@@ -41265,6 +41517,7 @@
   "PersonContributor" : [ {
     "personName" : "Süßmuth, Roland",
     "personBio" : "1934-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)122955943" ],
     "identifierGND" : [ "122955943" ],
     "preferredName" : "Süßmuth, Roland"
@@ -41427,7 +41680,8 @@
     "description" : "Literaturverz. S. [267] - 280"
   } ],
   "PersonContributor" : [ {
-    "personName" : "Bach, Volker"
+    "personName" : "Bach, Volker",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "SucceedingEntry" : [ {
     "relationshipInformation" : [ "Spätere Ausg. u.d.T." ],
@@ -41573,6 +41827,7 @@
   "Person" : [ {
     "personName" : "Krause, Jörg",
     "personBio" : "1964-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)124150535" ],
     "identifierGND" : [ "124150535" ],
     "preferredName" : "Krause, Jörg"
@@ -41727,6 +41982,7 @@
   "Person" : [ {
     "personName" : "Merz, Michael",
     "personBio" : "1964-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)173409504" ],
     "identifierGND" : [ "173409504" ],
     "preferredName" : "Merz, Michael"
@@ -41873,6 +42129,7 @@
   "Person" : [ {
     "personName" : "Rauen, Christopher",
     "personBio" : "1969-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)120960621" ],
     "identifierGND" : [ "120960621" ],
     "variantName" : [ "Rauen, C.", "Rauen, Christopher F." ],
@@ -42013,6 +42270,7 @@
   } ],
   "Person" : [ {
     "personName" : "Steinbuch, Pitter A.",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)137479522" ],
     "identifierGND" : [ "137479522" ],
     "variantName" : [ "Steinbuch, P. A." ],
@@ -42219,13 +42477,14 @@
   "PersonContributor" : [ {
     "personName" : "Erman, Walter",
     "personBio" : "1904-1982",
-    "personRole" : [ "Begründer des Werks" ],
+    "personRole" : [ "Sonstige", "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)102156417" ],
     "identifierGND" : [ "102156417" ],
     "preferredName" : "Erman, Walter"
   }, {
     "personName" : "Westermann, Harm Peter",
     "personBio" : "1938-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)106219391" ],
     "identifierGND" : [ "106219391" ],
     "variantName" : [ "Westermann, H. P.", "Ha er mu Bi de Wei si te man", "Weisiteman, Haermu Bide", "Westermann, Harm-Peter", "Haermu-Bide-Weisiteman", "Westermann, Harm P." ],
@@ -42233,7 +42492,7 @@
   }, {
     "personName" : "Aderhold, Lutz",
     "personBio" : "1951-",
-    "personRole" : [ "Bearb." ],
+    "personRole" : [ "Sonstige", "Bearb." ],
     "personIdentifier" : [ "(DE-588)1050901800" ],
     "identifierGND" : [ "1050901800" ],
     "preferredName" : "Aderhold, Lutz"
@@ -42352,6 +42611,7 @@
   "PersonContributor" : [ {
     "personName" : "Rebmann, Kurt",
     "personBio" : "1924-2005",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)119016729" ],
     "identifierGND" : [ "119016729" ],
     "preferredName" : "Rebmann, Kurt"
@@ -42463,7 +42723,8 @@
     "variantISBN" : [ "978-3-519-03530-5", "3-519-03530-8" ]
   } ],
   "Person" : [ {
-    "personName" : "Lueken, Heiko"
+    "personName" : "Lueken, Heiko",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Magnetochemie"
@@ -42583,7 +42844,8 @@
     "variantISBN" : [ "978-3-87905-071-0", "3-87905-071-6" ]
   } ],
   "Person" : [ {
-    "personName" : "Berg, Jürgen"
+    "personName" : "Berg, Jürgen",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Managementsysteme in der Bauwirtschaft"
@@ -42624,7 +42886,8 @@
     "shelfmark" : "BAY_Frei"
   } ],
   "PersonCreator" : [ {
-    "personName" : "Surmann, Christoph"
+    "personName" : "Surmann, Christoph",
+    "personRole" : [ "Autor/in" ]
   } ],
   "RSWK" : [ {
     "subjectTopicName" : [ "Qualitätsmanagement" ],
@@ -42723,12 +42986,14 @@
   "PersonContributor" : [ {
     "personName" : "Dolff-Bonekämper, Gabriele",
     "personBio" : "1952-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)1023973014" ],
     "identifierGND" : [ "1023973014" ],
     "variantName" : [ "Dolff-Bonekämper, Gabie", "Dolff-Bonekaemper, Gabi", "Bonekämper, Gabi Dolff-", "Bonekämper, Gabriele Dolff-", "Dolff-Bonekämper, Gabi", "Dolff-Bonekämper, G.", "Dolff, Gabriele" ],
     "preferredName" : "Dolff-Bonekämper, Gabriele"
   }, {
-    "personName" : "Schmidt, Franziska"
+    "personName" : "Schmidt, Franziska",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://digitale-objekte.hbz-nrw.de/storage2/2018/06/10/file_101/7889374.pdf",
@@ -42866,7 +43131,8 @@
     "extent" : "248 S. : Ill., graph. Darst. ; 1 CD-ROM (12 cm)"
   },
   "PersonContributor" : [ {
-    "personName" : "Gentsch, Peter"
+    "personName" : "Gentsch, Peter",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://digitale-objekte.hbz-nrw.de/storage/2006/08/03/file_292/1551837.pdf",
@@ -42988,6 +43254,7 @@
   "Person" : [ {
     "personName" : "Penn, Irving",
     "personBio" : "1917-2009",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118739891" ],
     "identifierGND" : [ "118739891" ],
     "preferredName" : "Penn, Irving"
@@ -43012,6 +43279,7 @@
   "PersonContributor" : [ {
     "personName" : "Holborn, Mark",
     "personBio" : "1949-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)143225219" ],
     "identifierGND" : [ "143225219" ],
     "preferredName" : "Holborn, Mark"
@@ -43046,6 +43314,7 @@
   "PersonCreator" : [ {
     "personName" : "Miyake, Issei",
     "personBio" : "1938-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118867571" ],
     "identifierGND" : [ "118867571" ],
     "variantName" : [ "Miyake, Issey", "三宅一生" ],
@@ -43160,6 +43429,7 @@
   },
   "PersonContributor" : [ {
     "personName" : "Oesterle, Eberhard",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)172293294" ],
     "identifierGND" : [ "172293294" ],
     "variantName" : [ "Oesterle, E." ],
@@ -43286,6 +43556,7 @@
   "PersonContributor" : [ {
     "personName" : "Strunk, Marion",
     "personBio" : "1949-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)120685787" ],
     "identifierGND" : [ "120685787" ],
     "variantName" : [ "Müller-Strunk, Marion" ],
@@ -43386,6 +43657,7 @@
   "Person" : [ {
     "personName" : "Bronfen, Elisabeth",
     "personBio" : "1958-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)120513293" ],
     "identifierGND" : [ "120513293" ],
     "variantName" : [ "Bronfen, Elisabeth Eve", "Bronfen, Elizabeth" ],
@@ -43522,6 +43794,7 @@
   "Person" : [ {
     "personName" : "Uebele, Andreas",
     "personBio" : "1960-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)121767647" ],
     "identifierGND" : [ "121767647" ],
     "preferredName" : "Uebele, Andreas"
@@ -43705,6 +43978,7 @@
   "PersonContributor" : [ {
     "personName" : "Frohne, Ursula",
     "personBio" : "1958-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)137136498" ],
     "identifierGND" : [ "137136498" ],
     "variantName" : [ "Frohne, Ursula Anna Hedwig", "Frohne, Ulla", "Frohne, Ursula Anna" ],
@@ -43842,12 +44116,14 @@
   "PersonContributor" : [ {
     "personName" : "Asensio Cerver, Francisco",
     "personBio" : "1942-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)172528674" ],
     "identifierGND" : [ "172528674" ],
     "variantName" : [ "Asensio Acero, Francisco", "Cerver, Francisco A.", "Asensio-Cerver, Francisco", "Acero, Francisco Asensio", "Cerver, Francisco Asensio" ],
     "preferredName" : "Asensio Cerver, Francisco"
   }, {
-    "personName" : "Garcia, Belén"
+    "personName" : "Garcia, Belén",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://digitale-objekte.hbz-nrw.de/storage2/2018/06/08/file_171/7853434.pdf",
@@ -43947,7 +44223,8 @@
     "variantISBN" : [ "978-3-8007-2343-0", "3-8007-2343-3" ]
   } ],
   "Person" : [ {
-    "personName" : "Jäger, Rainer"
+    "personName" : "Jäger, Rainer",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Leistungselektronik"
@@ -44027,7 +44304,8 @@
     "shelfmark" : "EUP_Frei"
   } ],
   "PersonCreator" : [ {
-    "personName" : "Stein, Edgar H."
+    "personName" : "Stein, Edgar H.",
+    "personRole" : [ "Autor/in" ]
   } ],
   "RSWK" : [ {
     "subjectTopicName" : [ "Leistungselektronik" ],
@@ -44102,6 +44380,7 @@
   "Person" : [ {
     "personName" : "Küppers, Harald",
     "personBio" : "1928-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)121254917" ],
     "identifierGND" : [ "121254917" ],
     "variantName" : [ "Küppers, Harald Liebedank", "Küppers, Harald L." ],
@@ -44260,7 +44539,8 @@
     "extent" : "199 S. : überw. Ill., graph. Darst."
   },
   "PersonContributor" : [ {
-    "personName" : "Timm, Ulrich"
+    "personName" : "Timm, Ulrich",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://digitale-objekte.hbz-nrw.de/storage2/2018/06/08/file_183/7854022.pdf",
@@ -44385,9 +44665,11 @@
     "title" : [ "BauArt" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Laufner, Odile"
+    "personName" : "Laufner, Odile",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Ernst, Monika"
+    "personName" : "Ernst, Monika",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://digitale-objekte.hbz-nrw.de/storage2/2018/06/08/file_191/7854396.pdf",
@@ -44633,7 +44915,8 @@
     "extent" : "135 S. : zahlr. Ill."
   },
   "PersonContributor" : [ {
-    "personName" : "Adam, Jörg"
+    "personName" : "Adam, Jörg",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "SupplementParentEntry" : [ {
     "relationshipInformation" : [ "Beih. u.d.T." ],
@@ -44875,6 +45158,7 @@
   } ],
   "Person" : [ {
     "personName" : "Eilebrecht, Lars",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)173138640" ],
     "identifierGND" : [ "173138640" ],
     "preferredName" : "Eilebrecht, Lars"
@@ -44928,9 +45212,11 @@
     "shelfmark" : "EUP_Frei"
   } ],
   "PersonCreator" : [ {
-    "personName" : "Rath, Nikolaus"
+    "personName" : "Rath, Nikolaus",
+    "personRole" : [ "Autor/in" ]
   }, {
-    "personName" : "Rohde, Thomas"
+    "personName" : "Rohde, Thomas",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleOther" : [ {
     "title" : "Apache Webserver"
@@ -45126,6 +45412,7 @@
   },
   "PersonContributor" : [ {
     "personName" : "Cuito, Aurora",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)123810655" ],
     "identifierGND" : [ "123810655" ],
     "preferredName" : "Cuito, Aurora"
@@ -45242,10 +45529,12 @@
     "extent" : "[80] Bl. : überw. Ill."
   },
   "PersonContributor" : [ {
-    "personName" : "Wilkin, Charles"
+    "personName" : "Wilkin, Charles",
+    "personRole" : [ "Sonstige" ]
   }, {
     "personName" : "Klanten, Robert",
     "personBio" : "1964-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)114738726" ],
     "identifierGND" : [ "114738726" ],
     "variantName" : [ "Klanten, R." ],
@@ -45343,7 +45632,8 @@
     "variantISBN" : [ "978-3-89355-242-9", "3-89355-242-1" ]
   } ],
   "Person" : [ {
-    "personName" : "Gralingen, Christian"
+    "personName" : "Gralingen, Christian",
+    "personRole" : [ "Autor/in" ]
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Universität Essen",
@@ -45376,6 +45666,7 @@
   "PersonContributor" : [ {
     "personName" : "Vogel, Manfred",
     "personBio" : "1946-2008",
+    "personRole" : [ "Akademische Betreuung" ],
     "personIdentifier" : [ "(DE-588)118864955" ],
     "identifierGND" : [ "118864955" ],
     "preferredName" : "Vogel, Manfred"
@@ -45496,6 +45787,7 @@
   "Person" : [ {
     "personName" : "Küstenmacher, Werner Tiki",
     "personBio" : "1953-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)120111411" ],
     "identifierGND" : [ "120111411" ],
     "variantName" : [ "Wei na Di qi Qu si tan", "Be leu neo Ti ki Kwi seu ten ma heo", "Qusitan, Weina", "Kistenmaher, Tiki", "Kwiseutenmaheo, Beleuneo Tiki", "Qusitengmahe, Weierna", "Kusitemahe, Weierna", "Wei na Ti qi Qu si tan", "Kjustenmacher, Verner Tiki", "Weierna-Diji-Kusitengmaxieer", "Kustenmacher, Werner Tiki", "베르너 퀴스텐마허", "Wei er na Di ji Ku si teng ma xie er", "Weina-Diqi-Qusitan", "Wei na Qu si tan", "Wei er na Qu si teng ma he", "Qusitan, Weina-Tiqi", "퀴스텐마허 베르너", "K'wisŭt'enmahŏ, Perŭnŏ T'ik'i", "Qusitan, Weina Diqi", "Wei er na Ku si te ma he", "Weierna-Kusitemahe", "Beleuneo-Tiki-Kwiseutenmaheo", "Küstenmacher, Werner", "Kusitengmaxieer, Weierna Diji", "Küstenmacher, Tiki", "Weierna-Qusitengmahe", "Kyusutenmahhā, Verunā Tiki", "Kistenmahers, Verners Tiki", "Weina-Qusitan", "Weina-Tiqi-Qusitan", "Kustenmacher, Tiki", "Qusitan, Weina Tiqi" ],
@@ -45556,9 +45848,11 @@
     "shelfmark" : "JUE_Frei"
   } ],
   "PersonCreator" : [ {
-    "personName" : "Partoll, Heinz"
+    "personName" : "Partoll, Heinz",
+    "personRole" : [ "Autor/in" ]
   }, {
-    "personName" : "Wagner, Irmgard"
+    "personName" : "Wagner, Irmgard",
+    "personRole" : [ "Autor/in" ]
   } ],
   "RSWK" : [ {
     "subjectTopicName" : [ "Mathematikunterricht" ],
@@ -45669,6 +45963,7 @@
   "PersonContributor" : [ {
     "personName" : "Schindler, Rudolph Michael",
     "personBio" : "1887-1953",
+    "personRole" : [ "Illustration" ],
     "personIdentifier" : [ "(DE-588)118795023" ],
     "identifierGND" : [ "118795023" ],
     "variantName" : [ "Schindler, RM", "Schindler, Rudolph M.", "Schindler, R. M.", "Schindler, Rudolph", "Schindler, Rudolf Michael", "Schindler, Rudolf M." ],
@@ -45676,12 +45971,14 @@
   }, {
     "personName" : "Smith, Elizabeth A. T.",
     "personBio" : "1958-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)139782427" ],
     "identifierGND" : [ "139782427" ],
     "variantName" : [ "Sumisu, Erizabesu A. M." ],
     "preferredName" : "Smith, Elizabeth A. T."
   }, {
-    "personName" : "Darling, Michael"
+    "personName" : "Darling, Michael",
+    "personRole" : [ "Sonstige" ]
   } ],
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",
@@ -45789,6 +46086,7 @@
   "Person" : [ {
     "personName" : "Clocksin, William F.",
     "personBio" : "1955-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)115525084" ],
     "identifierGND" : [ "115525084" ],
     "variantName" : [ "Clocksin, W. F." ],
@@ -45950,6 +46248,7 @@
   "PersonCreator" : [ {
     "personName" : "Mellish, Christopher S.",
     "personBio" : "1954-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)13355788X" ],
     "identifierGND" : [ "13355788X" ],
     "variantName" : [ "Mellish, Chris", "Melliš, Kristofer", "Melliš, K.", "Mellish, C. S." ],
@@ -46022,6 +46321,7 @@
   "Person" : [ {
     "personName" : "Horngren, Charles T.",
     "personBio" : "1926-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)129194565" ],
     "identifierGND" : [ "129194565" ],
     "variantName" : [ "Hon'gurin, Chàalsu T.", "Horngren, Chuck" ],
@@ -46092,11 +46392,13 @@
   "PersonCreator" : [ {
     "personName" : "Sundem, Gary L.",
     "personBio" : "1944-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)172391342" ],
     "identifierGND" : [ "172391342" ],
     "preferredName" : "Sundem, Gary Lewis"
   }, {
-    "personName" : "Elliott, John A."
+    "personName" : "Elliott, John A.",
+    "personRole" : [ "Autor/in" ]
   } ],
   "RSWK" : [ {
     "subjectTopicName" : [ "Accounting" ],
@@ -46209,11 +46511,11 @@
   },
   "PersonContributor" : [ {
     "personName" : "Gross, Helmut",
-    "personRole" : [ "Begründer des Werks" ]
+    "personRole" : [ "Sonstige", "Begründer des Werks" ]
   }, {
     "personName" : "Arndt, Karl-Friedrich",
     "personBio" : "1948-2015",
-    "personRole" : [ "Bearb." ],
+    "personRole" : [ "Sonstige", "Bearb." ],
     "personIdentifier" : [ "(DE-588)1071626434" ],
     "identifierGND" : [ "1071626434" ],
     "variantName" : [ "Arndt, K.-F.", "Arndt, Karl-Fr." ],
@@ -46350,7 +46652,8 @@
     "variantISBN" : [ "978-3-8266-1375-3", "3-8266-1375-9" ]
   } ],
   "Person" : [ {
-    "personName" : "Mcclure, Stuart"
+    "personName" : "Mcclure, Stuart",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Das Anti-Hacker-Buch"
@@ -46401,9 +46704,11 @@
     "shelfmark" : "EUP_Frei"
   } ],
   "PersonCreator" : [ {
-    "personName" : "Scambray, Joel"
+    "personName" : "Scambray, Joel",
+    "personRole" : [ "Autor/in" ]
   }, {
-    "personName" : "Kurtz, George"
+    "personName" : "Kurtz, George",
+    "personRole" : [ "Autor/in" ]
   } ],
   "RSWK" : [ {
     "subjectTopicName" : [ "Betriebssystem" ],
@@ -46495,6 +46800,7 @@
   "Person" : [ {
     "personName" : "Nitsch, Hermann",
     "personBio" : "1938-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118735543" ],
     "identifierGND" : [ "118735543" ],
     "variantName" : [ "Νιτς, Χέρμαν", "Нич, Герман" ],
@@ -46609,6 +46915,7 @@
   "Person" : [ {
     "personName" : "Nitsch, Hermann",
     "personBio" : "1938-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118735543" ],
     "identifierGND" : [ "118735543" ],
     "variantName" : [ "Νιτς, Χέρμαν", "Нич, Герман" ],
@@ -46718,6 +47025,7 @@
   "Person" : [ {
     "personName" : "Nitsch, Hermann",
     "personBio" : "1938-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)118735543" ],
     "identifierGND" : [ "118735543" ],
     "variantName" : [ "Νιτς, Χέρμαν", "Нич, Герман" ],
@@ -46860,6 +47168,7 @@
   "PersonContributor" : [ {
     "personName" : "Kurosawa, Akira",
     "personBio" : "1910-1998",
+    "personRole" : [ "Regie" ],
     "personIdentifier" : [ "(DE-588)118778269" ],
     "identifierGND" : [ "118778269" ],
     "variantName" : [ "黒澤, 明", "黒澤明", "Kirosawa Akira", "Kurusava, Akira", "黒沢明" ],
@@ -46867,6 +47176,7 @@
   }, {
     "personName" : "Nakadai, Tatsuya",
     "personBio" : "1932-",
+    "personRole" : [ "Schauspieler/in" ],
     "personIdentifier" : [ "(DE-588)135950953" ],
     "identifierGND" : [ "135950953" ],
     "variantName" : [ "仲代達矢", "Nakadai Motohisa", "ナカダイ, タツヤ", "Nakadai Tatsuya", "仲代元久", "仲代, 元久", "Nakadai, Motohisa" ],
@@ -46874,6 +47184,7 @@
   }, {
     "personName" : "Yamazaki, Tsutomu",
     "personBio" : "1936-",
+    "personRole" : [ "Schauspieler/in" ],
     "personIdentifier" : [ "(DE-588)136844022" ],
     "identifierGND" : [ "136844022" ],
     "variantName" : [ "山崎,努", "Yamazaki Tsutomu" ],
@@ -46998,6 +47309,7 @@
   "Person" : [ {
     "personName" : "Bouroullec, Ronan",
     "personBio" : "1971-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)124709176" ],
     "identifierGND" : [ "124709176" ],
     "preferredName" : "Bouroullec, Ronan"
@@ -47043,6 +47355,7 @@
   "PersonCreator" : [ {
     "personName" : "Bouroullec, Erwan",
     "personBio" : "1976-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)124709168" ],
     "identifierGND" : [ "124709168" ],
     "preferredName" : "Bouroullec, Erwan"
@@ -47138,7 +47451,8 @@
     "languageSource" : "eng"
   } ],
   "Person" : [ {
-    "personName" : "Möllerke, Georg"
+    "personName" : "Möllerke, Georg",
+    "personRole" : [ "Autor/in" ]
   } ],
   "SubseriesStatement" : [ {
     "title" : "Deutsch - Englisch"
@@ -47329,7 +47643,8 @@
     "date" : [ "1902" ]
   },
   "PersonContributor" : [ {
-    "personName" : "Geissler, L."
+    "personName" : "Geissler, L.",
+    "personRole" : [ "Sonstige" ]
   } ],
   "xbib" : [ {
     "uid" : "(DE-605)990121762320206441"
@@ -47489,6 +47804,7 @@
   "Person" : [ {
     "personName" : "Hecht-El Minshawi, Béatrice",
     "personBio" : "1947-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)109905598" ],
     "identifierGND" : [ "109905598" ],
     "variantName" : [ "Minshawi, Beatrice el-", "Minshawi, Beatrice Hecht- el", "Hecht-El Minshawi, Béatrice S.", "Hecht, Béatrice", "Hecht- el Minshawi, Béatrice", "Hecht- el-Minshawi, Béatrice", "Minshawi, Béatrice H. el-", "El-Minshawi, Beatrice" ],
@@ -47654,18 +47970,21 @@
   "PersonContributor" : [ {
     "personName" : "Dietz, Kirsten",
     "personBio" : "1967-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)129251089" ],
     "identifierGND" : [ "129251089" ],
     "preferredName" : "Dietz, Kirsten"
   }, {
     "personName" : "Rädeker, Jochen",
     "personBio" : "1967-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)129251097" ],
     "identifierGND" : [ "129251097" ],
     "preferredName" : "Rädeker, Jochen"
   }, {
     "personName" : "Schubert, Niels",
     "personBio" : "1962-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)122753119" ],
     "identifierGND" : [ "122753119" ],
     "preferredName" : "Schubert, Niels"
@@ -47801,6 +48120,7 @@
   "PersonContributor" : [ {
     "personName" : "Wiehler, Hans-Günther",
     "personBio" : "1923-2013",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)17285704X" ],
     "identifierGND" : [ "17285704X" ],
     "preferredName" : "Wiehler, Hans-Günther"
@@ -47935,24 +48255,35 @@
   "PersonContributor" : [ {
     "personName" : "Piesiewicz, Krzysztof",
     "personBio" : "1945-",
+    "personRole" : [ "Regie" ],
     "personIdentifier" : [ "(DE-588)115498893" ],
     "identifierGND" : [ "115498893" ],
     "preferredName" : "Piesiewicz, Krzysztof"
   }, {
     "personName" : "Zamachowski, Zbigniew",
     "personBio" : "1961-",
+    "personRole" : [ "Schauspieler/in" ],
     "personIdentifier" : [ "(DE-588)121338967" ],
     "identifierGND" : [ "121338967" ],
     "preferredName" : "Zamachowski, Zbigniew"
   }, {
     "personName" : "Delpy, Julie",
     "personBio" : "1969-",
+    "personRole" : [ "Schauspieler/in" ],
     "personIdentifier" : [ "(DE-588)123915287" ],
     "identifierGND" : [ "123915287" ],
     "preferredName" : "Delpy, Julie"
   }, {
+    "personName" : "Piesiewicz, Krzysztof",
+    "personBio" : "1945-",
+    "personRole" : [ "Schauspieler/in" ],
+    "personIdentifier" : [ "(DE-588)115498893" ],
+    "identifierGND" : [ "115498893" ],
+    "preferredName" : "Piesiewicz, Krzysztof"
+  }, {
     "personName" : "Preisner, Zbigniew",
     "personBio" : "1955-",
+    "personRole" : [ "Komposition" ],
     "personIdentifier" : [ "(DE-588)123838959" ],
     "identifierGND" : [ "123838959" ],
     "variantName" : [ "Kowalski, Zbigniew Antoni" ],
@@ -48055,6 +48386,7 @@
   "Person" : [ {
     "personName" : "Munson, Bruce Roy",
     "personBio" : "1940-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)142448125" ],
     "identifierGND" : [ "142448125" ],
     "variantName" : [ "Munson, Bruce R." ],
@@ -48124,6 +48456,7 @@
   "PersonCreator" : [ {
     "personName" : "Young, Donald F.",
     "personBio" : "1928-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)138812268" ],
     "identifierGND" : [ "138812268" ],
     "variantName" : [ "Young, D. F." ],
@@ -48131,6 +48464,7 @@
   }, {
     "personName" : "Okiishi, Theodore Hisao",
     "personBio" : "1939-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)172559529" ],
     "identifierGND" : [ "172559529" ],
     "variantName" : [ "Okiishi, Ted H.", "Okiishi, T. H.", "Okiishi, Theodore H." ],
@@ -48234,6 +48568,7 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Richardson, Phyllis",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)1137862645" ],
     "identifierGND" : [ "1137862645" ],
     "variantName" : [ "Richardson, P." ],
@@ -48383,6 +48718,7 @@
   "PersonContributor" : [ {
     "personName" : "LaChapelle, David",
     "personBio" : "1963-",
+    "personRole" : [ "Drehbuch" ],
     "personIdentifier" : [ "(DE-588)119520400" ],
     "identifierGND" : [ "119520400" ],
     "variantName" : [ "Chapelle, David la", "La Chapelle, David" ],
@@ -48503,12 +48839,14 @@
   "PersonContributor" : [ {
     "personName" : "Dehn, Frank",
     "personBio" : "1970-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)113521952" ],
     "identifierGND" : [ "113521952" ],
     "variantName" : [ "Dehn, F." ],
     "preferredName" : "Dehn, Frank"
   }, {
-    "personName" : "Biegholdt, Hans-Alexander"
+    "personName" : "Biegholdt, Hans-Alexander",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://digitale-objekte.hbz-nrw.de/storage2/2018/07/06/file_174/8064355.pdf",
@@ -48658,6 +48996,7 @@
   "Person" : [ {
     "personName" : "Weigand, Bernhard",
     "personBio" : "1962-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)115406662" ],
     "identifierGND" : [ "115406662" ],
     "variantName" : [ "Weigand, B." ],
@@ -48728,10 +49067,12 @@
     "shelfmark" : "EUP_Frei"
   } ],
   "PersonCreator" : [ {
-    "personName" : "Köhler, Jürgen"
+    "personName" : "Köhler, Jürgen",
+    "personRole" : [ "Autor/in" ]
   }, {
     "personName" : "Wolfersdorf, Jens von",
     "personBio" : "1963-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)142057126" ],
     "identifierGND" : [ "142057126" ],
     "variantName" : [ "Wolfersdorf, Jens" ],
@@ -48843,6 +49184,7 @@
   "PersonContributor" : [ {
     "personName" : "Miyazaki, Hayao",
     "personBio" : "1941-",
+    "personRole" : [ "Regie" ],
     "personIdentifier" : [ "(DE-588)123015529" ],
     "identifierGND" : [ "123015529" ],
     "variantName" : [ "Miyazaki Hayao", "宮崎駿" ],
@@ -48850,7 +49192,7 @@
   }, {
     "personName" : "Hisaishi, Joe",
     "personBio" : "1950-",
-    "personRole" : [ "Musik" ],
+    "personRole" : [ "Sonstige", "Musik" ],
     "personIdentifier" : [ "(DE-588)135208653" ],
     "identifierGND" : [ "135208653" ],
     "variantName" : [ "Hisaishi Jō", "久石譲", "Hisaishi, Jo", "Hisaishi, Joe" ],
@@ -48971,12 +49313,14 @@
   "PersonContributor" : [ {
     "personName" : "Uffelen, Chris van",
     "personBio" : "1966-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)128891343" ],
     "identifierGND" : [ "128891343" ],
     "variantName" : [ "Van Uffelen, Chris", "VanUffelen, Chris", "Uffelen, Christian van" ],
     "preferredName" : "Uffelen, Chris van"
   }, {
-    "personName" : "Steybe, Sophie"
+    "personName" : "Steybe, Sophie",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://deposit.d-nb.de/cgi-bin/dokserv?id=3021283&prov=M&dok_var=1&dok_ext=htm",
@@ -49095,6 +49439,7 @@
   "Person" : [ {
     "personName" : "Bidlo, Oliver",
     "personBio" : "1973-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)124829848" ],
     "identifierGND" : [ "124829848" ],
     "variantName" : [ "Bidlo, Oliver D.", "Bidlo, O. D." ],
@@ -49260,7 +49605,8 @@
     "description" : "Franz. Original-Ausg. als Ausstellungskatalog"
   } ],
   "PersonContributor" : [ {
-    "personName" : "Ho, Hey"
+    "personName" : "Ho, Hey",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://digitale-objekte.hbz-nrw.de/storage/2009/12/25/file_103/3512460.pdf",
@@ -49383,6 +49729,7 @@
   "Person" : [ {
     "personName" : "Esch, Franz-Rudolf",
     "personBio" : "1960-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)121239713" ],
     "identifierGND" : [ "121239713" ],
     "variantName" : [ "Esch, Franz-Rudolph" ],
@@ -49516,6 +49863,7 @@
   "Person" : [ {
     "personName" : "Dornberger, Rolf",
     "personBio" : "1969-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)12116456X" ],
     "identifierGND" : [ "12116456X" ],
     "preferredName" : "Dornberger, Rolf"
@@ -49572,6 +49920,7 @@
   } ],
   "PersonCreator" : [ {
     "personName" : "Telesko, Rainer",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)122580095" ],
     "identifierGND" : [ "122580095" ],
     "preferredName" : "Telesko, Rainer"
@@ -49679,12 +50028,14 @@
   "PersonContributor" : [ {
     "personName" : "Sternthal, Barbara",
     "personBio" : "1961-",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)121882640" ],
     "identifierGND" : [ "121882640" ],
     "preferredName" : "Sternthal, Barbara"
   }, {
     "personName" : "Eisenberger, Harald",
     "personBio" : "1971-",
+    "personRole" : [ "Fotografie" ],
     "personIdentifier" : [ "(DE-588)128496495" ],
     "identifierGND" : [ "128496495" ],
     "preferredName" : "Eisenberger, Harald"
@@ -49843,11 +50194,13 @@
   "PersonContributor" : [ {
     "personName" : "Spieler, Reinhard",
     "personBio" : "1964-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)123238277" ],
     "identifierGND" : [ "123238277" ],
     "preferredName" : "Spieler, Reinhard"
   }, {
-    "personName" : "Dücker, Burckhard"
+    "personName" : "Dücker, Burckhard",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://deposit.d-nb.de/cgi-bin/dokserv?id=3921307&prov=M&dok_var=1&dok_ext=htm",
@@ -50187,6 +50540,7 @@
   "PersonContributor" : [ {
     "personName" : "Linder",
     "personBio" : "1954-",
+    "personRole" : [ "Illustration" ],
     "personIdentifier" : [ "(DE-588)132201658" ],
     "identifierGND" : [ "132201658" ],
     "variantName" : [ "Mulvey, Linda", "Mulvey, Linda, Bürgerlicher Name von Linder", "Linder Sterling", "Sterling, Linder" ],
@@ -50194,11 +50548,13 @@
   }, {
     "personName" : "Görner, Veit",
     "personBio" : "1953-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)113698631" ],
     "identifierGND" : [ "113698631" ],
     "preferredName" : "Görner, Veit"
   }, {
-    "personName" : "Dietz, Heinrich"
+    "personName" : "Dietz, Heinrich",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://deposit.d-nb.de/cgi-bin/dokserv?id=4330019&prov=M&dok_var=1&dok_ext=htm",
@@ -50333,6 +50689,7 @@
   "Person" : [ {
     "personName" : "Zimmermann, Astrid",
     "personBio" : "1967-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1012485625" ],
     "identifierGND" : [ "1012485625" ],
     "preferredName" : "Zimmermann, Astrid"
@@ -50519,11 +50876,13 @@
   },
   "PersonContributor" : [ {
     "personName" : "Vervaeren, Didier",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)1077373848" ],
     "identifierGND" : [ "1077373848" ],
     "preferredName" : "Vervaeren, Didier"
   }, {
     "personName" : "Bernheim, Nele",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1045115398" ],
     "identifierGND" : [ "1045115398" ],
     "preferredName" : "Bernheim, Nele"
@@ -50677,6 +51036,7 @@
   },
   "PersonContributor" : [ {
     "personName" : "Bausch, Thomas",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)1019344989" ],
     "identifierGND" : [ "1019344989" ],
     "preferredName" : "Bausch, Thomas"
@@ -50798,6 +51158,7 @@
   "Person" : [ {
     "personName" : "Berk, Jonathan B.",
     "personBio" : "1962-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)11200881X" ],
     "identifierGND" : [ "11200881X" ],
     "variantName" : [ "Berk, Jonathan" ],
@@ -50919,6 +51280,7 @@
   } ],
   "PersonCreator" : [ {
     "personName" : "DeMarzo, Peter M.",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)112327796" ],
     "identifierGND" : [ "112327796" ],
     "variantName" : [ "De Marzo, Peter M.", "DeMarzo, Peter", "DeMarzo, Peter Michael", "Marzo, Peter M. de" ],
@@ -51005,6 +51367,7 @@
   } ],
   "Person" : [ {
     "personName" : "David, Fred R.",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)170200094" ],
     "identifierGND" : [ "170200094" ],
     "preferredName" : "David, Fred R."
@@ -51066,6 +51429,7 @@
   } ],
   "PersonCreator" : [ {
     "personName" : "David, Forest R.",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1117047784" ],
     "identifierGND" : [ "1117047784" ],
     "preferredName" : "David, Forest R."
@@ -51161,6 +51525,7 @@
   "Person" : [ {
     "personName" : "Mühl, Thomas",
     "personBio" : "1956-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)13152836X" ],
     "identifierGND" : [ "13152836X" ],
     "variantName" : [ "Mühl, T." ],
@@ -51623,6 +51988,7 @@
   "Person" : [ {
     "personName" : "Maurer, Hartmut",
     "personBio" : "1931-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)120252066" ],
     "identifierGND" : [ "120252066" ],
     "variantName" : [ "Hātèmùtè Máoléiěr" ],
@@ -51728,6 +52094,7 @@
   "PersonCreator" : [ {
     "personName" : "Waldhoff, Christian",
     "personBio" : "1965-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)11520427X" ],
     "identifierGND" : [ "11520427X" ],
     "preferredName" : "Waldhoff, Christian"
@@ -51901,6 +52268,7 @@
   "PersonCreator" : [ {
     "personName" : "Sinning, Heidi",
     "personBio" : "1965-",
+    "personRole" : [ "Autor/in", "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)114366055" ],
     "identifierGND" : [ "114366055" ],
     "variantName" : [ "Sinning, H." ],
@@ -52044,6 +52412,7 @@
   "Person" : [ {
     "personName" : "Ahrendt, Martina",
     "personBio" : "1967-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)113807163" ],
     "identifierGND" : [ "113807163" ],
     "preferredName" : "Ahrendt, Martina"
@@ -52087,7 +52456,7 @@
   "PersonContributor" : [ {
     "personName" : "Schaub, Günter",
     "personBio" : "1933-2013",
-    "personRole" : [ "Begründer des Werks" ],
+    "personRole" : [ "Sonstige", "Begründer des Werks" ],
     "personIdentifier" : [ "(DE-588)119556901" ],
     "identifierGND" : [ "119556901" ],
     "variantName" : [ "Schaub, Günther" ],
@@ -52212,7 +52581,8 @@
     "variantISBN" : [ "978-0-12-812319-5", "0128123192", "0-12-812319-2" ]
   } ],
   "Person" : [ {
-    "personName" : "Kim, Sang-Hoon"
+    "personName" : "Kim, Sang-Hoon",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Electric motor control"
@@ -52370,6 +52740,7 @@
   },
   "PersonContributor" : [ {
     "personName" : "Brown, Ian G.",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)12804893X" ],
     "identifierGND" : [ "12804893X" ],
     "variantName" : [ "Brown, Ian", "Brown, I. G.", "Brown, I." ],
@@ -52512,6 +52883,7 @@
   "PersonContributor" : [ {
     "personName" : "Trill, Roland",
     "personBio" : "1952-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)122502272" ],
     "identifierGND" : [ "122502272" ],
     "preferredName" : "Trill, Roland"
@@ -52686,6 +53058,7 @@
   } ],
   "Person" : [ {
     "personName" : "Kunow, Annette",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)120186586" ],
     "identifierGND" : [ "120186586" ],
     "variantName" : [ "Kerber-Kunow, Annette", "Kunow, Annette Kerber-" ],
@@ -52828,6 +53201,7 @@
   } ],
   "Person" : [ {
     "personName" : "Kunow, Annette",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)120186586" ],
     "identifierGND" : [ "120186586" ],
     "variantName" : [ "Kerber-Kunow, Annette", "Kunow, Annette Kerber-" ],
@@ -52998,17 +53372,20 @@
   "PersonContributor" : [ {
     "personName" : "Hölz, Christoph",
     "personBio" : "1962-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)118134027" ],
     "identifierGND" : [ "118134027" ],
     "preferredName" : "Hölz, Christoph"
   }, {
     "personName" : "Tragbar, Klaus",
     "personBio" : "1959-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)122931386" ],
     "identifierGND" : [ "122931386" ],
     "preferredName" : "Tragbar, Klaus"
   }, {
-    "personName" : "Weiss, Veronika"
+    "personName" : "Weiss, Veronika",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "SeriesAddedEntryUniformTitle" : [ {
     "title" : "Schriftenreihe des Archivs für Baukunst",
@@ -53163,9 +53540,11 @@
     "description" : "Text in deutscher, englischer und französischer Sprache"
   } ],
   "PersonContributor" : [ {
-    "personName" : "Leeb, Franziska"
+    "personName" : "Leeb, Franziska",
+    "personRole" : [ "Herausgeber/in" ]
   }, {
     "personName" : "Lenz, Gabriele",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1057027545" ],
     "identifierGND" : [ "1057027545" ],
     "variantName" : [ "Lenz, Gaby", "Lenz, Gabi" ],
@@ -53173,6 +53552,7 @@
   }, {
     "personName" : "Gantenbein, Köbi",
     "personBio" : "1956-",
+    "personRole" : [ "Verfasser/in von ergänzendem Text" ],
     "personIdentifier" : [ "(DE-588)114248133" ],
     "identifierGND" : [ "114248133" ],
     "variantName" : [ "Gantenbein, Jakob" ],
@@ -53180,6 +53560,7 @@
   }, {
     "personName" : "Klomfar, Bruno",
     "personBio" : "1961-",
+    "personRole" : [ "Fotografie" ],
     "personIdentifier" : [ "(DE-588)1082520675" ],
     "identifierGND" : [ "1082520675" ],
     "preferredName" : "Klomfar, Bruno"
@@ -53407,6 +53788,7 @@
   } ],
   "Person" : [ {
     "personName" : "Tschanz, Nathaly",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1074549457" ],
     "identifierGND" : [ "1074549457" ],
     "preferredName" : "Tschanz, Nathaly"
@@ -53489,6 +53871,7 @@
   "TypeMedia" : "Elektronische Ressource",
   "PersonCreator" : [ {
     "personName" : "Schart, Dirk",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1074549287" ],
     "identifierGND" : [ "1074549287" ],
     "preferredName" : "Schart, Dirk"
@@ -53665,6 +54048,7 @@
   "Person" : [ {
     "personName" : "Telea, Alexandru C.",
     "personBio" : "1972-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)173996094" ],
     "identifierGND" : [ "173996094" ],
     "variantName" : [ "Telea, Alexandru" ],
@@ -53829,6 +54213,7 @@
   "Person" : [ {
     "personName" : "Singler, Axel",
     "personBio" : "1967-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)120337053" ],
     "identifierGND" : [ "120337053" ],
     "preferredName" : "Singler, Axel"
@@ -53960,7 +54345,8 @@
     "variantISBN" : [ "978-1-351-65150-9", "1351651501", "1-351-65150-1" ]
   } ],
   "Person" : [ {
-    "personName" : "Harris, Michael D. S."
+    "personName" : "Harris, Michael D. S.",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "The business value of software"
@@ -54116,6 +54502,7 @@
   },
   "PersonContributor" : [ {
     "personName" : "Harrer, Manfred",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1223131653" ],
     "identifierGND" : [ "1223131653" ],
     "variantName" : [ "Harrer, M." ],
@@ -54123,6 +54510,7 @@
   }, {
     "personName" : "Pfeffer, Peter",
     "personBio" : "1969-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1012904725" ],
     "identifierGND" : [ "1012904725" ],
     "variantName" : [ "Pfeffer, Peter E.", "Pfeffer, Peter Ernst" ],
@@ -54247,6 +54635,7 @@
   "PersonContributor" : [ {
     "personName" : "Warhol, Andy",
     "personBio" : "1928-1987",
+    "personRole" : [ "Künstler/in" ],
     "personIdentifier" : [ "(DE-588)118629220" ],
     "identifierGND" : [ "118629220" ],
     "variantName" : [ "Varchola, Andrej", "Warhol, Andrew", "Warhola, Andrew" ],
@@ -54254,6 +54643,7 @@
   }, {
     "personName" : "Frankfurt, Suzie",
     "personBio" : "1931-2005",
+    "personRole" : [ "Künstler/in" ],
     "personIdentifier" : [ "(DE-588)1147595275" ],
     "identifierGND" : [ "1147595275" ],
     "variantName" : [ "Frankfurt, Suzanne", "Allen, Suzanne" ],
@@ -54367,7 +54757,8 @@
     "abstract" : [ "The analysis of energy systems is of paramount importance in modern societies, since it is fundamental to guarantee a sustainable economic development. It combines technical and economic research with a specific focus on quantitative modelling, in order to optimize the modalities of energy demand and supply globally. The book covers major advanced topics related to the analysis of energy by considering different aspects, namely management, planning and policies. The most recent trends, such as smart grids, transition from fossil fuels to renewables based energy systems and distributed generation, are also discussed in this book. Intended to be a collection of various contributions from experts all around the world, it includes latest research results, innovations and methodologies about the analysis of energy systems. The book also focuses to contribute to the current debate related to the evolution of energy systems, by discussing in an open way the pro’s and con’s without any pre-constitute point of view. Title is aimed to be a reference for the academic community, students and professionals with a wider interdisciplinary background. Key Features: Presents integration of renewable sources with conventional energy systems. Topic is addressed from a multidisciplinary point of view, i.e. economy, technical, modelling, planning. Investigates management and planning aspects of future energy supplies. Multidimensional nature of energy systems is highlighted and discussed. Contributes towards implementing policy measures to reduce primary energy consumptions and carbon footprint." ]
   },
   "PersonContributor" : [ {
-    "personName" : "Bianco, Vincenzo"
+    "personName" : "Bianco, Vincenzo",
+    "personRole" : [ "Sonstige" ]
   } ],
   "AdditionalPhysicalFormEntry" : [ {
     "relationshipInformation" : [ "Erscheint auch als" ],
@@ -54481,6 +54872,7 @@
   } ],
   "Person" : [ {
     "personName" : "Ribbens, William B.",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1148478582" ],
     "identifierGND" : [ "1148478582" ],
     "preferredName" : "Ribbens, William B."
@@ -54627,6 +55019,7 @@
   "Person" : [ {
     "personName" : "Häusel, Hans-Georg",
     "personBio" : "1951-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)124150764" ],
     "identifierGND" : [ "124150764" ],
     "variantName" : [ "Häusel, Hans Georg" ],
@@ -55006,6 +55399,7 @@
   "Person" : [ {
     "personName" : "Huth, Michael",
     "personBio" : "1968-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1012156834" ],
     "identifierGND" : [ "1012156834" ],
     "preferredName" : "Huth, Michael"
@@ -55180,12 +55574,14 @@
   "PersonCreator" : [ {
     "personName" : "Westphal, Tim",
     "personBio" : "1974-",
+    "personRole" : [ "Herausgeber/in", "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1114924725" ],
     "identifierGND" : [ "1114924725" ],
     "preferredName" : "Westphal, Tim"
   }, {
     "personName" : "Herrmann, Eva",
     "personBio" : "1975-",
+    "personRole" : [ "Herausgeber/in", "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1052698581" ],
     "identifierGND" : [ "1052698581" ],
     "variantName" : [ "Herrmann, Eva-Maria", "Herrmann, Eva Maria" ],
@@ -55382,6 +55778,7 @@
   "PersonContributor" : [ {
     "personName" : "Badura, Bernhard",
     "personBio" : "1943-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)115674373" ],
     "identifierGND" : [ "115674373" ],
     "variantName" : [ "Badura, B." ],
@@ -55389,6 +55786,7 @@
   }, {
     "personName" : "Ducki, Antje",
     "personBio" : "1960-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)120446693" ],
     "identifierGND" : [ "120446693" ],
     "variantName" : [ "Kornreich, Antje Ducki-", "Ducki-Kornreich, Antje", "Kornreich, Antje D.-" ],
@@ -55396,6 +55794,7 @@
   }, {
     "personName" : "Schröder, Helmut",
     "personBio" : "1965-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1017478368" ],
     "identifierGND" : [ "1017478368" ],
     "variantName" : [ "Schröder, H." ],
@@ -55403,6 +55802,7 @@
   }, {
     "personName" : "Klose, Joachim",
     "personBio" : "1958-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)170521273" ],
     "identifierGND" : [ "170521273" ],
     "variantName" : [ "Klose, J." ],
@@ -55410,6 +55810,7 @@
   }, {
     "personName" : "Meyer, Markus",
     "personBio" : "1970-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1014641608" ],
     "identifierGND" : [ "1014641608" ],
     "preferredName" : "Meyer, Markus"
@@ -55657,6 +56058,7 @@
   } ],
   "Person" : [ {
     "personName" : "Meissner, Gabi",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1043359524" ],
     "identifierGND" : [ "1043359524" ],
     "preferredName" : "Meissner, Gabi"
@@ -55744,6 +56146,7 @@
   "TypeMedia" : "Elektronische Ressource",
   "PersonCreator" : [ {
     "personName" : "Neeser, Alexander",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)12442029X" ],
     "identifierGND" : [ "12442029X" ],
     "variantName" : [ "Neeser, Alexander Christian Felix" ],
@@ -55824,6 +56227,7 @@
   "Person" : [ {
     "personName" : "Fox, John",
     "personBio" : "1947-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)132520346" ],
     "identifierGND" : [ "132520346" ],
     "preferredName" : "Fox, John"
@@ -55949,6 +56353,7 @@
   "Person" : [ {
     "personName" : "Rattat, Christian",
     "personBio" : "1968-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1070767409" ],
     "identifierGND" : [ "1070767409" ],
     "preferredName" : "Rattat, Christian"
@@ -56235,14 +56640,17 @@
   },
   "PersonContributor" : [ {
     "personName" : "Guo, Ying",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)1115656384" ],
     "identifierGND" : [ "1115656384" ],
     "variantName" : [ "Guo Ying", "Guo, Ying (Joy)", "Ying, Guo", "Guo, Y." ],
     "preferredName" : "Guo, Ying"
   }, {
-    "personName" : "Rammal, Hussain G."
+    "personName" : "Rammal, Hussain G.",
+    "personRole" : [ "Herausgeber/in" ]
   }, {
-    "personName" : "Dowling, Peter J."
+    "personName" : "Dowling, Peter J.",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "AdditionalPhysicalFormEntry" : [ {
     "relationshipInformation" : [ "Erscheint auch als" ],
@@ -56363,6 +56771,7 @@
   } ],
   "Person" : [ {
     "personName" : "Scheinberg, Ronald",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1151358819" ],
     "identifierGND" : [ "1151358819" ],
     "preferredName" : "Scheinberg, Ronald"
@@ -56499,7 +56908,8 @@
     "variantISBN" : [ "978-3-7782-1540-1", "377821540X", "3-7782-1540-X" ]
   } ],
   "Person" : [ {
-    "personName" : "Anders, Monika"
+    "personName" : "Anders, Monika",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Formeltrainer Augenoptik"
@@ -56608,6 +57018,7 @@
   "Person" : [ {
     "personName" : "Bokern, Anneke",
     "personBio" : "1971-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)121587339" ],
     "identifierGND" : [ "121587339" ],
     "variantName" : [ "Bokern, Anne" ],
@@ -56636,6 +57047,7 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Vlok, Paul",
+    "personRole" : [ "Sonstige" ],
     "personIdentifier" : [ "(DE-588)1133370357" ],
     "identifierGND" : [ "1133370357" ],
     "preferredName" : "Vlok, Paul"
@@ -56739,6 +57151,7 @@
   "Person" : [ {
     "personName" : "Kárász, Lorenzo",
     "personBio" : "1981-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1133384269" ],
     "identifierGND" : [ "1133384269" ],
     "preferredName" : "Kárász, Lorenzo"
@@ -56922,6 +57335,7 @@
   "PersonContributor" : [ {
     "personName" : "Villeneuve, Denis",
     "personBio" : "1967-",
+    "personRole" : [ "Filmregie" ],
     "personIdentifier" : [ "(DE-588)136808018" ],
     "identifierGND" : [ "136808018" ],
     "variantName" : [ "Villeneuve, D." ],
@@ -56929,18 +57343,21 @@
   }, {
     "personName" : "Fancher, Hampton",
     "personBio" : "1938-",
+    "personRole" : [ "Drehbuch" ],
     "personIdentifier" : [ "(DE-588)132753480" ],
     "identifierGND" : [ "132753480" ],
     "preferredName" : "Fancher, Hampton"
   }, {
     "personName" : "Green, Michael",
     "personBio" : "ca. 20. Jh",
+    "personRole" : [ "Drehbuch" ],
     "personIdentifier" : [ "(DE-588)1038389704" ],
     "identifierGND" : [ "1038389704" ],
     "preferredName" : "Green, Michael"
   }, {
     "personName" : "Zimmer, Hans",
     "personBio" : "1957-",
+    "personRole" : [ "Komposition" ],
     "personIdentifier" : [ "(DE-588)124119026" ],
     "identifierGND" : [ "124119026" ],
     "variantName" : [ "Ludus Tonalis", "Tonalis, Ludus", "Zimmer, Hans Florian" ],
@@ -56948,6 +57365,7 @@
   }, {
     "personName" : "Wallfisch, Benjamin",
     "personBio" : "1979-",
+    "personRole" : [ "Komposition" ],
     "personIdentifier" : [ "(DE-588)128474424" ],
     "identifierGND" : [ "128474424" ],
     "variantName" : [ "Wallfisch, Ben" ],
@@ -56955,6 +57373,7 @@
   }, {
     "personName" : "Gosling, Ryan",
     "personBio" : "1980-",
+    "personRole" : [ "Schauspieler/in" ],
     "personIdentifier" : [ "(DE-588)143427903" ],
     "identifierGND" : [ "143427903" ],
     "variantName" : [ "Gossling, Ryan" ],
@@ -56962,6 +57381,7 @@
   }, {
     "personName" : "Ford, Harrison",
     "personBio" : "1942-",
+    "personRole" : [ "Schauspieler/in" ],
     "personIdentifier" : [ "(DE-588)118881299" ],
     "identifierGND" : [ "118881299" ],
     "variantName" : [ "ფორდი, ჰარისონ", "Ford, Charrison", "Харрисон Форд", "Φορντ, Χάρισον", "Форд, Харрисон" ],
@@ -57066,6 +57486,7 @@
   } ],
   "Person" : [ {
     "personName" : "Scholz, Reinhard",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)116553049X" ],
     "identifierGND" : [ "116553049X" ],
     "preferredName" : "Scholz, Reinhard"
@@ -57317,6 +57738,7 @@
   } ],
   "Person" : [ {
     "personName" : "Klös, Alexander",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1167535162" ],
     "identifierGND" : [ "1167535162" ],
     "preferredName" : "Klös, Alexander"
@@ -57492,6 +57914,7 @@
   } ],
   "Person" : [ {
     "personName" : "Roppel, Carsten",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1164450883" ],
     "identifierGND" : [ "1164450883" ],
     "preferredName" : "Roppel, Carsten"
@@ -57724,7 +58147,8 @@
     "extent" : "272 Seiten ; 24 cm x 30 cm"
   },
   "PersonContributor" : [ {
-    "personName" : "Sahl, Reinhold"
+    "personName" : "Sahl, Reinhold",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://digitale-objekte.hbz-nrw.de/storage2/2018/12/13/file_7/8218718.pdf",
@@ -57765,10 +58189,12 @@
     "shelfmark" : "BAY_Frei"
   } ],
   "PersonCreator" : [ {
-    "personName" : "Leggatt-Hofer, Renate"
+    "personName" : "Leggatt-Hofer, Renate",
+    "personRole" : [ "Herausgeber/in", "Autor/in" ]
   }, {
     "personName" : "Buchinger, Günther",
     "personBio" : "1968-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)120332205" ],
     "identifierGND" : [ "120332205" ],
     "preferredName" : "Buchinger, Günther"
@@ -57864,6 +58290,7 @@
   } ],
   "Person" : [ {
     "personName" : "Xie, Yihui",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1042167494" ],
     "identifierGND" : [ "1042167494" ],
     "variantName" : [ "Xie, Y." ],
@@ -58010,6 +58437,7 @@
   "Person" : [ {
     "personName" : "Chambers, John M.",
     "personBio" : "1941-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)140957715" ],
     "identifierGND" : [ "140957715" ],
     "variantName" : [ "Chambers, John" ],
@@ -58172,6 +58600,7 @@
   "Person" : [ {
     "personName" : "Zhang, Dan",
     "personBio" : "1983-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1108296661" ],
     "identifierGND" : [ "1108296661" ],
     "variantName" : [ "Dan, Zhang", "Zhang Dan" ],
@@ -58338,6 +58767,7 @@
   } ],
   "Person" : [ {
     "personName" : "Fischer, Heinz-Martin",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1186393785" ],
     "identifierGND" : [ "1186393785" ],
     "variantName" : [ "Fischer, Heinz Martin", "Fischer, Heinz M." ],
@@ -58422,6 +58852,7 @@
   } ],
   "PersonCreator" : [ {
     "personName" : "Schneider, Martin",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1186395117" ],
     "identifierGND" : [ "1186395117" ],
     "preferredName" : "Schneider, Martin"
@@ -58501,7 +58932,8 @@
     "variantISBN" : [ "978-0-19-873286-0", "0198732864", "0-19-873286-4" ]
   } ],
   "Person" : [ {
-    "personName" : "G. Smith, Peter"
+    "personName" : "G. Smith, Peter",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Randomization, blinding, and coding"
@@ -58553,9 +58985,11 @@
   } ],
   "TypeMedia" : "Elektronische Ressource",
   "PersonCreator" : [ {
-    "personName" : "H. Morrow, Richard"
+    "personName" : "H. Morrow, Richard",
+    "personRole" : [ "Autor/in" ]
   }, {
-    "personName" : "A. Ross, David"
+    "personName" : "A. Ross, David",
+    "personRole" : [ "Autor/in" ]
   } ],
   "RSWK" : [ {
     "subjectTopicName" : [ "Public aspects of medicine" ],
@@ -58631,6 +59065,7 @@
   "Person" : [ {
     "personName" : "Mock, Sebastian",
     "personBio" : "1976-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)133789667" ],
     "identifierGND" : [ "133789667" ],
     "variantName" : [ "Mock, S." ],
@@ -58797,7 +59232,8 @@
     "variantISBN" : [ "978-0-692-65283-1", "0692652833", "0-692-65283-3" ]
   } ],
   "Person" : [ {
-    "personName" : "Behar, Katherine"
+    "personName" : "Behar, Katherine",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Bigger Than You: Big Data and Obesity"
@@ -58898,7 +59334,8 @@
     "variantISBN" : [ "978-3-7315-0743-7", "3731507439", "3-7315-0743-9" ]
   } ],
   "Person" : [ {
-    "personName" : "Stein, Denis"
+    "personName" : "Stein, Denis",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Mobile laser scanning based determination of railway network topology and branching direction on turnouts"
@@ -58999,7 +59436,8 @@
     "variantISBN" : [ "978-3-7315-0009-4", "3731500094", "3-7315-0009-4" ]
   } ],
   "Person" : [ {
-    "personName" : "Mennerich, Christian"
+    "personName" : "Mennerich, Christian",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Phase-field modeling of multi-domain evolution in ferromagnetic shape memory alloys and of polycrystalline thin film growth"
@@ -59115,6 +59553,7 @@
   } ],
   "Person" : [ {
     "personName" : "Bobisse, Riccardo",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1196881294" ],
     "identifierGND" : [ "1196881294" ],
     "preferredName" : "Bobisse, Riccardo"
@@ -59177,6 +59616,7 @@
   } ],
   "PersonCreator" : [ {
     "personName" : "Pavia, Andrea",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)1196881626" ],
     "identifierGND" : [ "1196881626" ],
     "preferredName" : "Pavia, Andrea"
@@ -59348,7 +59788,8 @@
     "preferredISSN" : "10185941"
   } ],
   "Person" : [ {
-    "personName" : "Chelliah, Raja J."
+    "personName" : "Chelliah, Raja J.",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "The Growth of Indian Public Debt"
@@ -59376,7 +59817,8 @@
     "volume" : [ "Working Paper No. 91/72" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Chelliah, Raja J."
+    "personName" : "Chelliah, Raja J.",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://elibrary.imf.org/view/IMF001/07032-9781451959024/07032-9781451959024/07032-9781451959024.xml",
@@ -59455,7 +59897,8 @@
     "preferredISSN" : "10185941"
   } ],
   "Person" : [ {
-    "personName" : "Flanagan, Robert J."
+    "personName" : "Flanagan, Robert J.",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Wage Structure in the Transition of the Czech Economy"
@@ -59483,7 +59926,8 @@
     "volume" : [ "Working Paper No. 95/36" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Flanagan, Robert J."
+    "personName" : "Flanagan, Robert J.",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://elibrary.imf.org/view/IMF001/07855-9781451977998/07855-9781451977998/07855-9781451977998.xml",
@@ -59775,7 +60219,8 @@
     "preferredISSN" : "10185941"
   } ],
   "Person" : [ {
-    "personName" : "Chauvet, Marcelle"
+    "personName" : "Chauvet, Marcelle",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "The Future of Oil"
@@ -59803,19 +60248,26 @@
     "volume" : [ "Working Paper No. 12/109" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Benes, Jaromir"
+    "personName" : "Benes, Jaromir",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Chauvet, Marcelle"
+    "personName" : "Chauvet, Marcelle",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Kamenik, Ondra"
+    "personName" : "Kamenik, Ondra",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Kumhof, Michael"
+    "personName" : "Kumhof, Michael",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Laxton, Douglas"
+    "personName" : "Laxton, Douglas",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Mursula, Susanna"
+    "personName" : "Mursula, Susanna",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Selody, Jack G."
+    "personName" : "Selody, Jack G.",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://elibrary.imf.org/view/IMF001/12779-9781475503302/12779-9781475503302/12779-9781475503302.xml",
@@ -59897,7 +60349,8 @@
     "preferredISSN" : "10185941"
   } ],
   "Person" : [ {
-    "personName" : "Tolo, Willa Boots J."
+    "personName" : "Tolo, Willa Boots J.",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "The Determinants of Economic Growth in the Philippines"
@@ -59925,7 +60378,8 @@
     "volume" : [ "Working Paper No. 11/288" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Tolo, Willa Boots J."
+    "personName" : "Tolo, Willa Boots J.",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://elibrary.imf.org/view/IMF001/12348-9781463927226/12348-9781463927226/12348-9781463927226.xml",
@@ -60212,7 +60666,8 @@
     "preferredISSN" : "10185941"
   } ],
   "Person" : [ {
-    "personName" : "Das, Udaibir S."
+    "personName" : "Das, Udaibir S.",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Crisis Prevention and Crisis Management"
@@ -60240,9 +60695,11 @@
     "volume" : [ "Working Paper No. 02/163" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Das, Udaibir S."
+    "personName" : "Das, Udaibir S.",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Quintyn, Marc"
+    "personName" : "Quintyn, Marc",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://elibrary.imf.org/view/IMF001/01446-9781451857948/01446-9781451857948/01446-9781451857948.xml",
@@ -60321,7 +60778,8 @@
     "preferredISSN" : "10185941"
   } ],
   "Person" : [ {
-    "personName" : "Palomba, Geremia"
+    "personName" : "Palomba, Geremia",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Firm Investment, Corporate Finance, and Taxation"
@@ -60349,7 +60807,8 @@
     "volume" : [ "Working Paper No. 02/237" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Palomba, Geremia"
+    "personName" : "Palomba, Geremia",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://elibrary.imf.org/view/IMF001/02452-9781451875720/02452-9781451875720/02452-9781451875720.xml",
@@ -60431,7 +60890,8 @@
     "preferredISSN" : "10185941"
   } ],
   "Person" : [ {
-    "personName" : "Jones, Matthew T."
+    "personName" : "Jones, Matthew T.",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Estimating Markov Transition Matrices Using Proportions Data"
@@ -60459,7 +60919,8 @@
     "volume" : [ "Working Paper No. 05/219" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Jones, Matthew T."
+    "personName" : "Jones, Matthew T.",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://elibrary.imf.org/view/IMF001/02089-9781451862386/02089-9781451862386/02089-9781451862386.xml",
@@ -60541,7 +61002,8 @@
     "preferredISSN" : "10185941"
   } ],
   "Person" : [ {
-    "personName" : "Kamar, Bassem"
+    "personName" : "Kamar, Bassem",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Establishing Conversion Values for New Currency Unions"
@@ -60569,11 +61031,14 @@
     "volume" : [ "Working Paper No. 09/184" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Carlotti, Jean-Etienne"
+    "personName" : "Carlotti, Jean-Etienne",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Kamar, Bassem"
+    "personName" : "Kamar, Bassem",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Krueger, Russell C."
+    "personName" : "Krueger, Russell C.",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://elibrary.imf.org/view/IMF001/10400-9781451873313/10400-9781451873313/10400-9781451873313.xml",
@@ -60655,7 +61120,8 @@
     "preferredISSN" : "19347456"
   } ],
   "Person" : [ {
-    "personName" : "Woo, D."
+    "personName" : "Woo, D.",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Reconsidering External Financing of Domestic Budget Deficits"
@@ -60683,9 +61149,11 @@
     "volume" : [ "Policy Discussion Paper No. 00/8" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Gray, Simon"
+    "personName" : "Gray, Simon",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Woo, D."
+    "personName" : "Woo, D.",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://elibrary.imf.org/view/IMF003/05589-9781451970951/05589-9781451970951/05589-9781451970951.xml",
@@ -60764,7 +61232,8 @@
     "preferredISSN" : "10185941"
   } ],
   "Person" : [ {
-    "personName" : "Peiris, Shanaka J."
+    "personName" : "Peiris, Shanaka J.",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Sources of Inflation in Sub-Saharan Africa"
@@ -60792,9 +61261,11 @@
     "volume" : [ "Working Paper No. 07/32" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Barnichon, Régis"
+    "personName" : "Barnichon, Régis",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Peiris, Shanaka J."
+    "personName" : "Peiris, Shanaka J.",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://elibrary.imf.org/view/IMF001/06335-9781451865967/06335-9781451865967/06335-9781451865967.xml",
@@ -60873,7 +61344,8 @@
     "preferredISSN" : "10185941"
   } ],
   "Person" : [ {
-    "personName" : "Saxena, Sweta Chaman"
+    "personName" : "Saxena, Sweta Chaman",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "What Caused the 1991 Currency Crisis in India?"
@@ -60901,9 +61373,11 @@
     "volume" : [ "Working Paper No. 00/157" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Cerra, Valerie"
+    "personName" : "Cerra, Valerie",
+    "personRole" : [ "Sonstige" ]
   }, {
-    "personName" : "Saxena, Sweta Chaman"
+    "personName" : "Saxena, Sweta Chaman",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://elibrary.imf.org/view/IMF001/07875-9781451857481/07875-9781451857481/07875-9781451857481.xml",
@@ -61090,7 +61564,8 @@
     "preferredISSN" : "10208402"
   } ],
   "Person" : [ {
-    "personName" : "Stone, Mark R."
+    "personName" : "Stone, Mark R.",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Corporate Sector Restructuring"
@@ -61118,7 +61593,8 @@
     "volume" : [ "Economic Issues No. 31" ]
   } ],
   "PersonContributor" : [ {
-    "personName" : "Stone, Mark R."
+    "personName" : "Stone, Mark R.",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "http://elibrary.imf.org/view/IMF051/01387-9781589062016/01387-9781589062016/01387-9781589062016.xml",
@@ -61740,6 +62216,7 @@
   "Person" : [ {
     "personName" : "Kurz, Melanie",
     "personBio" : "1976-",
+    "personRole" : [ "Autor/in" ],
     "personIdentifier" : [ "(DE-588)136018432" ],
     "identifierGND" : [ "136018432" ],
     "preferredName" : "Kurz, Melanie"
@@ -62013,7 +62490,7 @@
   } ],
   "Person" : [ {
     "personName" : "Jurzik, Heike",
-    "personRole" : [ "Verfasser" ]
+    "personRole" : [ "Autor/in", "Verfasser" ]
   } ],
   "CorporateBody" : [ {
     "corporateBodyName" : "Galileo Press",
@@ -62166,7 +62643,8 @@
     "variantISBN" : [ "978-3-7841-1139-1", "3-7841-1139-4" ]
   } ],
   "Person" : [ {
-    "personName" : "Weiss, Gabriele"
+    "personName" : "Weiss, Gabriele",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Wenn die roten Katzen tanzen .."
@@ -62279,7 +62757,8 @@
     "variantISBN" : [ "978-3-7841-1139-1", "3-7841-1139-4" ]
   } ],
   "Person" : [ {
-    "personName" : "Weiss, Gabriele"
+    "personName" : "Weiss, Gabriele",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Wenn die roten Katzen tanzen .."
@@ -62392,7 +62871,8 @@
     "variantISBN" : [ "978-3-7841-1139-1", "3-7841-1139-4" ]
   } ],
   "Person" : [ {
-    "personName" : "Weiss, Gabriele"
+    "personName" : "Weiss, Gabriele",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Wenn die roten Katzen tanzen .."
@@ -62501,7 +62981,8 @@
     "variantISBN" : [ "978-3-7841-1139-1", "3-7841-1139-4" ]
   } ],
   "Person" : [ {
-    "personName" : "Weiss, Gabriele"
+    "personName" : "Weiss, Gabriele",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Wenn die roten Katzen tanzen .."
@@ -62621,7 +63102,8 @@
     "variantISBN" : [ "978-3-7841-1139-1", "3-7841-1139-4" ]
   } ],
   "Person" : [ {
-    "personName" : "Weiss, Gabriele"
+    "personName" : "Weiss, Gabriele",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Wenn die roten Katzen tanzen .."
@@ -63080,7 +63562,8 @@
     "standardNumber" : "10.1002/9781119788829"
   } ],
   "Person" : [ {
-    "personName" : "Ur Rehman"
+    "personName" : "Ur Rehman",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Interference Mitigation in Device-to-Device Communications"
@@ -63178,7 +63661,8 @@
     "standardNumber" : "10.1515/9780691235950"
   } ],
   "Person" : [ {
-    "personName" : "Packer, Craig"
+    "personName" : "Packer, Craig",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "The Lion"
@@ -64122,7 +64606,11 @@
     "description" : "English"
   } ],
   "PersonContributor" : [ {
-    "personName" : "Stychin, Carl F"
+    "personName" : "Stychin, Carl F",
+    "personRole" : [ "Herausgeber/in" ]
+  }, {
+    "personName" : "Stychin, Carl F",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "https://library.oapen.org/bitstream/20.500.12657/76493/1/external_content.pdf",
@@ -64347,7 +64835,8 @@
     "standardNumber" : "10.5446/70046"
   } ],
   "Person" : [ {
-    "personName" : "Christine Buchholz"
+    "personName" : "Christine Buchholz",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "DAViD: 3 Grundlagen der Datenanalyse - 2 Grundbegriffe"
@@ -64471,7 +64960,8 @@
     "standardNumber" : "10.21269/13263"
   } ],
   "Person" : [ {
-    "personName" : "Maas, Sophie"
+    "personName" : "Maas, Sophie",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Zürich : Entwicklung eines neuen visuellen Erscheinungsbildes für die Stadt Zürich"
@@ -64510,12 +65000,14 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Weißmantel, Ralf",
+    "personRole" : [ "Akademische Betreuung" ],
     "personIdentifier" : [ "(DE-588)1033682659" ],
     "identifierGND" : [ "1033682659" ],
     "variantName" : [ "Weissmantel, Ralf" ],
     "preferredName" : "Weißmantel, Ralf"
   }, {
     "personName" : "Fabo, Sabine",
+    "personRole" : [ "Akademische Betreuung" ],
     "personIdentifier" : [ "(DE-588)1030243743" ],
     "identifierGND" : [ "1030243743" ],
     "preferredName" : "Fabo, Sabine"
@@ -64630,7 +65122,8 @@
   } ],
   "PersonContributor" : [ {
     "personName" : "Atarashi, Masayuki",
-    "personBio" : "1945-"
+    "personBio" : "1945-",
+    "personRole" : [ "Herausgeber/in" ]
   } ],
   "SubjectGHBLocal" : [ {
     "source" : "DE-A96",

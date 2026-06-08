@@ -113,12 +113,14 @@
   "PersonContributor" : [ {
     "personName" : "Lange, Gisela",
     "personBio" : "1944-",
+    "personRole" : [ "Herausgeber/in" ],
     "personIdentifier" : [ "(DE-588)137655029" ],
     "identifierGND" : [ "137655029" ],
     "preferredName" : "Lange, Gisela"
   }, {
     "personName" : "Henning, Friedrich-Wilhelm",
     "personBio" : "1931-2008",
+    "personRole" : [ "Gefeierte Person" ],
     "personIdentifier" : [ "(DE-588)119333287" ],
     "identifierGND" : [ "119333287" ],
     "variantName" : [ "Henning, Friedrich Wilhelm", "Henning, Friedrich W.", "Henning, F.-W." ],
@@ -233,7 +235,11 @@
     "description" : "English"
   } ],
   "PersonContributor" : [ {
-    "personName" : "Stychin, Carl F"
+    "personName" : "Stychin, Carl F",
+    "personRole" : [ "Herausgeber/in" ]
+  }, {
+    "personName" : "Stychin, Carl F",
+    "personRole" : [ "Sonstige" ]
   } ],
   "OnlineAccess" : [ {
     "uri" : "https://library.oapen.org/bitstream/20.500.12657/76493/1/external_content.pdf",
@@ -361,7 +367,8 @@
     "variantISBN" : [ "978-3-86150-336-1", "3-86150-336-0" ]
   } ],
   "Person" : [ {
-    "personName" : "Arijon, Daniel"
+    "personName" : "Arijon, Daniel",
+    "personRole" : [ "Autor/in" ]
   } ],
   "TitleStatement" : {
     "titleMain" : "Grammatik der Filmsprache"
