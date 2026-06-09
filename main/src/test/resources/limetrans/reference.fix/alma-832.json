@@ -247,22 +247,22 @@
     "publicnote" : "DOAB: description of the publication"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_THK/openurl?u.ignore_date_coverage=true&portfolio_pid=53853482000006441&Force_direct=true",
     "isInternalLinkFor" : "DE-832"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_THK/openurl?u.ignore_date_coverage=true&portfolio_pid=53853482930006441&Force_direct=true",
     "isInternalLinkFor" : "DE-832"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_THK/openurl?u.ignore_date_coverage=true&portfolio_pid=53853482310006441&Force_direct=true",
     "isInternalLinkFor" : "DE-832"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_THK/openurl?u.ignore_date_coverage=true&portfolio_pid=53853482230006441&Force_direct=true",
     "isInternalLinkFor" : "DE-832"
   } ],

@@ -115,11 +115,11 @@
     "nonpublicnote" : "Verlag; 1.1965/68 - 16.2000/01: Contents; 17.2002/03 -19.2006/07: Volltexte",
     "publicnote" : "kostenfrei"
   }, {
-    "publicnote" : "Volltext [kostenfrei]",
+    "publicNote" : "kostenfrei",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5333993100006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
-    "publicnote" : "Volltext [kostenfrei]",
+    "publicNote" : "kostenfrei",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5333993120006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -253,7 +253,7 @@
     "nonpublicnote" : "Verlag",
     "publicnote" : "kostenfrei"
   }, {
-    "publicnote" : "Volltext [kostenfrei]",
+    "publicNote" : "kostenfrei",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5335977570006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -320,8 +320,9 @@
     "uri" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2241653",
     "nonpublicnote" : "EZB"
   }, {
+    "coverageStatement" : "Available from 1867 volume: 1 issue: 1 until 1867 volume: 1 issue: 12.",
     "collectionIdentifier" : "619683300006444",
-    "publicnote" : "EZB-NALAS-00438 AAS Historical Periodicals 5 NL [Available from 1867 volume: 1 issue: 1 until 1867 volume: 1 issue: 12.]",
+    "collectionName" : "EZB-NALAS-00438 AAS Historical Periodicals 5 NL",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=539971760006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -379,8 +380,9 @@
     "name" : [ "American Antiquarian Society Historical Periodicals via EBSCO Host" ]
   } ],
   "OnlineAccess" : [ {
+    "coverageStatement" : "Available from 1866 volume: 1 issue: 2 until 1866 volume: 1 issue: 2.",
     "collectionIdentifier" : "619683300006444",
-    "publicnote" : "EZB-NALAS-00438 AAS Historical Periodicals 5 NL [Available from 1866 volume: 1 issue: 2 until 1866 volume: 1 issue: 2.]",
+    "collectionName" : "EZB-NALAS-00438 AAS Historical Periodicals 5 NL",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=539971820006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -878,12 +880,12 @@
   } ],
   "OnlineAccess" : [ {
     "collectionIdentifier" : "61219610220006441",
-    "publicnote" : "DOAB Directory of Open Access Books",
+    "collectionName" : "DOAB Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53220529730006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "61219610190006441",
-    "publicnote" : "JSTOR Books Open Access",
+    "collectionName" : "JSTOR Books Open Access",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53221949450006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -1019,7 +1021,7 @@
   } ],
   "OnlineAccess" : [ {
     "collectionIdentifier" : "619684530006444",
-    "publicnote" : "De Gruyter Basics Online",
+    "collectionName" : "De Gruyter Basics Online",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=539683590006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -1794,13 +1796,15 @@
     "verifyingPreferredISSN" : [ "20466072" ]
   } ],
   "OnlineAccess" : [ {
+    "coverageStatement" : "Available from 2011 volume: 1 until 2017.",
     "collectionIdentifier" : "6149679320006444",
-    "publicnote" : "EZB-NALFO-01634 Emerald BME eBook Series Archive AL [Available from 2011 volume: 1 until 2017.]",
+    "collectionName" : "EZB-NALFO-01634 Emerald BME eBook Series Archive AL",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5349876900006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
+    "coverageStatement" : "Available from 2011 volume: 1 until 2017.",
     "collectionIdentifier" : "6149679320006444",
-    "publicnote" : "EZB-NALFO-01634 Emerald BME eBook Series Archive AL [Available from 2011 volume: 1 until 2017.]",
+    "collectionName" : "EZB-NALFO-01634 Emerald BME eBook Series Archive AL",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5352070550006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -2095,7 +2099,7 @@
     "publicnote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "isInternalLinkFor" : "DE-A96"
   }, {
-    "publicnote" : "Volltext [Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)]",
+    "publicNote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5349657840006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -2915,7 +2919,7 @@
   } ],
   "OnlineAccess" : [ {
     "collectionIdentifier" : "6149677220006444",
-    "publicnote" : "Springer Natur - und Basiswissenschaften incl. Mathematik eBooks 2020 - German Language",
+    "collectionName" : "Springer Natur - und Basiswissenschaften incl. Mathematik eBooks 2020 - German Language",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5356526470006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -4067,7 +4071,8 @@
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Ebook Central Perpetual, DDA and Subscription Titles [ProQuest Ebook Central]",
+    "collectionName" : "Ebook Central Perpetual, DDA and Subscription Titles",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5387670440006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -4216,7 +4221,7 @@
     "nonpublicnote" : "Resolving-System"
   }, {
     "collectionIdentifier" : "61737816640006441",
-    "publicnote" : "Springer Technik, Informatik 2020 (ZDB-2-STI)",
+    "collectionName" : "Springer Technik, Informatik 2020",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53736556350006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -4345,8 +4350,10 @@
     "verifyingPreferredISSN" : [ "23277874" ]
   } ],
   "OnlineAccess" : [ {
+    "coverageStatement" : "Available from 01/03/2007 until 31/12/2011.",
     "collectionIdentifier" : "6185054320006444",
-    "publicnote" : "EBSCOhost Art & Architecture Source [Available from 01/03/2007 until 31/12/2011.; Ebsco Publishing]",
+    "collectionName" : "EBSCOhost Art & Architecture Source",
+    "licenseInfo" : "Ebsco Publishing",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5385153140006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -4469,13 +4476,16 @@
     "verifyingPreferredISSN" : [ "15222454" ]
   } ],
   "OnlineAccess" : [ {
+    "coverageStatement" : "Available from 1989 volume: 1 until 2005 volume: 17.",
     "collectionIdentifier" : "6185053060006444",
-    "publicnote" : "EZB-NALIA-00470 Wiley InterScience Backfile Collections NL [Available from 1989 volume: 1 until 2005 volume: 17.]",
+    "collectionName" : "EZB-NALIA-00470 Wiley InterScience Backfile Collections NL",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5385974320006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
+    "coverageStatement" : "Available from 2000 volume: 12.",
     "collectionIdentifier" : "6185051800006444",
-    "publicnote" : "Wiley DEAL [Available from 2000 volume: 12.; Wiley DEAL]",
+    "collectionName" : "Wiley DEAL",
+    "licenseInfo" : "Wiley DEAL",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5386526280006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -52097,7 +52107,7 @@
     "nonpublicnote" : "Verlag"
   }, {
     "collectionIdentifier" : "61737819320006441",
-    "publicnote" : "Beck online - Hochschulmodul (Books ZDB-18-BOH)",
+    "collectionName" : "Beck online - Hochschulmodul (Books ZDB-18-BOH)",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53733502240006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -52246,7 +52256,8 @@
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Ebook Central Perpetual, DDA and Subscription Titles [ProQuest Ebook Central]",
+    "collectionName" : "Ebook Central Perpetual, DDA and Subscription Titles",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5387272480006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -52381,8 +52392,10 @@
     "publicnote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "isInternalLinkFor" : "DE-A96"
   }, {
+    "publicNote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "collectionIdentifier" : "6188819570006444",
-    "publicnote" : "Wiley E-Books [Wiley; Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)]",
+    "collectionName" : "Wiley E-Books",
+    "licenseInfo" : "Wiley",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5384829470006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -53186,7 +53199,7 @@
     "publicnote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "isInternalLinkFor" : "DE-A96"
   }, {
-    "publicnote" : "Volltext [Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)]",
+    "publicNote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5384809920006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -53446,8 +53459,10 @@
     "publicnote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "isInternalLinkFor" : "DE-A96"
   }, {
+    "publicNote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "collectionIdentifier" : "6189799720006444",
-    "publicnote" : "Beck und Vahlen E-Books [Beck-eLibrary; Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)]",
+    "collectionName" : "Beck und Vahlen E-Books",
+    "licenseInfo" : "Beck-eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5384870740006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -53698,7 +53713,8 @@
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Ebook Central Perpetual, DDA and Subscription Titles [ProQuest Ebook Central]",
+    "collectionName" : "Ebook Central Perpetual, DDA and Subscription Titles",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5388533160006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -53863,7 +53879,8 @@
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Ebook Central Perpetual, DDA and Subscription Titles [ProQuest Ebook Central]",
+    "collectionName" : "Ebook Central Perpetual, DDA and Subscription Titles",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5387940280006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -53988,7 +54005,8 @@
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Ebook Central Perpetual, DDA and Subscription Titles [ProQuest Ebook Central]",
+    "collectionName" : "Ebook Central Perpetual, DDA and Subscription Titles",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5387115340006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -54127,7 +54145,8 @@
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Ebook Central Perpetual, DDA and Subscription Titles [ProQuest Ebook Central]",
+    "collectionName" : "Ebook Central Perpetual, DDA and Subscription Titles",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5388012650006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -54373,7 +54392,8 @@
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Ebook Central Perpetual, DDA and Subscription Titles [ProQuest Ebook Central]",
+    "collectionName" : "Ebook Central Perpetual, DDA and Subscription Titles",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5387528970006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -54508,7 +54528,8 @@
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Ebook Central Perpetual, DDA and Subscription Titles [ProQuest Ebook Central]",
+    "collectionName" : "Ebook Central Perpetual, DDA and Subscription Titles",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5387335380006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -54657,7 +54678,8 @@
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Ebook Central Perpetual, DDA and Subscription Titles [ProQuest Ebook Central]",
+    "collectionName" : "Ebook Central Perpetual, DDA and Subscription Titles",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5388248010006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -55039,7 +55061,8 @@
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Ebook Central Perpetual, DDA and Subscription Titles [ProQuest Ebook Central]",
+    "collectionName" : "Ebook Central Perpetual, DDA and Subscription Titles",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5388457640006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -55414,7 +55437,8 @@
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Ebook Central Perpetual, DDA and Subscription Titles [ProQuest Ebook Central]",
+    "collectionName" : "Ebook Central Perpetual, DDA and Subscription Titles",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5388219470006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -55692,7 +55716,8 @@
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Ebook Central Perpetual, DDA and Subscription Titles [ProQuest Ebook Central]",
+    "collectionName" : "Ebook Central Perpetual, DDA and Subscription Titles",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5387606250006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -55974,7 +55999,8 @@
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Ebook Central Perpetual, DDA and Subscription Titles [ProQuest Ebook Central]",
+    "collectionName" : "Ebook Central Perpetual, DDA and Subscription Titles",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5387402970006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -56240,7 +56266,8 @@
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Ebook Central Perpetual, DDA and Subscription Titles [ProQuest Ebook Central]",
+    "collectionName" : "Ebook Central Perpetual, DDA and Subscription Titles",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5387549210006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -56380,7 +56407,8 @@
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Ebook Central Perpetual, DDA and Subscription Titles [ProQuest Ebook Central]",
+    "collectionName" : "Ebook Central Perpetual, DDA and Subscription Titles",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5387147270006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -57894,8 +57922,9 @@
     "publicnote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "isInternalLinkFor" : "DE-A96"
   }, {
+    "publicNote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "collectionIdentifier" : "6188819670006444",
-    "publicnote" : "Taylor & Francis E-Books [Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)]",
+    "collectionName" : "Taylor & Francis E-Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5384973340006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -58041,8 +58070,9 @@
     "publicnote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "isInternalLinkFor" : "DE-A96"
   }, {
+    "publicNote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "collectionIdentifier" : "6188819670006444",
-    "publicnote" : "Taylor & Francis E-Books [Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)]",
+    "collectionName" : "Taylor & Francis E-Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5384927310006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -58207,8 +58237,9 @@
     "publicnote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "isInternalLinkFor" : "DE-A96"
   }, {
+    "publicNote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "collectionIdentifier" : "6188819670006444",
-    "publicnote" : "Taylor & Francis E-Books [Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)]",
+    "collectionName" : "Taylor & Francis E-Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5384921400006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -58499,12 +58530,12 @@
     "publicnote" : "DOAB: description of the publication"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53754025400006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53754025380006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -58799,12 +58830,12 @@
     "publicnote" : "DOAB: description of the publication"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53753928300006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53753928320006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -58900,12 +58931,12 @@
     "publicnote" : "DOAB: description of the publication"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53753920050006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53753920080006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -59001,12 +59032,12 @@
     "publicnote" : "DOAB: description of the publication"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53753426900006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53753426880006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -59242,8 +59273,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53728081820006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -59351,8 +59383,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53729942300006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -59457,8 +59490,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53736177960006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -59561,8 +59595,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53729029810006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -59665,8 +59700,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53729010970006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -59786,8 +59822,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53729047940006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -59895,8 +59932,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53712108190006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -59999,8 +60037,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53735170650006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -60098,8 +60137,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53720180150006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -60209,8 +60249,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53709331640006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -60315,8 +60356,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53711040210006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -60424,8 +60466,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53708200760006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -60537,8 +60580,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53707407610006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -60648,8 +60692,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53728170360006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -60756,8 +60801,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53730400790006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -60864,8 +60910,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53726543880006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -60968,8 +61015,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53726546970006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -61077,8 +61125,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53715086850006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -61178,8 +61227,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53727011410006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -61282,8 +61332,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53715620340006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -61386,8 +61437,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53726637190006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -61492,8 +61544,9 @@
     "publicnote" : "IMF e-Library",
     "relatedto" : "Volltext"
   }, {
+    "publicNote" : "IMF e-Library",
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF) [IMF e-Library]",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53737379620006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -61597,7 +61650,7 @@
     "relatedto" : "Volltext"
   }, {
     "collectionIdentifier" : "61737818260006441",
-    "publicnote" : "International Monetary Fund eLibrary (ZDB-1-IMF)",
+    "collectionName" : "International Monetary Fund eLibrary",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53720489590006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -61731,8 +61784,9 @@
     "publicnote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "isInternalLinkFor" : "DE-A96"
   }, {
+    "publicNote" : "Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)",
     "collectionIdentifier" : "6190039660006444",
-    "publicnote" : "Brill E-Books [Volltext: Zugriff nur im Hochschulnetz der FH Aachen oder im VPN (nur für Hochschulangehörige)]",
+    "collectionName" : "Brill E-Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5385014750006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -61854,8 +61908,9 @@
     "verifyingPreferredISSN" : [ "22285431" ]
   } ],
   "OnlineAccess" : [ {
+    "coverageStatement" : "Available from 2008.",
     "collectionIdentifier" : "6190456970006444",
-    "publicnote" : "DOAJ Directory of Open Access Journals - Not for CDI Discovery [Available from 2008.]",
+    "collectionName" : "DOAJ Directory of Open Access Journals - Not for CDI Discovery",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53102519390006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -62467,7 +62522,7 @@
   },
   "OnlineAccess" : [ {
     "collectionIdentifier" : "61738769560006444",
-    "publicnote" : "Preselect EBA bis 31.12.2023 (ZDB-605-Preselect)",
+    "collectionName" : "Preselect EBA bis 31.12.2023",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53703716030006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -62587,7 +62642,7 @@
   },
   "OnlineAccess" : [ {
     "collectionIdentifier" : "61738769560006441",
-    "publicnote" : "Preselect EBA bis 31.12.2023 (ZDB-605-Preselect)",
+    "collectionName" : "Preselect EBA bis 31.12.2023",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53703716010006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -62734,13 +62789,15 @@
     "verifyingPreferredISSN" : [ "00374474" ]
   } ],
   "OnlineAccess" : [ {
+    "coverageStatement" : "Available from 1960 volume: 1.",
     "collectionIdentifier" : "61102775010006444",
-    "publicnote" : "EZB-FREE-01830 free EZB journals Mathematics [Available from 1960 volume: 1.]",
+    "collectionName" : "EZB-FREE-01830 free EZB journals Mathematics",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53103172440006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
+    "coverageStatement" : "Available from 2000.",
     "collectionIdentifier" : "6190458260006444",
-    "publicnote" : "ROAD: Directory of Open Access Scholarly Resources [Available from 2000.]",
+    "collectionName" : "ROAD: Directory of Open Access Scholarly Resources",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5391676770006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -62869,12 +62926,13 @@
     "verifyingPreferredISSN" : [ "03619230" ]
   } ],
   "OnlineAccess" : [ {
-    "publicnote" : "Volltext [Available from 1976 volume: 1 issue: 1 until 2002 volume: 59 issue: 3.]",
+    "coverageStatement" : "Available from 1976 volume: 1 issue: 1 until 2002 volume: 59 issue: 3.",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5386222710006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
+    "coverageStatement" : "Available from 1976 volume: 1 issue: 1 until 2002 volume: 59 issue: 3.",
     "collectionIdentifier" : "6198918620006444",
-    "publicnote" : "EZB-NALI5-00465 Elsevier Archive NL [Available from 1976 volume: 1 issue: 1 until 2002 volume: 59 issue: 3.]",
+    "collectionName" : "EZB-NALI5-00465 Elsevier Archive NL",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5398956480006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -63047,7 +63105,7 @@
     "uri" : "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119788829"
   }, {
     "collectionIdentifier" : "61767497870006441",
-    "publicnote" : "Wiley eBooks EBA bis 31.12.2023 (ZDB-35-Wiley-EBA)",
+    "collectionName" : "Wiley eBooks EBA bis 31.12.2023",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53798390670006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -63157,12 +63215,12 @@
     "relatedto" : "Cover"
   }, {
     "collectionIdentifier" : "61738769180006441",
-    "publicnote" : "De Gruyter E-Books EBA bis 31.12.2023 (ZDB-23-DGG-eba)",
+    "collectionName" : "De Gruyter E-Books EBA bis 31.12.2023",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53816391610006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "61738769180006441",
-    "publicnote" : "De Gruyter E-Books EBA bis 31.12.2023 (ZDB-23-DGG-eba)",
+    "collectionName" : "De Gruyter E-Books EBA bis 31.12.2023",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53816391670006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -63626,7 +63684,7 @@
   } ],
   "OnlineAccess" : [ {
     "collectionIdentifier" : "61102074750006444",
-    "publicnote" : "OPUS-Volltexte",
+    "collectionName" : "OPUS-Volltexte",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53109755380006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -63912,18 +63970,21 @@
     "verifyingPreferredISSN" : [ "18153070" ]
   } ],
   "OnlineAccess" : [ {
+    "coverageStatement" : "Available from 2013 until 2017.",
     "collectionIdentifier" : "6190456970006444",
-    "publicnote" : "DOAJ [Available from 2013 until 2017.]",
+    "collectionName" : "DOAJ",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=5394880120006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
+    "coverageStatement" : "Available from 2013.",
     "collectionIdentifier" : "6190458260006444",
-    "publicnote" : "ROAD [Available from 2013.]",
+    "collectionName" : "ROAD",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53111886530006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
+    "coverageStatement" : "Available from 2012 volume: 24.",
     "collectionIdentifier" : "61119364730006444",
-    "publicnote" : "EZB-FREE-01851 free EZB journals Linguistics Literature [Available from 2012 volume: 24.]",
+    "collectionName" : "EZB-FREE-01851 free EZB journals Linguistics Literature",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53123016060006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -64075,22 +64136,22 @@
     "publicnote" : "DOAB: description of the publication"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53853482000006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53853482930006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53853482310006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "61737818980006441",
-    "publicnote" : "DOAB - Directory of Open Access Books (ZDB-94-OAB)",
+    "collectionName" : "DOAB - Directory of Open Access Books",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53853482230006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -64212,7 +64273,7 @@
   } ],
   "OnlineAccess" : [ {
     "collectionIdentifier" : "61119365150006444",
-    "publicnote" : "Miscellaneous Free eBooks",
+    "collectionName" : "Miscellaneous Free eBooks",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53121629420006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -64313,7 +64374,7 @@
     "publicnote" : "kostenfrei"
   }, {
     "collectionIdentifier" : "61908993950006441",
-    "publicnote" : "OERSI (ZDB-OERSI)",
+    "collectionName" : "OERSI",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53919889430006441&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -64461,7 +64522,7 @@
   } ],
   "OnlineAccess" : [ {
     "collectionIdentifier" : "61100682860006444",
-    "publicnote" : "Opus Abschlussarbeiten FB4",
+    "collectionName" : "Opus Abschlussarbeiten FB4",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53151045870006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
@@ -64736,12 +64797,13 @@
   } ],
   "OnlineAccess" : [ {
     "collectionIdentifier" : "61119365120006444",
-    "publicnote" : "OAPEN",
+    "collectionName" : "OAPEN",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53140919730006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   }, {
     "collectionIdentifier" : "6187069990006444",
-    "publicnote" : "Proquest [ProQuest Ebook Central]",
+    "collectionName" : "Proquest",
+    "licenseInfo" : "ProQuest Ebook Central",
     "uri" : "https://eu04.alma.exlibrisgroup.com/view/uresolver/49HBZ_FHA/openurl?u.ignore_date_coverage=true&portfolio_pid=53139264070006444&Force_direct=true",
     "isInternalLinkFor" : "DE-A96"
   } ],
