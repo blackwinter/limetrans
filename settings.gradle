@@ -16,7 +16,7 @@ gradle.rootProject {
             commons_cli:    '1.11.0',
             elasticsearch:  '9',
             elasticsearch8: '8.19.16',
-            elasticsearch9: '9.4.1',
+            elasticsearch9: '9.4.2',
             htsjdk:         '5.0.0',
             jackson:        '2.21.2',
             jdk:            '25',
